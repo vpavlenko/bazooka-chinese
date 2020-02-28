@@ -3617,7 +3617,7 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "Belgium",
+              "t": "compared_to",
               "w": "比"
             }
           ]
@@ -4115,7 +4115,7 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "quilt",
+              "t": "to_cover",
               "w": "被"
             }
           ]
@@ -4133,7 +4133,7 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "top",
+              "t": "cover",
               "w": "盖"
             }
           ]
@@ -5223,7 +5223,7 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "drawing_room",
+              "t": "living_room",
               "w": "客厅"
             }
           ]
@@ -5242,7 +5242,7 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "drawing_room",
+              "t": "living_room",
               "w": "客厅"
             }
           ]
@@ -5765,11 +5765,11 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "take_a_step",
+              "t": "MI",
               "w": "迈"
             },
             {
-              "t": "be_able_to",
+              "t": "CHAEL",
               "w": "克"
             }
           ]
@@ -5787,12 +5787,8 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "respect",
-              "w": "佩"
-            },
-            {
-              "t": "girl",
-              "w": "妮"
+              "t": "Petunia",
+              "w": "佩妮"
             }
           ]
         ],
@@ -6001,12 +5997,8 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "respect",
-              "w": "佩"
-            },
-            {
-              "t": "girl",
-              "w": "妮"
+              "t": "Petunia",
+              "w": "佩妮"
             }
           ]
         ],
@@ -6249,11 +6241,11 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "take_a_step",
+              "t": "MI",
               "w": "迈"
             },
             {
-              "t": "be_able_to",
+              "t": "CHAEL",
               "w": "克"
             }
           ]
@@ -6390,7 +6382,7 @@ export const CHAPTER: Chapter = {
               "w": "来"
             },
             {
-              "t": "cross",
+              "t": "PAST",
               "w": "过"
             }
           ]
@@ -6453,7 +6445,7 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "leave",
+              "t": "don't!",
               "w": "别"
             }
           ]
@@ -6462,7 +6454,7 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "press_charges",
+              "t": "tell",
               "w": "告诉"
             }
           ]
@@ -6488,12 +6480,8 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "respect",
-              "w": "佩"
-            },
-            {
-              "t": "girl",
-              "w": "妮"
+              "t": "Petunia",
+              "w": "佩妮"
             }
           ]
         ],
@@ -6594,7 +6582,7 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "cross",
+              "t": "PAST",
               "w": "过"
             }
           ]
@@ -7419,12 +7407,8 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "respect",
-              "w": "佩"
-            },
-            {
-              "t": "girl",
-              "w": "妮"
+              "t": "Petunia",
+              "w": "佩妮"
             }
           ]
         ],
@@ -7652,11 +7636,11 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "take_a_step",
+              "t": "MI",
               "w": "迈"
             },
             {
-              "t": "be_able_to",
+              "t": "CHAEL",
               "w": "克"
             }
           ]
@@ -7890,11 +7874,11 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "jasmine",
+              "t": "LI",
               "w": "莉"
             },
             {
-              "t": "jasmine",
+              "t": "LI",
               "w": "莉"
             }
           ]
@@ -8058,11 +8042,11 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "jasmine",
+              "t": "LI",
               "w": "莉"
             },
             {
-              "t": "jasmine",
+              "t": "LI",
               "w": "莉"
             }
           ]
@@ -8080,7 +8064,7 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "Belgium",
+              "t": "compared_to",
               "w": "比"
             }
           ]
@@ -8566,12 +8550,8 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "respect",
-              "w": "佩"
-            },
-            {
-              "t": "girl",
-              "w": "妮"
+              "t": "Petunia",
+              "w": "佩妮"
             }
           ]
         ],
@@ -8651,11 +8631,11 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "jasmine",
+              "t": "LI",
               "w": "莉"
             },
             {
-              "t": "jasmine",
+              "t": "LI",
               "w": "莉"
             }
           ]
@@ -9965,12 +9945,8 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "respect",
-              "w": "佩"
-            },
-            {
-              "t": "girl",
-              "w": "妮"
+              "t": "Petunia",
+              "w": "佩妮"
             }
           ]
         ],
@@ -10027,12 +10003,8 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "respect",
-              "w": "佩"
-            },
-            {
-              "t": "girl",
-              "w": "妮"
+              "t": "Petunia",
+              "w": "佩妮"
             }
           ]
         ],
@@ -10106,7 +10078,7 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "press_charges",
+              "t": "tell",
               "w": "告诉"
             }
           ]
@@ -10902,11 +10874,11 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "take_a_step",
+              "t": "MI",
               "w": "迈"
             },
             {
-              "t": "be_able_to",
+              "t": "CHAEL",
               "w": "克"
             }
           ]
@@ -11280,12 +11252,8 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "respect",
-              "w": "佩"
-            },
-            {
-              "t": "girl",
-              "w": "妮"
+              "t": "Petunia",
+              "w": "佩妮"
             }
           ]
         ],
@@ -11346,7 +11314,7 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "cross",
+              "t": "PAST",
               "w": "过"
             }
           ]
@@ -11382,12 +11350,8 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "respect",
-              "w": "佩"
-            },
-            {
-              "t": "girl",
-              "w": "妮"
+              "t": "Petunia",
+              "w": "佩妮"
             }
           ]
         ],
@@ -11403,11 +11367,11 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "take_a_step",
+              "t": "MI",
               "w": "迈"
             },
             {
-              "t": "be_able_to",
+              "t": "CHAEL",
               "w": "克"
             }
           ]
@@ -11644,8 +11608,12 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "NOT_FOUND",
-              "w": "佩妮绞"
+              "t": "Petunia",
+              "w": "佩妮"
+            },
+            {
+              "t": "twist",
+              "w": "绞"
             }
           ]
         ],
@@ -11799,7 +11767,7 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "cross",
+              "t": "PAST",
               "w": "过"
             }
           ]
@@ -12358,12 +12326,8 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "respect",
-              "w": "佩"
-            },
-            {
-              "t": "girl",
-              "w": "妮"
+              "t": "Petunia",
+              "w": "佩妮"
             }
           ]
         ],
@@ -12452,11 +12416,11 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "jasmine",
+              "t": "LI",
               "w": "莉"
             },
             {
-              "t": "jasmine",
+              "t": "LI",
               "w": "莉"
             }
           ]
@@ -12900,8 +12864,12 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "NOT_FOUND",
-              "w": "佩妮瞥"
+              "t": "Petunia",
+              "w": "佩妮"
+            },
+            {
+              "t": "shoot_a_glance",
+              "w": "瞥"
             }
           ]
         ],
@@ -12936,11 +12904,11 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "take_a_step",
+              "t": "MI",
               "w": "迈"
             },
             {
-              "t": "be_able_to",
+              "t": "CHAEL",
               "w": "克"
             }
           ]
@@ -13903,7 +13871,7 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "cross",
+              "t": "PAST",
               "w": "过"
             }
           ]
@@ -14504,7 +14472,7 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "Belgium",
+              "t": "compared_to",
               "w": "比"
             }
           ]
@@ -14607,7 +14575,7 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "quilt",
+              "t": "to_cover",
               "w": "被"
             }
           ]
@@ -18039,7 +18007,7 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "leave",
+              "t": "don't!",
               "w": "别"
             }
           ]
@@ -18673,7 +18641,7 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "cross",
+              "t": "PAST",
               "w": "过"
             }
           ]
@@ -19549,7 +19517,7 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "Belgium",
+              "t": "compared_to",
               "w": "比"
             }
           ]
@@ -20150,7 +20118,7 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "cross",
+              "t": "PAST",
               "w": "过"
             }
           ]
@@ -20592,7 +20560,7 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "quilt",
+              "t": "to_cover",
               "w": "被"
             }
           ]
@@ -22750,7 +22718,7 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "cross",
+              "t": "PAST",
               "w": "过"
             }
           ]
@@ -22781,7 +22749,7 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "quilt",
+              "t": "to_cover",
               "w": "被"
             }
           ]
@@ -22790,11 +22758,11 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "jasmine",
+              "t": "LI",
               "w": "莉"
             },
             {
-              "t": "jasmine",
+              "t": "LI",
               "w": "莉"
             }
           ]
@@ -23112,12 +23080,8 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "respect",
-              "w": "佩"
-            },
-            {
-              "t": "girl",
-              "w": "妮"
+              "t": "Petunia",
+              "w": "佩妮"
             }
           ]
         ],
@@ -23152,7 +23116,7 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "cross",
+              "t": "PAST",
               "w": "过"
             }
           ]
@@ -24856,7 +24820,7 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "drawing_room",
+              "t": "living_room",
               "w": "客厅"
             }
           ]
@@ -25758,7 +25722,7 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "cross",
+              "t": "PAST",
               "w": "过"
             }
           ]
@@ -27832,7 +27796,7 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "Belgium",
+              "t": "compared_to",
               "w": "比"
             }
           ]
@@ -28398,7 +28362,7 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "Belgium",
+              "t": "compared_to",
               "w": "比"
             }
           ]
@@ -29107,7 +29071,7 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "quilt",
+              "t": "to_cover",
               "w": "被"
             }
           ]
@@ -29920,7 +29884,7 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "quilt",
+              "t": "to_cover",
               "w": "被"
             }
           ]
@@ -31570,4 +31534,4 @@ export const CHAPTER: Chapter = {
       ]
     }
   ]
-};
+}
