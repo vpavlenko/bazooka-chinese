@@ -53,5 +53,5 @@ def get_translation(word):
         # Also may make sense to code other partitions like 1-1-1, 1-2-1.
         translation = [T(word[:3]), T(word[3:])]
     else:
-        translation = [{'w': word, 't': 'NOT_FOUND'}]
+        translation = [{'w': word, 't': '..'}]
     return translation
