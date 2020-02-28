@@ -6,7 +6,7 @@ export type CharacterArray = {
 }[];
 
 type Translation =
-  | ["translation_word", CharacterArray]
+  | ["translation_word", CharacterArray, string]
   | ["punctuation", string];
 
 type Line = {

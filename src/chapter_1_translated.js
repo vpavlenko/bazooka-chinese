@@ -1,6 +1,6 @@
 import { Chapter } from "./types";
 
-export const CHAPTER: Chapter = {
+export const CHAPTER = {
   "frequencies": [
     [
       "的",
@@ -3535,7 +3535,8 @@ export const CHAPTER: Chapter = {
               "t": "moonlight",
               "w": "月光"
             }
-          ]
+          ],
+          "moonlight"
         ],
         [
           "translation_word",
@@ -3544,7 +3545,8 @@ export const CHAPTER: Chapter = {
               "t": "down",
               "w": "下"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -3553,7 +3555,8 @@ export const CHAPTER: Chapter = {
               "t": "have",
               "w": "有"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -3562,7 +3565,8 @@ export const CHAPTER: Chapter = {
               "t": "one",
               "w": "一"
             }
-          ]
+          ],
+          "a"
         ],
         [
           "translation_word",
@@ -3571,7 +3575,8 @@ export const CHAPTER: Chapter = {
               "t": "road",
               "w": "道"
             }
-          ]
+          ],
+          "line"
         ],
         [
           "translation_word",
@@ -3580,7 +3585,8 @@ export const CHAPTER: Chapter = {
               "t": "tiny",
               "w": "细小"
             }
-          ]
+          ],
+          "tiny"
         ],
         [
           "translation_word",
@@ -3589,7 +3595,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -3598,7 +3605,8 @@ export const CHAPTER: Chapter = {
               "t": "silver",
               "w": "银色"
             }
-          ]
+          ],
+          "silver"
         ],
         [
           "translation_word",
@@ -3607,7 +3615,8 @@ export const CHAPTER: Chapter = {
               "t": "flash",
               "w": "闪光"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -3620,7 +3629,8 @@ export const CHAPTER: Chapter = {
               "t": "compared_to",
               "w": "比"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -3629,7 +3639,8 @@ export const CHAPTER: Chapter = {
               "t": "hair",
               "w": "发丝"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -3638,7 +3649,8 @@ export const CHAPTER: Chapter = {
               "t": "still",
               "w": "还"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -3647,15 +3659,18 @@ export const CHAPTER: Chapter = {
               "t": "thin_or_slender",
               "w": "细"
             }
-          ]
+          ],
+          "fraction"
         ],
         [
-          "punctuation",
-          "…"
-        ],
-        [
-          "punctuation",
-          "…"
+          "translation_word",
+          [
+            {
+              "t": "..",
+              "w": "……"
+            }
+          ],
+          ""
         ]
       ]
     },
@@ -3674,7 +3689,8 @@ export const CHAPTER: Chapter = {
               "t": "wear",
               "w": "穿"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -3683,7 +3699,8 @@ export const CHAPTER: Chapter = {
               "t": "-ing",
               "w": "着"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -3692,7 +3709,8 @@ export const CHAPTER: Chapter = {
               "t": "black",
               "w": "黑色"
             }
-          ]
+          ],
+          "black"
         ],
         [
           "translation_word",
@@ -3701,7 +3719,8 @@ export const CHAPTER: Chapter = {
               "t": "Chinese-style_gown",
               "w": "袍子"
             }
-          ]
+          ],
+          "robes"
         ],
         [
           "translation_word",
@@ -3710,7 +3729,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -3719,7 +3739,8 @@ export const CHAPTER: Chapter = {
               "t": "silhouette",
               "w": "身影"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -3732,7 +3753,8 @@ export const CHAPTER: Chapter = {
               "t": "collapse",
               "w": "倒下"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -3745,12 +3767,14 @@ export const CHAPTER: Chapter = {
       "english_source": "<p>\n <em>\n  ...blood spills out in litres, and someone screams a\nword.\n </em>\n</p>\n",
       "translation": [
         [
-          "punctuation",
-          "…"
-        ],
-        [
-          "punctuation",
-          "…"
+          "translation_word",
+          [
+            {
+              "t": "..",
+              "w": "……"
+            }
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -3759,7 +3783,8 @@ export const CHAPTER: Chapter = {
               "t": "blood",
               "w": "鲜血"
             }
-          ]
+          ],
+          "blood"
         ],
         [
           "translation_word",
@@ -3768,7 +3793,8 @@ export const CHAPTER: Chapter = {
               "t": "great_amount",
               "w": "大量"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -3781,7 +3807,8 @@ export const CHAPTER: Chapter = {
               "t": "go_out",
               "w": "出"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -3794,7 +3821,8 @@ export const CHAPTER: Chapter = {
               "t": "someone",
               "w": "有人"
             }
-          ]
+          ],
+          "someone"
         ],
         [
           "translation_word",
@@ -3803,7 +3831,8 @@ export const CHAPTER: Chapter = {
               "t": "screech",
               "w": "尖叫"
             }
-          ]
+          ],
+          "screams"
         ],
         [
           "translation_word",
@@ -3812,7 +3841,8 @@ export const CHAPTER: Chapter = {
               "t": "go_out",
               "w": "出"
             }
-          ]
+          ],
+          "out"
         ],
         [
           "translation_word",
@@ -3825,7 +3855,8 @@ export const CHAPTER: Chapter = {
               "t": "individual",
               "w": "个"
             }
-          ]
+          ],
+          "a"
         ],
         [
           "translation_word",
@@ -3834,7 +3865,8 @@ export const CHAPTER: Chapter = {
               "t": "word",
               "w": "词"
             }
-          ]
+          ],
+          "word"
         ],
         [
           "punctuation",
@@ -3847,196 +3879,14 @@ export const CHAPTER: Chapter = {
       "english_source": "<p>\n <hr noshade=\"noshade\" size=\"1\"/>\n</p>\n",
       "translation": [
         [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
-        ],
-        [
-          "punctuation",
-          "-"
+          "translation_word",
+          [
+            {
+              "t": "..",
+              "w": "------------------------------------------------"
+            }
+          ],
+          ""
         ]
       ]
     },
@@ -4055,7 +3905,8 @@ export const CHAPTER: Chapter = {
               "t": "above",
               "w": "上"
             }
-          ]
+          ],
+          "wall"
         ],
         [
           "translation_word",
@@ -4064,7 +3915,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -4073,7 +3925,8 @@ export const CHAPTER: Chapter = {
               "t": "each",
               "w": "每"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -4082,7 +3935,8 @@ export const CHAPTER: Chapter = {
               "t": "one",
               "w": "一"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -4091,7 +3945,8 @@ export const CHAPTER: Chapter = {
               "t": "inch",
               "w": "寸"
             }
-          ]
+          ],
+          "inch"
         ],
         [
           "translation_word",
@@ -4100,7 +3955,8 @@ export const CHAPTER: Chapter = {
               "t": "space",
               "w": "空间"
             }
-          ]
+          ],
+          "space"
         ],
         [
           "translation_word",
@@ -4109,7 +3965,8 @@ export const CHAPTER: Chapter = {
               "t": "all",
               "w": "都"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -4118,7 +3975,8 @@ export const CHAPTER: Chapter = {
               "t": "to_cover",
               "w": "被"
             }
-          ]
+          ],
+          "by"
         ],
         [
           "translation_word",
@@ -4127,7 +3985,8 @@ export const CHAPTER: Chapter = {
               "t": "bookshelf",
               "w": "书架"
             }
-          ]
+          ],
+          "bookcase"
         ],
         [
           "translation_word",
@@ -4136,7 +3995,8 @@ export const CHAPTER: Chapter = {
               "t": "cover",
               "w": "盖"
             }
-          ]
+          ],
+          "covered"
         ],
         [
           "translation_word",
@@ -4145,7 +4005,8 @@ export const CHAPTER: Chapter = {
               "t": "live",
               "w": "住"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -4154,7 +4015,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -4171,7 +4033,8 @@ export const CHAPTER: Chapter = {
               "t": "individual",
               "w": "个"
             }
-          ]
+          ],
+          "everything"
         ],
         [
           "translation_word",
@@ -4180,7 +4043,8 @@ export const CHAPTER: Chapter = {
               "t": "bookshelf",
               "w": "书架"
             }
-          ]
+          ],
+          "shelves"
         ],
         [
           "translation_word",
@@ -4189,7 +4053,8 @@ export const CHAPTER: Chapter = {
               "t": "have",
               "w": "有"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -4198,7 +4063,8 @@ export const CHAPTER: Chapter = {
               "t": "six",
               "w": "六"
             }
-          ]
+          ],
+          "six"
         ],
         [
           "translation_word",
@@ -4207,7 +4073,8 @@ export const CHAPTER: Chapter = {
               "t": "layer",
               "w": "层"
             }
-          ]
+          ],
+          "layers"
         ],
         [
           "punctuation",
@@ -4220,7 +4087,8 @@ export const CHAPTER: Chapter = {
               "t": "almost",
               "w": "几乎"
             }
-          ]
+          ],
+          "almost"
         ],
         [
           "translation_word",
@@ -4229,7 +4097,8 @@ export const CHAPTER: Chapter = {
               "t": "come_across",
               "w": "碰到"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -4238,7 +4107,8 @@ export const CHAPTER: Chapter = {
               "t": "ceiling",
               "w": "天花板"
             }
-          ]
+          ],
+          "ceiling"
         ],
         [
           "punctuation",
@@ -4251,7 +4121,8 @@ export const CHAPTER: Chapter = {
               "t": "some",
               "w": "有的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -4260,7 +4131,8 @@ export const CHAPTER: Chapter = {
               "t": "bookshelf",
               "w": "书架"
             }
-          ]
+          ],
+          "bookshelves"
         ],
         [
           "translation_word",
@@ -4269,7 +4141,8 @@ export const CHAPTER: Chapter = {
               "t": "above",
               "w": "上"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -4282,7 +4155,8 @@ export const CHAPTER: Chapter = {
               "t": "-ly",
               "w": "地"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -4291,7 +4165,8 @@ export const CHAPTER: Chapter = {
               "t": "pile_up",
               "w": "堆"
             }
-          ]
+          ],
+          "stacked"
         ],
         [
           "translation_word",
@@ -4300,7 +4175,8 @@ export const CHAPTER: Chapter = {
               "t": "-ing",
               "w": "着"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -4309,7 +4185,8 @@ export const CHAPTER: Chapter = {
               "t": "hardcover",
               "w": "精装"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -4318,7 +4195,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -4331,7 +4209,8 @@ export const CHAPTER: Chapter = {
               "t": "book",
               "w": "册"
             }
-          ]
+          ],
+          "books"
         ],
         [
           "punctuation",
@@ -4344,7 +4223,8 @@ export const CHAPTER: Chapter = {
               "t": "science",
               "w": "科学"
             }
-          ]
+          ],
+          "science"
         ],
         [
           "punctuation",
@@ -4357,7 +4237,8 @@ export const CHAPTER: Chapter = {
               "t": "mathematics",
               "w": "数学"
             }
-          ]
+          ],
+          "maths"
         ],
         [
           "punctuation",
@@ -4370,7 +4251,8 @@ export const CHAPTER: Chapter = {
               "t": "history",
               "w": "历史"
             }
-          ]
+          ],
+          "history"
         ],
         [
           "punctuation",
@@ -4383,7 +4265,8 @@ export const CHAPTER: Chapter = {
               "t": "various_kinds",
               "w": "各种各样"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -4396,7 +4279,8 @@ export const CHAPTER: Chapter = {
               "t": "other",
               "w": "其他"
             }
-          ]
+          ],
+          "else"
         ],
         [
           "translation_word",
@@ -4405,7 +4289,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -4414,7 +4299,8 @@ export const CHAPTER: Chapter = {
               "t": "bookshelf",
               "w": "书架"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -4423,7 +4309,8 @@ export const CHAPTER: Chapter = {
               "t": "divide",
               "w": "分"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -4432,7 +4319,8 @@ export const CHAPTER: Chapter = {
               "t": "two",
               "w": "两"
             }
-          ]
+          ],
+          "two"
         ],
         [
           "translation_word",
@@ -4441,7 +4329,8 @@ export const CHAPTER: Chapter = {
               "t": "layer",
               "w": "层"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -4450,7 +4339,8 @@ export const CHAPTER: Chapter = {
               "t": "put",
               "w": "放"
             }
-          ]
+          ],
+          "back"
         ],
         [
           "translation_word",
@@ -4459,7 +4349,8 @@ export const CHAPTER: Chapter = {
               "t": "-ing",
               "w": "着"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -4468,7 +4359,8 @@ export const CHAPTER: Chapter = {
               "t": "paperback",
               "w": "平装本"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -4477,7 +4369,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -4486,7 +4379,8 @@ export const CHAPTER: Chapter = {
               "t": "science_fiction_novel",
               "w": "科幻小说"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -4499,7 +4393,8 @@ export const CHAPTER: Chapter = {
               "t": "rear",
               "w": "后面"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -4508,7 +4403,8 @@ export const CHAPTER: Chapter = {
               "t": "one",
               "w": "一"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -4517,7 +4413,8 @@ export const CHAPTER: Chapter = {
               "t": "layer",
               "w": "层"
             }
-          ]
+          ],
+          "layer"
         ],
         [
           "translation_word",
@@ -4526,7 +4423,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -4539,7 +4437,8 @@ export const CHAPTER: Chapter = {
               "t": "use",
               "w": "用"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -4548,7 +4447,8 @@ export const CHAPTER: Chapter = {
               "t": "old",
               "w": "旧"
             }
-          ]
+          ],
+          "old"
         ],
         [
           "translation_word",
@@ -4557,7 +4457,8 @@ export const CHAPTER: Chapter = {
               "t": "paper_towel",
               "w": "纸巾"
             }
-          ]
+          ],
+          "tissue"
         ],
         [
           "translation_word",
@@ -4566,7 +4467,8 @@ export const CHAPTER: Chapter = {
               "t": "box",
               "w": "盒子"
             }
-          ]
+          ],
+          "boxes"
         ],
         [
           "translation_word",
@@ -4575,7 +4477,8 @@ export const CHAPTER: Chapter = {
               "t": "or",
               "w": "或者"
             }
-          ]
+          ],
+          "or"
         ],
         [
           "translation_word",
@@ -4584,7 +4487,8 @@ export const CHAPTER: Chapter = {
               "t": "block",
               "w": "木块"
             }
-          ]
+          ],
+          "wood"
         ],
         [
           "translation_word",
@@ -4593,7 +4497,8 @@ export const CHAPTER: Chapter = {
               "t": "pad",
               "w": "垫"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -4602,7 +4507,8 @@ export const CHAPTER: Chapter = {
               "t": "stand_up",
               "w": "起来"
             }
-          ]
+          ],
+          "up"
         ],
         [
           "punctuation",
@@ -4615,7 +4521,8 @@ export const CHAPTER: Chapter = {
               "t": "so_that",
               "w": "以便"
             }
-          ]
+          ],
+          "so"
         ],
         [
           "translation_word",
@@ -4624,7 +4531,8 @@ export const CHAPTER: Chapter = {
               "t": "cross_over",
               "w": "越过"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -4637,7 +4545,8 @@ export const CHAPTER: Chapter = {
               "t": "a_row",
               "w": "排"
             }
-          ]
+          ],
+          "front"
         ],
         [
           "translation_word",
@@ -4646,7 +4555,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -4655,7 +4565,8 @@ export const CHAPTER: Chapter = {
               "t": "book",
               "w": "书"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -4664,16 +4575,18 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "能"
             }
-          ]
+          ],
+          "can"
         ],
         [
           "translation_word",
           [
             {
-              "t": "NOT_FOUND",
+              "t": "..",
               "w": "看到"
             }
-          ]
+          ],
+          "see"
         ],
         [
           "translation_word",
@@ -4682,7 +4595,8 @@ export const CHAPTER: Chapter = {
               "t": "the_back_row",
               "w": "后排"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -4691,7 +4605,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -4700,7 +4615,8 @@ export const CHAPTER: Chapter = {
               "t": "name_of_a_book",
               "w": "书名"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -4713,7 +4629,8 @@ export const CHAPTER: Chapter = {
               "t": "but",
               "w": "但是"
             }
-          ]
+          ],
+          "enough"
         ],
         [
           "translation_word",
@@ -4722,7 +4639,8 @@ export const CHAPTER: Chapter = {
               "t": "still",
               "w": "还"
             }
-          ]
+          ],
+          "still"
         ],
         [
           "translation_word",
@@ -4731,7 +4649,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -4740,7 +4659,8 @@ export const CHAPTER: Chapter = {
               "t": "put",
               "w": "放"
             }
-          ]
+          ],
+          "onto"
         ],
         [
           "translation_word",
@@ -4749,7 +4669,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "不"
             }
-          ]
+          ],
+          "n't"
         ],
         [
           "translation_word",
@@ -4758,7 +4679,8 @@ export const CHAPTER: Chapter = {
               "t": "down",
               "w": "下"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -4771,7 +4693,8 @@ export const CHAPTER: Chapter = {
               "t": "book",
               "w": "书"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -4780,7 +4703,8 @@ export const CHAPTER: Chapter = {
               "t": "from",
               "w": "从"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -4789,7 +4713,8 @@ export const CHAPTER: Chapter = {
               "t": "bookshelf",
               "w": "书架"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -4798,7 +4723,8 @@ export const CHAPTER: Chapter = {
               "t": "above",
               "w": "上"
             }
-          ]
+          ],
+          "above"
         ],
         [
           "translation_word",
@@ -4807,7 +4733,8 @@ export const CHAPTER: Chapter = {
               "t": "fill",
               "w": "满"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -4816,7 +4743,8 @@ export const CHAPTER: Chapter = {
               "t": "come_out",
               "w": "出来"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -4829,16 +4757,18 @@ export const CHAPTER: Chapter = {
               "t": "overflow",
               "w": "溢"
             }
-          ]
+          ],
+          "overflowing"
         ],
         [
           "translation_word",
           [
             {
-              "t": "NOT_FOUND",
+              "t": "..",
               "w": "到"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -4847,7 +4777,8 @@ export const CHAPTER: Chapter = {
               "t": "table",
               "w": "桌子"
             }
-          ]
+          ],
+          "tables"
         ],
         [
           "translation_word",
@@ -4856,7 +4787,8 @@ export const CHAPTER: Chapter = {
               "t": "and",
               "w": "和"
             }
-          ]
+          ],
+          "and"
         ],
         [
           "translation_word",
@@ -4865,7 +4797,8 @@ export const CHAPTER: Chapter = {
               "t": "sofa",
               "w": "沙发"
             }
-          ]
+          ],
+          "sofas"
         ],
         [
           "translation_word",
@@ -4874,7 +4807,8 @@ export const CHAPTER: Chapter = {
               "t": "above",
               "w": "上"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -4887,7 +4821,8 @@ export const CHAPTER: Chapter = {
               "t": "again",
               "w": "又"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -4896,7 +4831,8 @@ export const CHAPTER: Chapter = {
               "t": "at",
               "w": "在"
             }
-          ]
+          ],
+          "under"
         ],
         [
           "translation_word",
@@ -4905,7 +4841,8 @@ export const CHAPTER: Chapter = {
               "t": "window",
               "w": "窗户"
             }
-          ]
+          ],
+          "windows"
         ],
         [
           "translation_word",
@@ -4914,7 +4851,8 @@ export const CHAPTER: Chapter = {
               "t": "under",
               "w": "下边"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -4927,7 +4865,8 @@ export const CHAPTER: Chapter = {
               "t": "succeed",
               "w": "成"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -4936,7 +4875,8 @@ export const CHAPTER: Chapter = {
               "t": "one",
               "w": "一"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -4949,7 +4889,8 @@ export const CHAPTER: Chapter = {
               "t": "pile_up",
               "w": "堆"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -4958,7 +4899,8 @@ export const CHAPTER: Chapter = {
               "t": "one",
               "w": "一"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -4967,7 +4909,8 @@ export const CHAPTER: Chapter = {
               "t": "small",
               "w": "小"
             }
-          ]
+          ],
+          "little"
         ],
         [
           "translation_word",
@@ -4976,7 +4919,8 @@ export const CHAPTER: Chapter = {
               "t": "pile_up",
               "w": "堆"
             }
-          ]
+          ],
+          "heaps"
         ],
         [
           "translation_word",
@@ -4985,7 +4929,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -5004,7 +4949,8 @@ export const CHAPTER: Chapter = {
               "t": "here",
               "w": "这里"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5013,7 +4959,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          "is"
         ],
         [
           "translation_word",
@@ -5022,7 +4969,8 @@ export const CHAPTER: Chapter = {
               "t": "a_person_of_virtue_and_prestige",
               "w": "德高望重"
             }
-          ]
+          ],
+          "eminent"
         ],
         [
           "translation_word",
@@ -5031,7 +4979,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5040,20 +4989,18 @@ export const CHAPTER: Chapter = {
               "t": "professor",
               "w": "教授"
             }
-          ]
-        ],
-        [
-          "punctuation",
-          "－"
+          ],
+          ""
         ],
         [
           "translation_word",
           [
             {
-              "t": "Evans",
-              "w": "伊万"
+              "t": "NAME?",
+              "w": "迈克·维瑞斯－伊万"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5062,7 +5009,8 @@ export const CHAPTER: Chapter = {
               "t": "S",
               "w": "斯"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -5075,7 +5023,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          "his"
         ],
         [
           "translation_word",
@@ -5084,7 +5033,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5093,7 +5043,8 @@ export const CHAPTER: Chapter = {
               "t": "lady",
               "w": "夫人"
             }
-          ]
+          ],
+          "wife"
         ],
         [
           "translation_word",
@@ -5102,20 +5053,18 @@ export const CHAPTER: Chapter = {
               "t": "Penny-Evans",
               "w": "佩妮·伊万"
             }
-          ]
-        ],
-        [
-          "punctuation",
-          "－"
+          ],
+          ""
         ],
         [
           "translation_word",
           [
             {
-              "t": "Verres",
-              "w": "维瑞斯"
+              "t": "..",
+              "w": "斯－维瑞斯"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -5128,7 +5077,8 @@ export const CHAPTER: Chapter = {
               "t": "and",
               "w": "和"
             }
-          ]
+          ],
+          "and"
         ],
         [
           "translation_word",
@@ -5137,7 +5087,8 @@ export const CHAPTER: Chapter = {
               "t": "they",
               "w": "他们"
             }
-          ]
+          ],
+          "their"
         ],
         [
           "translation_word",
@@ -5146,7 +5097,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5155,7 +5107,8 @@ export const CHAPTER: Chapter = {
               "t": "adopted_son",
               "w": "养子"
             }
-          ]
+          ],
+          "son"
         ],
         [
           "translation_word",
@@ -5164,7 +5117,8 @@ export const CHAPTER: Chapter = {
               "t": "Harry",
               "w": "哈利"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5173,7 +5127,8 @@ export const CHAPTER: Chapter = {
               "t": "·",
               "w": "·"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5182,11 +5137,8 @@ export const CHAPTER: Chapter = {
               "t": "James_Potter",
               "w": "詹姆·波特"
             }
-          ]
-        ],
-        [
-          "punctuation",
-          "－"
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -5196,10 +5148,11 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "Verres",
-              "w": "维瑞斯"
+              "t": "..",
+              "w": "伊万斯－维瑞斯"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5208,7 +5161,8 @@ export const CHAPTER: Chapter = {
               "t": "home_;_family",
               "w": "家"
             }
-          ]
+          ],
+          "house"
         ],
         [
           "translation_word",
@@ -5217,7 +5171,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5226,7 +5181,8 @@ export const CHAPTER: Chapter = {
               "t": "living_room",
               "w": "客厅"
             }
-          ]
+          ],
+          "living-room"
         ],
         [
           "punctuation",
@@ -5245,7 +5201,8 @@ export const CHAPTER: Chapter = {
               "t": "living_room",
               "w": "客厅"
             }
-          ]
+          ],
+          "living-room"
         ],
         [
           "translation_word",
@@ -5254,7 +5211,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5263,7 +5221,8 @@ export const CHAPTER: Chapter = {
               "t": "table",
               "w": "桌子"
             }
-          ]
+          ],
+          "table"
         ],
         [
           "translation_word",
@@ -5272,7 +5231,8 @@ export const CHAPTER: Chapter = {
               "t": "above",
               "w": "上"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5281,7 +5241,8 @@ export const CHAPTER: Chapter = {
               "t": "put",
               "w": "放"
             }
-          ]
+          ],
+          "lying"
         ],
         [
           "translation_word",
@@ -5290,7 +5251,8 @@ export const CHAPTER: Chapter = {
               "t": "-ing",
               "w": "着"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5299,7 +5261,8 @@ export const CHAPTER: Chapter = {
               "t": "one",
               "w": "一"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5308,7 +5271,8 @@ export const CHAPTER: Chapter = {
               "t": "grant",
               "w": "封"
             }
-          ]
+          ],
+          "letter"
         ],
         [
           "translation_word",
@@ -5317,7 +5281,8 @@ export const CHAPTER: Chapter = {
               "t": "letter",
               "w": "信"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -5330,7 +5295,8 @@ export const CHAPTER: Chapter = {
               "t": "furthermore",
               "w": "还有"
             }
-          ]
+          ],
+          "yellowish"
         ],
         [
           "translation_word",
@@ -5343,7 +5309,8 @@ export const CHAPTER: Chapter = {
               "t": "individual",
               "w": "个"
             }
-          ]
+          ],
+          "an"
         ],
         [
           "translation_word",
@@ -5352,7 +5319,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "没"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5361,7 +5329,8 @@ export const CHAPTER: Chapter = {
               "t": "stick",
               "w": "贴"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5370,7 +5339,8 @@ export const CHAPTER: Chapter = {
               "t": "stamp",
               "w": "邮票"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5379,7 +5349,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5388,7 +5359,8 @@ export const CHAPTER: Chapter = {
               "t": "yellow",
               "w": "黄色"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5397,7 +5369,8 @@ export const CHAPTER: Chapter = {
               "t": "parchment",
               "w": "羊皮纸"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5406,7 +5379,8 @@ export const CHAPTER: Chapter = {
               "t": "envelope",
               "w": "信封"
             }
-          ]
+          ],
+          "envelope"
         ],
         [
           "punctuation",
@@ -5419,7 +5393,8 @@ export const CHAPTER: Chapter = {
               "t": "on_top_of",
               "w": "上面"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5428,7 +5403,8 @@ export const CHAPTER: Chapter = {
               "t": "use",
               "w": "用"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5437,7 +5413,8 @@ export const CHAPTER: Chapter = {
               "t": "greenish-blue",
               "w": "翠绿"
             }
-          ]
+          ],
+          "emerald-green"
         ],
         [
           "translation_word",
@@ -5446,7 +5423,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5455,7 +5433,8 @@ export const CHAPTER: Chapter = {
               "t": "ink",
               "w": "墨水"
             }
-          ]
+          ],
+          "ink"
         ],
         [
           "translation_word",
@@ -5464,7 +5443,8 @@ export const CHAPTER: Chapter = {
               "t": "write",
               "w": "写"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5473,7 +5453,8 @@ export const CHAPTER: Chapter = {
               "t": "-ing",
               "w": "着"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -5486,7 +5467,8 @@ export const CHAPTER: Chapter = {
               "t": "recipient",
               "w": "收件人"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -5499,7 +5481,8 @@ export const CHAPTER: Chapter = {
               "t": "H._Potter",
               "w": "H·波特"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5508,7 +5491,8 @@ export const CHAPTER: Chapter = {
               "t": "Mister",
               "w": "先生"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -5527,7 +5511,8 @@ export const CHAPTER: Chapter = {
               "t": "professor",
               "w": "教授"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5540,7 +5525,8 @@ export const CHAPTER: Chapter = {
               "t": "and",
               "w": "和"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5549,7 +5535,8 @@ export const CHAPTER: Chapter = {
               "t": "lady",
               "w": "夫人"
             }
-          ]
+          ],
+          "wife"
         ],
         [
           "translation_word",
@@ -5558,7 +5545,8 @@ export const CHAPTER: Chapter = {
               "t": "oppose_each_other_with_equal_harshness_;_tit_for_tat",
               "w": "针锋相对"
             }
-          ]
+          ],
+          "each"
         ],
         [
           "translation_word",
@@ -5567,7 +5555,8 @@ export const CHAPTER: Chapter = {
               "t": "-ly",
               "w": "地"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5576,7 +5565,8 @@ export const CHAPTER: Chapter = {
               "t": "talk",
               "w": "谈话"
             }
-          ]
+          ],
+          "speaking"
         ],
         [
           "punctuation",
@@ -5589,7 +5579,8 @@ export const CHAPTER: Chapter = {
               "t": "only",
               "w": "不过"
             }
-          ]
+          ],
+          "but"
         ],
         [
           "translation_word",
@@ -5598,7 +5589,8 @@ export const CHAPTER: Chapter = {
               "t": "they",
               "w": "他们"
             }
-          ]
+          ],
+          "they"
         ],
         [
           "translation_word",
@@ -5607,7 +5599,8 @@ export const CHAPTER: Chapter = {
               "t": "all",
               "w": "都"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5616,7 +5609,8 @@ export const CHAPTER: Chapter = {
               "t": "haven't",
               "w": "没有"
             }
-          ]
+          ],
+          "not"
         ],
         [
           "translation_word",
@@ -5625,7 +5619,8 @@ export const CHAPTER: Chapter = {
               "t": "raise",
               "w": "提高"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5634,7 +5629,8 @@ export const CHAPTER: Chapter = {
               "t": "voice",
               "w": "声音"
             }
-          ]
+          ],
+          "shouting"
         ],
         [
           "punctuation",
@@ -5647,7 +5643,8 @@ export const CHAPTER: Chapter = {
               "t": "professor",
               "w": "教授"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5656,7 +5653,8 @@ export const CHAPTER: Chapter = {
               "t": "believe",
               "w": "认为"
             }
-          ]
+          ],
+          "considers"
         ],
         [
           "translation_word",
@@ -5665,7 +5663,8 @@ export const CHAPTER: Chapter = {
               "t": "shouting_and_screaming_;_to_scream_loudly",
               "w": "大喊大叫"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5674,7 +5673,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5683,7 +5683,8 @@ export const CHAPTER: Chapter = {
               "t": "lack",
               "w": "缺乏"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5692,7 +5693,8 @@ export const CHAPTER: Chapter = {
               "t": "train",
               "w": "教养"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5701,7 +5703,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5710,7 +5713,8 @@ export const CHAPTER: Chapter = {
               "t": "show",
               "w": "表现"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -5733,7 +5737,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "你"
             }
-          ]
+          ],
+          "'re"
         ],
         [
           "translation_word",
@@ -5742,7 +5747,8 @@ export const CHAPTER: Chapter = {
               "t": "at",
               "w": "在"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5751,7 +5757,8 @@ export const CHAPTER: Chapter = {
               "t": "play_a_joke",
               "w": "开玩笑"
             }
-          ]
+          ],
+          "joking"
         ],
         [
           "punctuation",
@@ -5772,7 +5779,8 @@ export const CHAPTER: Chapter = {
               "t": "CHAEL",
               "w": "克"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5781,7 +5789,8 @@ export const CHAPTER: Chapter = {
               "t": "right",
               "w": "对"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5790,7 +5799,8 @@ export const CHAPTER: Chapter = {
               "t": "Petunia",
               "w": "佩妮"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5799,7 +5809,8 @@ export const CHAPTER: Chapter = {
               "t": "persuade",
               "w": "说"
             }
-          ]
+          ],
+          "said"
         ],
         [
           "punctuation",
@@ -5812,7 +5823,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          "he"
         ],
         [
           "translation_word",
@@ -5821,7 +5833,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5830,7 +5843,8 @@ export const CHAPTER: Chapter = {
               "t": "tone",
               "w": "语气"
             }
-          ]
+          ],
+          "tone"
         ],
         [
           "translation_word",
@@ -5839,7 +5853,8 @@ export const CHAPTER: Chapter = {
               "t": "make_clear",
               "w": "表明"
             }
-          ]
+          ],
+          "indicated"
         ],
         [
           "punctuation",
@@ -5852,7 +5867,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5861,7 +5877,8 @@ export const CHAPTER: Chapter = {
               "t": "very",
               "w": "非常"
             }
-          ]
+          ],
+          "very"
         ],
         [
           "translation_word",
@@ -5870,7 +5887,8 @@ export const CHAPTER: Chapter = {
               "t": "anxious",
               "w": "担心"
             }
-          ]
+          ],
+          "afraid"
         ],
         [
           "translation_word",
@@ -5879,7 +5897,8 @@ export const CHAPTER: Chapter = {
               "t": "she",
               "w": "她"
             }
-          ]
+          ],
+          "she"
         ],
         [
           "translation_word",
@@ -5888,7 +5907,8 @@ export const CHAPTER: Chapter = {
               "t": "and",
               "w": "并"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5897,7 +5917,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "不"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5906,7 +5927,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          "was"
         ],
         [
           "translation_word",
@@ -5915,7 +5937,8 @@ export const CHAPTER: Chapter = {
               "t": "at",
               "w": "在"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5924,7 +5947,8 @@ export const CHAPTER: Chapter = {
               "t": "play_a_joke",
               "w": "开玩笑"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -5947,7 +5971,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5956,7 +5981,8 @@ export const CHAPTER: Chapter = {
               "t": "younger_sister",
               "w": "妹妹"
             }
-          ]
+          ],
+          "sister"
         ],
         [
           "translation_word",
@@ -5965,7 +5991,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          "was"
         ],
         [
           "translation_word",
@@ -5974,7 +6001,8 @@ export const CHAPTER: Chapter = {
               "t": "individual",
               "w": "个"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -5983,7 +6011,8 @@ export const CHAPTER: Chapter = {
               "t": "witch",
               "w": "女巫"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -6000,7 +6029,8 @@ export const CHAPTER: Chapter = {
               "t": "Petunia",
               "w": "佩妮"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6013,7 +6043,8 @@ export const CHAPTER: Chapter = {
               "t": "persuade",
               "w": "说"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -6026,7 +6057,8 @@ export const CHAPTER: Chapter = {
               "t": "she",
               "w": "她"
             }
-          ]
+          ],
+          "her"
         ],
         [
           "translation_word",
@@ -6035,7 +6067,8 @@ export const CHAPTER: Chapter = {
               "t": "look_after",
               "w": "看"
             }
-          ]
+          ],
+          "looked"
         ],
         [
           "translation_word",
@@ -6044,7 +6077,8 @@ export const CHAPTER: Chapter = {
               "t": "stand_up",
               "w": "起来"
             }
-          ]
+          ],
+          "stood"
         ],
         [
           "translation_word",
@@ -6053,7 +6087,8 @@ export const CHAPTER: Chapter = {
               "t": "very",
               "w": "很"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6062,7 +6097,8 @@ export const CHAPTER: Chapter = {
               "t": "be_afraid",
               "w": "害怕"
             }
-          ]
+          ],
+          "frightened"
         ],
         [
           "punctuation",
@@ -6075,7 +6111,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "可"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6084,7 +6121,8 @@ export const CHAPTER: Chapter = {
               "t": "still",
               "w": "还"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6093,7 +6131,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6102,7 +6141,8 @@ export const CHAPTER: Chapter = {
               "t": "persevere_with",
               "w": "坚持"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6111,7 +6151,8 @@ export const CHAPTER: Chapter = {
               "t": "-ing",
               "w": "着"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6120,7 +6161,8 @@ export const CHAPTER: Chapter = {
               "t": "she",
               "w": "她"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6129,7 +6171,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6138,7 +6181,8 @@ export const CHAPTER: Chapter = {
               "t": "position",
               "w": "立场"
             }
-          ]
+          ],
+          "ground"
         ],
         [
           "punctuation",
@@ -6155,7 +6199,8 @@ export const CHAPTER: Chapter = {
               "t": "she",
               "w": "她"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6164,7 +6209,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6173,7 +6219,8 @@ export const CHAPTER: Chapter = {
               "t": "husband",
               "w": "丈夫"
             }
-          ]
+          ],
+          "husband"
         ],
         [
           "translation_word",
@@ -6182,7 +6229,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6191,7 +6239,8 @@ export const CHAPTER: Chapter = {
               "t": "individual",
               "w": "个"
             }
-          ]
+          ],
+          "a"
         ],
         [
           "translation_word",
@@ -6200,7 +6249,8 @@ export const CHAPTER: Chapter = {
               "t": "wizard",
               "w": "巫师"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -6227,7 +6277,8 @@ export const CHAPTER: Chapter = {
               "t": "beyond_belief",
               "w": "荒唐"
             }
-          ]
+          ],
+          "absurd"
         ],
         [
           "punctuation",
@@ -6248,7 +6299,8 @@ export const CHAPTER: Chapter = {
               "t": "CHAEL",
               "w": "克"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6257,7 +6309,8 @@ export const CHAPTER: Chapter = {
               "t": "sharp",
               "w": "尖锐"
             }
-          ]
+          ],
+          "sharply"
         ],
         [
           "translation_word",
@@ -6266,7 +6319,8 @@ export const CHAPTER: Chapter = {
               "t": "-ly",
               "w": "地"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6275,7 +6329,8 @@ export const CHAPTER: Chapter = {
               "t": "indicate",
               "w": "指出"
             }
-          ]
+          ],
+          "said"
         ],
         [
           "punctuation",
@@ -6292,7 +6347,8 @@ export const CHAPTER: Chapter = {
               "t": "they",
               "w": "他们"
             }
-          ]
+          ],
+          "they"
         ],
         [
           "translation_word",
@@ -6301,7 +6357,8 @@ export const CHAPTER: Chapter = {
               "t": "participate",
               "w": "参加"
             }
-          ]
+          ],
+          "at"
         ],
         [
           "translation_word",
@@ -6310,7 +6367,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6319,7 +6377,8 @@ export const CHAPTER: Chapter = {
               "t": "we",
               "w": "我们"
             }
-          ]
+          ],
+          "our"
         ],
         [
           "translation_word",
@@ -6328,7 +6387,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6337,15 +6397,18 @@ export const CHAPTER: Chapter = {
               "t": "wedding_ceremony",
               "w": "婚礼"
             }
-          ]
+          ],
+          "wedding"
         ],
         [
-          "punctuation",
-          "—"
-        ],
-        [
-          "punctuation",
-          "—"
+          "translation_word",
+          [
+            {
+              "t": "..",
+              "w": "——"
+            }
+          ],
+          "-"
         ],
         [
           "translation_word",
@@ -6354,7 +6417,8 @@ export const CHAPTER: Chapter = {
               "t": "furthermore",
               "w": "还有"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6363,7 +6427,8 @@ export const CHAPTER: Chapter = {
               "t": "Christmas_time",
               "w": "圣诞节"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6372,7 +6437,8 @@ export const CHAPTER: Chapter = {
               "t": "also",
               "w": "也"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6385,24 +6451,28 @@ export const CHAPTER: Chapter = {
               "t": "PAST",
               "w": "过"
             }
-          ]
-        ],
-        [
-          "punctuation",
-          "—"
-        ],
-        [
-          "punctuation",
-          "—"
+          ],
+          ""
         ],
         [
           "translation_word",
           [
             {
-              "t": "NOT_FOUND",
+              "t": "..",
+              "w": "——"
+            }
+          ],
+          ""
+        ],
+        [
+          "translation_word",
+          [
+            {
+              "t": "..",
               "w": "\""
             }
-          ]
+          ],
+          ""
         ]
       ]
     },
@@ -6421,7 +6491,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6430,7 +6501,8 @@ export const CHAPTER: Chapter = {
               "t": "yield",
               "w": "让"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6439,7 +6511,8 @@ export const CHAPTER: Chapter = {
               "t": "they",
               "w": "他们"
             }
-          ]
+          ],
+          "them"
         ],
         [
           "translation_word",
@@ -6448,7 +6521,8 @@ export const CHAPTER: Chapter = {
               "t": "don't!",
               "w": "别"
             }
-          ]
+          ],
+          "n't"
         ],
         [
           "translation_word",
@@ -6457,7 +6531,8 @@ export const CHAPTER: Chapter = {
               "t": "tell",
               "w": "告诉"
             }
-          ]
+          ],
+          "told"
         ],
         [
           "translation_word",
@@ -6466,7 +6541,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "你"
             }
-          ]
+          ],
+          "you"
         ],
         [
           "punctuation",
@@ -6483,7 +6559,8 @@ export const CHAPTER: Chapter = {
               "t": "Petunia",
               "w": "佩妮"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6492,7 +6569,8 @@ export const CHAPTER: Chapter = {
               "t": "in_a_low_voice",
               "w": "小声"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6501,7 +6579,8 @@ export const CHAPTER: Chapter = {
               "t": "persuade",
               "w": "说"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -6518,7 +6597,8 @@ export const CHAPTER: Chapter = {
               "t": "but",
               "w": "但是"
             }
-          ]
+          ],
+          "it"
         ],
         [
           "translation_word",
@@ -6527,7 +6607,8 @@ export const CHAPTER: Chapter = {
               "t": "this",
               "w": "这"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6536,7 +6617,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6545,7 +6627,8 @@ export const CHAPTER: Chapter = {
               "t": "really",
               "w": "真"
             }
-          ]
+          ],
+          "true"
         ],
         [
           "translation_word",
@@ -6554,7 +6637,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -6567,7 +6651,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6576,7 +6661,8 @@ export const CHAPTER: Chapter = {
               "t": "see",
               "w": "见"
             }
-          ]
+          ],
+          "seen"
         ],
         [
           "translation_word",
@@ -6585,15 +6671,18 @@ export const CHAPTER: Chapter = {
               "t": "PAST",
               "w": "过"
             }
-          ]
+          ],
+          "'ve"
         ],
         [
-          "punctuation",
-          "—"
-        ],
-        [
-          "punctuation",
-          "—"
+          "translation_word",
+          [
+            {
+              "t": "..",
+              "w": "——"
+            }
+          ],
+          "-"
         ],
         [
           "punctuation",
@@ -6612,7 +6701,8 @@ export const CHAPTER: Chapter = {
               "t": "professor",
               "w": "教授"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6621,7 +6711,8 @@ export const CHAPTER: Chapter = {
               "t": "turn_over",
               "w": "翻"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6630,7 +6721,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6639,7 +6731,8 @@ export const CHAPTER: Chapter = {
               "t": "turn_over",
               "w": "翻"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6648,7 +6741,8 @@ export const CHAPTER: Chapter = {
               "t": "eye",
               "w": "眼睛"
             }
-          ]
+          ],
+          "eyes"
         ],
         [
           "punctuation",
@@ -6665,7 +6759,8 @@ export const CHAPTER: Chapter = {
               "t": "dear",
               "w": "亲爱"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6674,7 +6769,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -6687,7 +6783,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6696,7 +6793,8 @@ export const CHAPTER: Chapter = {
               "t": "comprehend",
               "w": "理解"
             }
-          ]
+          ],
+          "understand"
         ],
         [
           "translation_word",
@@ -6705,7 +6803,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "你"
             }
-          ]
+          ],
+          "'re"
         ],
         [
           "punctuation",
@@ -6718,7 +6817,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "你"
             }
-          ]
+          ],
+          "you"
         ],
         [
           "translation_word",
@@ -6727,7 +6827,8 @@ export const CHAPTER: Chapter = {
               "t": "right",
               "w": "对"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6740,7 +6841,8 @@ export const CHAPTER: Chapter = {
               "t": "-ism",
               "w": "主义"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6749,7 +6851,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6758,7 +6861,8 @@ export const CHAPTER: Chapter = {
               "t": "document",
               "w": "文献"
             }
-          ]
+          ],
+          "literature"
         ],
         [
           "translation_word",
@@ -6767,7 +6871,8 @@ export const CHAPTER: Chapter = {
               "t": "still",
               "w": "还"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6776,7 +6881,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "不"
             }
-          ]
+          ],
+          "not"
         ],
         [
           "translation_word",
@@ -6785,7 +6891,8 @@ export const CHAPTER: Chapter = {
               "t": "be_familiar_with",
               "w": "熟悉"
             }
-          ]
+          ],
+          "familiar"
         ],
         [
           "punctuation",
@@ -6798,7 +6905,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "你"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6807,7 +6915,8 @@ export const CHAPTER: Chapter = {
               "t": "fear",
               "w": "恐怕"
             }
-          ]
+          ],
+          "may"
         ],
         [
           "translation_word",
@@ -6816,7 +6925,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "不"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6825,7 +6935,8 @@ export const CHAPTER: Chapter = {
               "t": "know",
               "w": "知道"
             }
-          ]
+          ],
+          "realise"
         ],
         [
           "punctuation",
@@ -6842,7 +6953,8 @@ export const CHAPTER: Chapter = {
               "t": "individual",
               "w": "个"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6851,7 +6963,8 @@ export const CHAPTER: Chapter = {
               "t": "specialty",
               "w": "专业"
             }
-          ]
+          ],
+          "trained"
         ],
         [
           "translation_word",
@@ -6860,7 +6973,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6869,7 +6983,8 @@ export const CHAPTER: Chapter = {
               "t": "magician",
               "w": "魔术师"
             }
-          ]
+          ],
+          "magician"
         ],
         [
           "translation_word",
@@ -6878,7 +6993,8 @@ export const CHAPTER: Chapter = {
               "t": "easy",
               "w": "轻而易举"
             }
-          ]
+          ],
+          "easy"
         ],
         [
           "translation_word",
@@ -6887,7 +7003,8 @@ export const CHAPTER: Chapter = {
               "t": "at_once",
               "w": "就"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6896,7 +7013,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "能"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6905,7 +7023,8 @@ export const CHAPTER: Chapter = {
               "t": "accomplish",
               "w": "做到"
             }
-          ]
+          ],
+          "impossible"
         ],
         [
           "translation_word",
@@ -6914,7 +7033,8 @@ export const CHAPTER: Chapter = {
               "t": "look_after",
               "w": "看"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6923,7 +7043,8 @@ export const CHAPTER: Chapter = {
               "t": "stand_up",
               "w": "起来"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6932,7 +7053,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "不"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6941,7 +7063,8 @@ export const CHAPTER: Chapter = {
               "t": "might",
               "w": "可能"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6950,7 +7073,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6959,7 +7083,8 @@ export const CHAPTER: Chapter = {
               "t": "matter",
               "w": "事"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -6972,7 +7097,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "你"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6981,7 +7107,8 @@ export const CHAPTER: Chapter = {
               "t": "still",
               "w": "还"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6990,7 +7117,8 @@ export const CHAPTER: Chapter = {
               "t": "remember",
               "w": "记得"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -6999,7 +7127,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7008,7 +7137,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7017,7 +7147,8 @@ export const CHAPTER: Chapter = {
               "t": "how?",
               "w": "怎么"
             }
-          ]
+          ],
+          "how"
         ],
         [
           "translation_word",
@@ -7026,7 +7157,8 @@ export const CHAPTER: Chapter = {
               "t": "teach",
               "w": "教"
             }
-          ]
+          ],
+          "taught"
         ],
         [
           "translation_word",
@@ -7035,7 +7167,8 @@ export const CHAPTER: Chapter = {
               "t": "Harry",
               "w": "哈利"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7048,7 +7181,8 @@ export const CHAPTER: Chapter = {
               "t": "bend",
               "w": "弯"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7057,7 +7191,8 @@ export const CHAPTER: Chapter = {
               "t": "scoop",
               "w": "勺子"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7066,7 +7201,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7075,7 +7211,8 @@ export const CHAPTER: Chapter = {
               "t": "see_嗎啡|吗啡,_morphine",
               "w": "吗"
             }
-          ]
+          ],
+          "?"
         ],
         [
           "punctuation",
@@ -7088,7 +7225,8 @@ export const CHAPTER: Chapter = {
               "t": "if",
               "w": "如果"
             }
-          ]
+          ],
+          "it"
         ],
         [
           "translation_word",
@@ -7097,7 +7235,8 @@ export const CHAPTER: Chapter = {
               "t": "they",
               "w": "他们"
             }
-          ]
+          ],
+          "they"
         ],
         [
           "translation_word",
@@ -7106,7 +7245,8 @@ export const CHAPTER: Chapter = {
               "t": "appear_to_be",
               "w": "貌似"
             }
-          ]
+          ],
+          "seemingly"
         ],
         [
           "translation_word",
@@ -7115,7 +7255,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "能"
             }
-          ]
+          ],
+          "could"
         ],
         [
           "translation_word",
@@ -7124,7 +7265,8 @@ export const CHAPTER: Chapter = {
               "t": "see_through",
               "w": "看穿"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7133,7 +7275,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "你"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7142,7 +7285,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7151,7 +7295,8 @@ export const CHAPTER: Chapter = {
               "t": "thought",
               "w": "思想"
             }
-          ]
+          ],
+          "thinking"
         ],
         [
           "translation_word",
@@ -7160,7 +7305,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          "'s"
         ],
         [
           "translation_word",
@@ -7169,7 +7315,8 @@ export const CHAPTER: Chapter = {
               "t": "dialect",
               "w": "话"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -7182,7 +7329,8 @@ export const CHAPTER: Chapter = {
               "t": "that",
               "w": "那种"
             }
-          ]
+          ],
+          "what"
         ],
         [
           "translation_word",
@@ -7191,7 +7339,8 @@ export const CHAPTER: Chapter = {
               "t": "skill",
               "w": "技巧"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7200,7 +7349,8 @@ export const CHAPTER: Chapter = {
               "t": "have",
               "w": "有"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7209,7 +7359,8 @@ export const CHAPTER: Chapter = {
               "t": "individual",
               "w": "个"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7218,7 +7369,8 @@ export const CHAPTER: Chapter = {
               "t": "name",
               "w": "名字"
             }
-          ]
+          ],
+          "called"
         ],
         [
           "punctuation",
@@ -7231,7 +7383,8 @@ export const CHAPTER: Chapter = {
               "t": "shout",
               "w": "叫"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7240,7 +7393,8 @@ export const CHAPTER: Chapter = {
               "t": "cold",
               "w": "冷"
             }
-          ]
+          ],
+          "cold"
         ],
         [
           "translation_word",
@@ -7249,15 +7403,18 @@ export const CHAPTER: Chapter = {
               "t": "analyze",
               "w": "分析"
             }
-          ]
+          ],
+          ""
         ],
         [
-          "punctuation",
-          "—"
-        ],
-        [
-          "punctuation",
-          "—"
+          "translation_word",
+          [
+            {
+              "t": "..",
+              "w": "——"
+            }
+          ],
+          "-"
         ],
         [
           "punctuation",
@@ -7280,7 +7437,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "不"
             }
-          ]
+          ],
+          "n't"
         ],
         [
           "translation_word",
@@ -7289,7 +7447,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          "was"
         ],
         [
           "translation_word",
@@ -7302,7 +7461,8 @@ export const CHAPTER: Chapter = {
               "t": "bend",
               "w": "弯"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7311,7 +7471,8 @@ export const CHAPTER: Chapter = {
               "t": "scoop",
               "w": "勺子"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7320,7 +7481,8 @@ export const CHAPTER: Chapter = {
               "t": "this",
               "w": "这种"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7329,15 +7491,18 @@ export const CHAPTER: Chapter = {
               "t": "matter",
               "w": "事"
             }
-          ]
+          ],
+          ""
         ],
         [
-          "punctuation",
-          "—"
-        ],
-        [
-          "punctuation",
-          "—"
+          "translation_word",
+          [
+            {
+              "t": "..",
+              "w": "——"
+            }
+          ],
+          "-"
         ],
         [
           "punctuation",
@@ -7360,7 +7525,8 @@ export const CHAPTER: Chapter = {
               "t": "that",
               "w": "那"
             }
-          ]
+          ],
+          "then"
         ],
         [
           "translation_word",
@@ -7369,7 +7535,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          "was"
         ],
         [
           "translation_word",
@@ -7378,7 +7545,8 @@ export const CHAPTER: Chapter = {
               "t": "what?",
               "w": "什么"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7387,7 +7555,8 @@ export const CHAPTER: Chapter = {
               "t": "particle_indicating_that_a_previously_asked_question_is_to_be_applied_to_the_preceding_word",
               "w": "呢"
             }
-          ]
+          ],
+          "?"
         ],
         [
           "punctuation",
@@ -7410,7 +7579,8 @@ export const CHAPTER: Chapter = {
               "t": "Petunia",
               "w": "佩妮"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7423,7 +7593,8 @@ export const CHAPTER: Chapter = {
               "t": "-ing",
               "w": "着"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7432,7 +7603,8 @@ export const CHAPTER: Chapter = {
               "t": "lip",
               "w": "嘴唇"
             }
-          ]
+          ],
+          "lip"
         ],
         [
           "punctuation",
@@ -7449,7 +7621,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7458,7 +7631,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "没"
             }
-          ]
+          ],
+          "n't"
         ],
         [
           "translation_word",
@@ -7467,7 +7641,8 @@ export const CHAPTER: Chapter = {
               "t": "means",
               "w": "办法"
             }
-          ]
+          ],
+          "ca"
         ],
         [
           "translation_word",
@@ -7476,7 +7651,8 @@ export const CHAPTER: Chapter = {
               "t": "right",
               "w": "对"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7485,7 +7661,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "你"
             }
-          ]
+          ],
+          "'ll"
         ],
         [
           "translation_word",
@@ -7494,7 +7671,8 @@ export const CHAPTER: Chapter = {
               "t": "persuade",
               "w": "说"
             }
-          ]
+          ],
+          "tell"
         ],
         [
           "punctuation",
@@ -7507,7 +7685,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "你"
             }
-          ]
+          ],
+          "you"
         ],
         [
           "translation_word",
@@ -7516,7 +7695,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "会"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7525,7 +7705,8 @@ export const CHAPTER: Chapter = {
               "t": "think",
               "w": "觉得"
             }
-          ]
+          ],
+          "think"
         ],
         [
           "translation_word",
@@ -7534,15 +7715,18 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
-          "punctuation",
-          "—"
-        ],
-        [
-          "punctuation",
-          "—"
+          "translation_word",
+          [
+            {
+              "t": "..",
+              "w": "——"
+            }
+          ],
+          "-"
         ],
         [
           "punctuation",
@@ -7555,7 +7739,8 @@ export const CHAPTER: Chapter = {
               "t": "she",
               "w": "她"
             }
-          ]
+          ],
+          "she"
         ],
         [
           "translation_word",
@@ -7564,7 +7749,8 @@ export const CHAPTER: Chapter = {
               "t": "narrow_pass",
               "w": "咽"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7573,7 +7759,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7582,7 +7769,8 @@ export const CHAPTER: Chapter = {
               "t": "give_it_a_go",
               "w": "一下"
             }
-          ]
+          ],
+          "bit"
         ],
         [
           "translation_word",
@@ -7591,7 +7779,8 @@ export const CHAPTER: Chapter = {
               "t": "saliva",
               "w": "口水"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -7608,7 +7797,8 @@ export const CHAPTER: Chapter = {
               "t": "smile",
               "w": "听"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7617,7 +7807,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7626,7 +7817,8 @@ export const CHAPTER: Chapter = {
               "t": "persuade",
               "w": "说"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -7643,7 +7835,8 @@ export const CHAPTER: Chapter = {
               "t": "CHAEL",
               "w": "克"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -7656,7 +7849,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7665,7 +7859,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "不"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7674,15 +7869,18 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
-          "punctuation",
-          "—"
-        ],
-        [
-          "punctuation",
-          "—"
+          "translation_word",
+          [
+            {
+              "t": "..",
+              "w": "——"
+            }
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7691,7 +7889,8 @@ export const CHAPTER: Chapter = {
               "t": "straight",
               "w": "一直"
             }
-          ]
+          ],
+          "always"
         ],
         [
           "translation_word",
@@ -7700,7 +7899,8 @@ export const CHAPTER: Chapter = {
               "t": "resemble",
               "w": "像"
             }
-          ]
+          ],
+          "like"
         ],
         [
           "translation_word",
@@ -7709,7 +7909,8 @@ export const CHAPTER: Chapter = {
               "t": "now",
               "w": "现在"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7718,15 +7919,18 @@ export const CHAPTER: Chapter = {
               "t": "this_kind_of",
               "w": "这样"
             }
-          ]
+          ],
+          "this"
         ],
         [
-          "punctuation",
-          "—"
-        ],
-        [
-          "punctuation",
-          "—"
+          "translation_word",
+          [
+            {
+              "t": "..",
+              "w": "——"
+            }
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -7739,7 +7943,8 @@ export const CHAPTER: Chapter = {
               "t": "she",
               "w": "她"
             }
-          ]
+          ],
+          "herself"
         ],
         [
           "translation_word",
@@ -7748,7 +7953,8 @@ export const CHAPTER: Chapter = {
               "t": "finger",
               "w": "指"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7757,7 +7963,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7766,7 +7973,8 @@ export const CHAPTER: Chapter = {
               "t": "finger",
               "w": "指"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7775,7 +7983,8 @@ export const CHAPTER: Chapter = {
               "t": "oneself",
               "w": "自己"
             }
-          ]
+          ],
+          "her"
         ],
         [
           "punctuation",
@@ -7788,7 +7997,8 @@ export const CHAPTER: Chapter = {
               "t": "as_if",
               "w": "好像"
             }
-          ]
+          ],
+          "though"
         ],
         [
           "translation_word",
@@ -7797,7 +8007,8 @@ export const CHAPTER: Chapter = {
               "t": "at",
               "w": "在"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7806,7 +8017,8 @@ export const CHAPTER: Chapter = {
               "t": "indicate",
               "w": "指出"
             }
-          ]
+          ],
+          "indicate"
         ],
         [
           "translation_word",
@@ -7815,7 +8027,8 @@ export const CHAPTER: Chapter = {
               "t": "oneself",
               "w": "自己"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7824,7 +8037,8 @@ export const CHAPTER: Chapter = {
               "t": "graceful",
               "w": "优美"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7833,7 +8047,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7842,7 +8057,8 @@ export const CHAPTER: Chapter = {
               "t": "curve",
               "w": "曲线"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -7859,7 +8075,8 @@ export const CHAPTER: Chapter = {
               "t": "this",
               "w": "这"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7868,7 +8085,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7881,7 +8099,8 @@ export const CHAPTER: Chapter = {
               "t": "LI",
               "w": "莉"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7890,7 +8109,8 @@ export const CHAPTER: Chapter = {
               "t": "do",
               "w": "做"
             }
-          ]
+          ],
+          "did"
         ],
         [
           "translation_word",
@@ -7899,7 +8119,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -7912,7 +8133,8 @@ export const CHAPTER: Chapter = {
               "t": "because",
               "w": "因为"
             }
-          ]
+          ],
+          "because"
         ],
         [
           "translation_word",
@@ -7921,7 +8143,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -7934,7 +8157,8 @@ export const CHAPTER: Chapter = {
               "t": "because",
               "w": "因为"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7943,7 +8167,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7952,7 +8177,8 @@ export const CHAPTER: Chapter = {
               "t": "seek",
               "w": "求"
             }
-          ]
+          ],
+          "begged"
         ],
         [
           "translation_word",
@@ -7961,7 +8187,8 @@ export const CHAPTER: Chapter = {
               "t": "she",
               "w": "她"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7970,7 +8197,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -7983,7 +8211,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -7992,7 +8221,8 @@ export const CHAPTER: Chapter = {
               "t": "seek",
               "w": "求"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8001,7 +8231,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8010,7 +8241,8 @@ export const CHAPTER: Chapter = {
               "t": "she",
               "w": "她"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8019,7 +8251,8 @@ export const CHAPTER: Chapter = {
               "t": "very",
               "w": "很"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8032,7 +8265,8 @@ export const CHAPTER: Chapter = {
               "t": "year",
               "w": "年"
             }
-          ]
+          ],
+          "years"
         ],
         [
           "punctuation",
@@ -8049,7 +8283,8 @@ export const CHAPTER: Chapter = {
               "t": "LI",
               "w": "莉"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8058,7 +8293,8 @@ export const CHAPTER: Chapter = {
               "t": "straight",
               "w": "一直"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8067,7 +8303,8 @@ export const CHAPTER: Chapter = {
               "t": "compared_to",
               "w": "比"
             }
-          ]
+          ],
+          "than"
         ],
         [
           "translation_word",
@@ -8076,7 +8313,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8085,7 +8323,8 @@ export const CHAPTER: Chapter = {
               "t": "the_Americas",
               "w": "美"
             }
-          ]
+          ],
+          "prettier"
         ],
         [
           "punctuation",
@@ -8098,15 +8337,18 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          "me"
         ],
         [
-          "punctuation",
-          "…"
-        ],
-        [
-          "punctuation",
-          "…"
+          "translation_word",
+          [
+            {
+              "t": "..",
+              "w": "……"
+            }
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8115,7 +8357,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8124,7 +8367,8 @@ export const CHAPTER: Chapter = {
               "t": "because",
               "w": "因为"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8133,7 +8377,8 @@ export const CHAPTER: Chapter = {
               "t": "this",
               "w": "这个"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8142,7 +8387,8 @@ export const CHAPTER: Chapter = {
               "t": "straight",
               "w": "一直"
             }
-          ]
+          ],
+          "been"
         ],
         [
           "translation_word",
@@ -8151,7 +8397,8 @@ export const CHAPTER: Chapter = {
               "t": "right",
               "w": "对"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8160,7 +8407,8 @@ export const CHAPTER: Chapter = {
               "t": "she",
               "w": "她"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8169,7 +8417,8 @@ export const CHAPTER: Chapter = {
               "t": "very",
               "w": "很"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8178,7 +8427,8 @@ export const CHAPTER: Chapter = {
               "t": "terrible",
               "w": "凶"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -8191,7 +8441,8 @@ export const CHAPTER: Chapter = {
               "t": "after",
               "w": "然后"
             }
-          ]
+          ],
+          "then"
         ],
         [
           "translation_word",
@@ -8200,7 +8451,8 @@ export const CHAPTER: Chapter = {
               "t": "she",
               "w": "她"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8209,7 +8461,8 @@ export const CHAPTER: Chapter = {
               "t": "still",
               "w": "还"
             }
-          ]
+          ],
+          "got"
         ],
         [
           "translation_word",
@@ -8218,7 +8471,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "会"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8227,7 +8481,8 @@ export const CHAPTER: Chapter = {
               "t": "enchantment",
               "w": "魔法"
             }
-          ]
+          ],
+          "magic"
         ],
         [
           "punctuation",
@@ -8240,7 +8495,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "你"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8249,7 +8505,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "能"
             }
-          ]
+          ],
+          "can"
         ],
         [
           "translation_word",
@@ -8258,7 +8515,8 @@ export const CHAPTER: Chapter = {
               "t": "imagine",
               "w": "想象"
             }
-          ]
+          ],
+          "imagine"
         ],
         [
           "translation_word",
@@ -8267,7 +8525,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8276,7 +8535,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8285,7 +8545,8 @@ export const CHAPTER: Chapter = {
               "t": "sense",
               "w": "感受"
             }
-          ]
+          ],
+          "felt"
         ],
         [
           "translation_word",
@@ -8294,7 +8555,8 @@ export const CHAPTER: Chapter = {
               "t": "see_嗎啡|吗啡,_morphine",
               "w": "吗"
             }
-          ]
+          ],
+          "?"
         ],
         [
           "punctuation",
@@ -8307,7 +8569,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8316,7 +8579,8 @@ export const CHAPTER: Chapter = {
               "t": "seek",
               "w": "求"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8325,7 +8589,8 @@ export const CHAPTER: Chapter = {
               "t": "she",
               "w": "她"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8334,7 +8599,8 @@ export const CHAPTER: Chapter = {
               "t": "use",
               "w": "用"
             }
-          ]
+          ],
+          "use"
         ],
         [
           "translation_word",
@@ -8343,7 +8609,8 @@ export const CHAPTER: Chapter = {
               "t": "she",
               "w": "她"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8352,7 +8619,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8361,7 +8629,8 @@ export const CHAPTER: Chapter = {
               "t": "enchantment",
               "w": "魔法"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8370,7 +8639,8 @@ export const CHAPTER: Chapter = {
               "t": "hold",
               "w": "把"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8379,7 +8649,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8388,7 +8659,8 @@ export const CHAPTER: Chapter = {
               "t": "also",
               "w": "也"
             }
-          ]
+          ],
+          "too"
         ],
         [
           "translation_word",
@@ -8401,7 +8673,8 @@ export const CHAPTER: Chapter = {
               "t": "the_Americas",
               "w": "美"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -8414,7 +8687,8 @@ export const CHAPTER: Chapter = {
               "t": "if",
               "w": "如果"
             }
-          ]
+          ],
+          "if"
         ],
         [
           "translation_word",
@@ -8423,7 +8697,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8432,7 +8707,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "不"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8441,7 +8717,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "能"
             }
-          ]
+          ],
+          "could"
         ],
         [
           "translation_word",
@@ -8450,7 +8727,8 @@ export const CHAPTER: Chapter = {
               "t": "have",
               "w": "有"
             }
-          ]
+          ],
+          "have"
         ],
         [
           "translation_word",
@@ -8459,7 +8737,8 @@ export const CHAPTER: Chapter = {
               "t": "enchantment",
               "w": "魔法"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8468,7 +8747,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8477,7 +8757,8 @@ export const CHAPTER: Chapter = {
               "t": "dialect",
               "w": "话"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -8490,7 +8771,8 @@ export const CHAPTER: Chapter = {
               "t": "at_least",
               "w": "至少"
             }
-          ]
+          ],
+          "least"
         ],
         [
           "translation_word",
@@ -8499,7 +8781,8 @@ export const CHAPTER: Chapter = {
               "t": "yield",
               "w": "让"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8508,7 +8791,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8521,7 +8805,8 @@ export const CHAPTER: Chapter = {
               "t": "the_Americas",
               "w": "美"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8530,7 +8815,8 @@ export const CHAPTER: Chapter = {
               "t": "bar",
               "w": "吧"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -8553,7 +8839,8 @@ export const CHAPTER: Chapter = {
               "t": "Petunia",
               "w": "佩妮"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8562,7 +8849,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8575,7 +8863,8 @@ export const CHAPTER: Chapter = {
               "t": "lining",
               "w": "里"
             }
-          ]
+          ],
+          "eyes"
         ],
         [
           "translation_word",
@@ -8584,7 +8873,8 @@ export const CHAPTER: Chapter = {
               "t": "store_up",
               "w": "蓄"
             }
-          ]
+          ],
+          "gathering"
         ],
         [
           "translation_word",
@@ -8593,7 +8883,8 @@ export const CHAPTER: Chapter = {
               "t": "fill",
               "w": "满"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8602,7 +8893,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8611,7 +8903,8 @@ export const CHAPTER: Chapter = {
               "t": "a_teardrop",
               "w": "泪珠"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -8638,7 +8931,8 @@ export const CHAPTER: Chapter = {
               "t": "LI",
               "w": "莉"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8647,7 +8941,8 @@ export const CHAPTER: Chapter = {
               "t": "straight",
               "w": "一直"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8656,7 +8951,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "不"
             }
-          ]
+          ],
+          "no"
         ],
         [
           "translation_word",
@@ -8665,7 +8961,8 @@ export const CHAPTER: Chapter = {
               "t": "agree",
               "w": "同意"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -8678,7 +8975,8 @@ export const CHAPTER: Chapter = {
               "t": "she",
               "w": "她"
             }
-          ]
+          ],
+          "her"
         ],
         [
           "translation_word",
@@ -8691,7 +8989,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8704,7 +9003,8 @@ export const CHAPTER: Chapter = {
               "t": "many",
               "w": "多"
             }
-          ]
+          ],
+          "most"
         ],
         [
           "translation_word",
@@ -8713,7 +9013,8 @@ export const CHAPTER: Chapter = {
               "t": "funny",
               "w": "可笑"
             }
-          ]
+          ],
+          "ridiculous"
         ],
         [
           "translation_word",
@@ -8722,7 +9023,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8731,7 +9033,8 @@ export const CHAPTER: Chapter = {
               "t": "reason",
               "w": "理由"
             }
-          ]
+          ],
+          "excuses"
         ],
         [
           "punctuation",
@@ -8744,7 +9047,8 @@ export const CHAPTER: Chapter = {
               "t": "what?",
               "w": "什么"
             }
-          ]
+          ],
+          "tell"
         ],
         [
           "translation_word",
@@ -8753,7 +9057,8 @@ export const CHAPTER: Chapter = {
               "t": "right",
               "w": "对"
             }
-          ]
+          ],
+          "told"
         ],
         [
           "translation_word",
@@ -8762,7 +9067,8 @@ export const CHAPTER: Chapter = {
               "t": "older_sister",
               "w": "姐姐"
             }
-          ]
+          ],
+          "sister"
         ],
         [
           "translation_word",
@@ -8771,7 +9077,8 @@ export const CHAPTER: Chapter = {
               "t": "good",
               "w": "好"
             }
-          ]
+          ],
+          "nice"
         ],
         [
           "translation_word",
@@ -8780,7 +9087,8 @@ export const CHAPTER: Chapter = {
               "t": "one",
               "w": "一"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8789,7 +9097,8 @@ export const CHAPTER: Chapter = {
               "t": "point",
               "w": "点"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8798,7 +9107,8 @@ export const CHAPTER: Chapter = {
               "t": "at_once",
               "w": "就"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8807,7 +9117,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "会"
             }
-          ]
+          ],
+          "would"
         ],
         [
           "translation_word",
@@ -8816,7 +9127,8 @@ export const CHAPTER: Chapter = {
               "t": "lead_to",
               "w": "引发"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8825,7 +9137,8 @@ export const CHAPTER: Chapter = {
               "t": "world",
               "w": "世界"
             }
-          ]
+          ],
+          "world"
         ],
         [
           "translation_word",
@@ -8834,16 +9147,18 @@ export const CHAPTER: Chapter = {
               "t": "Judgment_Day",
               "w": "末日"
             }
-          ]
+          ],
+          "end"
         ],
         [
           "translation_word",
           [
             {
-              "t": "sound_of_singing,_cheering_etc",
+              "t": "exclamation",
               "w": "啦"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -8856,7 +9171,8 @@ export const CHAPTER: Chapter = {
               "t": "have",
               "w": "有"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8865,7 +9181,8 @@ export const CHAPTER: Chapter = {
               "t": "individual",
               "w": "个"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8874,7 +9191,8 @@ export const CHAPTER: Chapter = {
               "t": "centaur",
               "w": "半人马"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8883,7 +9201,8 @@ export const CHAPTER: Chapter = {
               "t": "warn",
               "w": "警告"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8892,7 +9211,8 @@ export const CHAPTER: Chapter = {
               "t": "she",
               "w": "她"
             }
-          ]
+          ],
+          "she"
         ],
         [
           "translation_word",
@@ -8901,7 +9221,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "不"
             }
-          ]
+          ],
+          "not"
         ],
         [
           "translation_word",
@@ -8910,16 +9231,18 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "可以"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
           [
             {
-              "t": "sound_of_singing,_cheering_etc",
+              "t": "exclamation",
               "w": "啦"
             }
-          ]
+          ],
+          "-"
         ],
         [
           "punctuation",
@@ -8936,7 +9259,8 @@ export const CHAPTER: Chapter = {
               "t": "most",
               "w": "最"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8945,7 +9269,8 @@ export const CHAPTER: Chapter = {
               "t": "beyond_belief",
               "w": "荒唐"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8954,7 +9279,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8963,7 +9289,8 @@ export const CHAPTER: Chapter = {
               "t": "reason",
               "w": "理由"
             }
-          ]
+          ],
+          "for"
         ],
         [
           "punctuation",
@@ -8976,7 +9303,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8989,7 +9317,8 @@ export const CHAPTER: Chapter = {
               "t": "die",
               "w": "死"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -8998,7 +9327,8 @@ export const CHAPTER: Chapter = {
               "t": "she",
               "w": "她"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9007,7 +9337,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -9020,7 +9351,8 @@ export const CHAPTER: Chapter = {
               "t": "afterwards",
               "w": "后来"
             }
-          ]
+          ],
+          "when"
         ],
         [
           "translation_word",
@@ -9029,7 +9361,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9038,7 +9371,8 @@ export const CHAPTER: Chapter = {
               "t": "the_Great_Learning,_one_of_the_Four_Books_四書|四书[Si4_shu1]_in_Confucianism",
               "w": "大学"
             }
-          ]
+          ],
+          "university"
         ],
         [
           "translation_word",
@@ -9047,7 +9381,8 @@ export const CHAPTER: Chapter = {
               "t": "graduation",
               "w": "毕业"
             }
-          ]
+          ],
+          "graduated"
         ],
         [
           "translation_word",
@@ -9056,7 +9391,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -9069,7 +9405,8 @@ export const CHAPTER: Chapter = {
               "t": "begin",
               "w": "开始"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9078,7 +9415,8 @@ export const CHAPTER: Chapter = {
               "t": "and",
               "w": "和"
             }
-          ]
+          ],
+          "and"
         ],
         [
           "translation_word",
@@ -9091,7 +9429,8 @@ export const CHAPTER: Chapter = {
               "t": "individual",
               "w": "个"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9100,7 +9439,8 @@ export const CHAPTER: Chapter = {
               "t": "called",
               "w": "名叫"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9109,16 +9449,18 @@ export const CHAPTER: Chapter = {
               "t": "Vernon_Dursley",
               "w": "威农·德思"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
           [
             {
-              "t": "gift",
+              "t": "LEY",
               "w": "礼"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9127,7 +9469,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9136,7 +9479,8 @@ export const CHAPTER: Chapter = {
               "t": "boy",
               "w": "男孩子"
             }
-          ]
+          ],
+          "boy"
         ],
         [
           "translation_word",
@@ -9145,7 +9489,8 @@ export const CHAPTER: Chapter = {
               "t": "appointment",
               "w": "约会"
             }
-          ]
+          ],
+          "going"
         ],
         [
           "punctuation",
@@ -9158,7 +9503,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          "he"
         ],
         [
           "translation_word",
@@ -9167,7 +9513,8 @@ export const CHAPTER: Chapter = {
               "t": "very",
               "w": "很"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9176,7 +9523,8 @@ export const CHAPTER: Chapter = {
               "t": "healthy",
               "w": "胖"
             }
-          ]
+          ],
+          "fat"
         ],
         [
           "punctuation",
@@ -9189,7 +9537,8 @@ export const CHAPTER: Chapter = {
               "t": "but",
               "w": "但是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9198,7 +9547,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9207,7 +9557,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9216,7 +9567,8 @@ export const CHAPTER: Chapter = {
               "t": "only",
               "w": "唯一"
             }
-          ]
+          ],
+          "only"
         ],
         [
           "translation_word",
@@ -9229,7 +9581,8 @@ export const CHAPTER: Chapter = {
               "t": "individual",
               "w": "个"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9238,7 +9591,8 @@ export const CHAPTER: Chapter = {
               "t": "agree",
               "w": "肯"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9247,7 +9601,8 @@ export const CHAPTER: Chapter = {
               "t": "and",
               "w": "和"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9256,7 +9611,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          "me"
         ],
         [
           "translation_word",
@@ -9265,7 +9621,8 @@ export const CHAPTER: Chapter = {
               "t": "speak",
               "w": "说话"
             }
-          ]
+          ],
+          "talk"
         ],
         [
           "translation_word",
@@ -9274,7 +9631,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9283,7 +9641,8 @@ export const CHAPTER: Chapter = {
               "t": "male",
               "w": "男"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9292,7 +9651,8 @@ export const CHAPTER: Chapter = {
               "t": "child",
               "w": "孩子"
             }
-          ]
+          ],
+          "children"
         ],
         [
           "punctuation",
@@ -9305,7 +9665,8 @@ export const CHAPTER: Chapter = {
               "t": "after",
               "w": "然后"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9314,7 +9675,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9323,7 +9685,8 @@ export const CHAPTER: Chapter = {
               "t": "persuade",
               "w": "说"
             }
-          ]
+          ],
+          "said"
         ],
         [
           "translation_word",
@@ -9332,7 +9695,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9341,7 +9705,8 @@ export const CHAPTER: Chapter = {
               "t": "think",
               "w": "想"
             }
-          ]
+          ],
+          "wanted"
         ],
         [
           "translation_word",
@@ -9350,7 +9715,8 @@ export const CHAPTER: Chapter = {
               "t": "demand",
               "w": "要"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9359,7 +9725,8 @@ export const CHAPTER: Chapter = {
               "t": "child",
               "w": "孩子"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -9372,7 +9739,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          "his"
         ],
         [
           "translation_word",
@@ -9381,7 +9749,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9394,7 +9763,8 @@ export const CHAPTER: Chapter = {
               "t": "son",
               "w": "儿子"
             }
-          ]
+          ],
+          "son"
         ],
         [
           "translation_word",
@@ -9403,7 +9773,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9412,7 +9783,8 @@ export const CHAPTER: Chapter = {
               "t": "name",
               "w": "名字"
             }
-          ]
+          ],
+          "names"
         ],
         [
           "translation_word",
@@ -9421,7 +9793,8 @@ export const CHAPTER: Chapter = {
               "t": "demand",
               "w": "要"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9430,7 +9803,8 @@ export const CHAPTER: Chapter = {
               "t": "be_called",
               "w": "叫做"
             }
-          ]
+          ],
+          "named"
         ],
         [
           "translation_word",
@@ -9439,7 +9813,8 @@ export const CHAPTER: Chapter = {
               "t": "attain",
               "w": "达"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9448,7 +9823,8 @@ export const CHAPTER: Chapter = {
               "t": "power",
               "w": "力"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -9461,7 +9837,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9470,7 +9847,8 @@ export const CHAPTER: Chapter = {
               "t": "think",
               "w": "想"
             }
-          ]
+          ],
+          "thought"
         ],
         [
           "punctuation",
@@ -9483,7 +9861,8 @@ export const CHAPTER: Chapter = {
               "t": "what_kind?",
               "w": "什么样"
             }
-          ]
+          ],
+          "kind"
         ],
         [
           "translation_word",
@@ -9492,7 +9871,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9501,7 +9881,8 @@ export const CHAPTER: Chapter = {
               "t": "father_and_mother",
               "w": "父母"
             }
-          ]
+          ],
+          "parent"
         ],
         [
           "translation_word",
@@ -9510,7 +9891,8 @@ export const CHAPTER: Chapter = {
               "t": "ability",
               "w": "才"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9519,7 +9901,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "会"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9528,7 +9911,8 @@ export const CHAPTER: Chapter = {
               "t": "to",
               "w": "给"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9537,7 +9921,8 @@ export const CHAPTER: Chapter = {
               "t": "oneself",
               "w": "自己"
             }
-          ]
+          ],
+          "myself"
         ],
         [
           "translation_word",
@@ -9546,7 +9931,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9555,7 +9941,8 @@ export const CHAPTER: Chapter = {
               "t": "child",
               "w": "孩子"
             }
-          ]
+          ],
+          "child"
         ],
         [
           "translation_word",
@@ -9564,7 +9951,8 @@ export const CHAPTER: Chapter = {
               "t": "name",
               "w": "起名"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9573,7 +9961,8 @@ export const CHAPTER: Chapter = {
               "t": "shout",
               "w": "叫"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9582,16 +9971,18 @@ export const CHAPTER: Chapter = {
               "t": "Dudley_Dursley",
               "w": "达力·德思"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
           [
             {
-              "t": "gift",
+              "t": "LEY",
               "w": "礼"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9600,7 +9991,8 @@ export const CHAPTER: Chapter = {
               "t": "interjection_of_surprise",
               "w": "啊"
             }
-          ]
+          ],
+          "n't"
         ],
         [
           "punctuation",
@@ -9613,7 +10005,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          "my"
         ],
         [
           "translation_word",
@@ -9622,7 +10015,8 @@ export const CHAPTER: Chapter = {
               "t": "at",
               "w": "在"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9631,7 +10025,8 @@ export const CHAPTER: Chapter = {
               "t": "that",
               "w": "那"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9644,16 +10039,18 @@ export const CHAPTER: Chapter = {
               "t": "quarter",
               "w": "刻"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
           [
             {
-              "t": "NOT_FOUND",
+              "t": "..",
               "w": "清清楚楚"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9662,16 +10059,18 @@ export const CHAPTER: Chapter = {
               "t": "-ly",
               "w": "地"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
           [
             {
-              "t": "NOT_FOUND",
+              "t": "..",
               "w": "看到"
             }
-          ]
+          ],
+          "saw"
         ],
         [
           "translation_word",
@@ -9680,7 +10079,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9689,7 +10089,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9698,7 +10099,8 @@ export const CHAPTER: Chapter = {
               "t": "in_the_future",
               "w": "将来"
             }
-          ]
+          ],
+          "future"
         ],
         [
           "punctuation",
@@ -9711,7 +10113,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9720,7 +10123,8 @@ export const CHAPTER: Chapter = {
               "t": "again",
               "w": "再"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9729,7 +10133,8 @@ export const CHAPTER: Chapter = {
               "t": "also",
               "w": "也"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9738,7 +10143,8 @@ export const CHAPTER: Chapter = {
               "t": "unbearable",
               "w": "受不了"
             }
-          ]
+          ],
+          "stand"
         ],
         [
           "translation_word",
@@ -9747,7 +10153,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -9760,7 +10167,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9769,7 +10177,8 @@ export const CHAPTER: Chapter = {
               "t": "to",
               "w": "给"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9778,7 +10187,8 @@ export const CHAPTER: Chapter = {
               "t": "younger_sister",
               "w": "妹妹"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9787,7 +10197,8 @@ export const CHAPTER: Chapter = {
               "t": "write_a_letter",
               "w": "写信"
             }
-          ]
+          ],
+          "wrote"
         ],
         [
           "punctuation",
@@ -9800,7 +10211,8 @@ export const CHAPTER: Chapter = {
               "t": "right",
               "w": "对"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9809,7 +10221,8 @@ export const CHAPTER: Chapter = {
               "t": "she",
               "w": "她"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9818,7 +10231,8 @@ export const CHAPTER: Chapter = {
               "t": "persuade",
               "w": "说"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9827,7 +10241,8 @@ export const CHAPTER: Chapter = {
               "t": "if",
               "w": "如果"
             }
-          ]
+          ],
+          "if"
         ],
         [
           "translation_word",
@@ -9836,7 +10251,8 @@ export const CHAPTER: Chapter = {
               "t": "she",
               "w": "她"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9845,7 +10261,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "不"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9854,7 +10271,8 @@ export const CHAPTER: Chapter = {
               "t": "agree",
               "w": "肯"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9863,7 +10281,8 @@ export const CHAPTER: Chapter = {
               "t": "help",
               "w": "帮"
             }
-          ]
+          ],
+          "help"
         ],
         [
           "translation_word",
@@ -9872,7 +10291,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9881,7 +10301,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9890,7 +10311,8 @@ export const CHAPTER: Chapter = {
               "t": "dialect",
               "w": "话"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -9903,7 +10325,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9912,7 +10335,8 @@ export const CHAPTER: Chapter = {
               "t": "at_once",
               "w": "就"
             }
-          ]
+          ],
+          "'d"
         ],
         [
           "translation_word",
@@ -9921,15 +10345,18 @@ export const CHAPTER: Chapter = {
               "t": "go",
               "w": "去"
             }
-          ]
+          ],
+          ""
         ],
         [
-          "punctuation",
-          "—"
-        ],
-        [
-          "punctuation",
-          "—"
+          "translation_word",
+          [
+            {
+              "t": "..",
+              "w": "——"
+            }
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -9948,7 +10375,8 @@ export const CHAPTER: Chapter = {
               "t": "Petunia",
               "w": "佩妮"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9957,7 +10385,8 @@ export const CHAPTER: Chapter = {
               "t": "stop",
               "w": "停住"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -9966,7 +10395,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -9989,7 +10419,8 @@ export const CHAPTER: Chapter = {
               "t": "in_short",
               "w": "总而言之"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -10006,7 +10437,8 @@ export const CHAPTER: Chapter = {
               "t": "Petunia",
               "w": "佩妮"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10015,7 +10447,8 @@ export const CHAPTER: Chapter = {
               "t": "in_a_low_voice",
               "w": "小声"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10024,7 +10457,8 @@ export const CHAPTER: Chapter = {
               "t": "persuade",
               "w": "说"
             }
-          ]
+          ],
+          "said"
         ],
         [
           "punctuation",
@@ -10041,7 +10475,8 @@ export const CHAPTER: Chapter = {
               "t": "she",
               "w": "她"
             }
-          ]
+          ],
+          "her"
         ],
         [
           "translation_word",
@@ -10050,7 +10485,8 @@ export const CHAPTER: Chapter = {
               "t": "surrender",
               "w": "屈服"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10059,7 +10495,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          "gave"
         ],
         [
           "punctuation",
@@ -10072,7 +10509,8 @@ export const CHAPTER: Chapter = {
               "t": "she",
               "w": "她"
             }
-          ]
+          ],
+          "she"
         ],
         [
           "translation_word",
@@ -10081,7 +10519,8 @@ export const CHAPTER: Chapter = {
               "t": "tell",
               "w": "告诉"
             }
-          ]
+          ],
+          "told"
         ],
         [
           "translation_word",
@@ -10090,7 +10529,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          "me"
         ],
         [
           "translation_word",
@@ -10099,7 +10539,8 @@ export const CHAPTER: Chapter = {
               "t": "persuade",
               "w": "说"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10108,7 +10549,8 @@ export const CHAPTER: Chapter = {
               "t": "very",
               "w": "很"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10117,7 +10559,8 @@ export const CHAPTER: Chapter = {
               "t": "danger",
               "w": "危险"
             }
-          ]
+          ],
+          "dangerous"
         ],
         [
           "punctuation",
@@ -10130,7 +10573,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10139,7 +10583,8 @@ export const CHAPTER: Chapter = {
               "t": "persuade",
               "w": "说"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10148,7 +10593,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10157,7 +10603,8 @@ export const CHAPTER: Chapter = {
               "t": "not_to_care",
               "w": "不在乎"
             }
-          ]
+          ],
+          "care"
         ],
         [
           "punctuation",
@@ -10170,7 +10617,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10179,7 +10627,8 @@ export const CHAPTER: Chapter = {
               "t": "drink",
               "w": "喝"
             }
-          ]
+          ],
+          "drank"
         ],
         [
           "translation_word",
@@ -10188,7 +10637,8 @@ export const CHAPTER: Chapter = {
               "t": "down",
               "w": "下"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10197,7 +10647,8 @@ export const CHAPTER: Chapter = {
               "t": "she",
               "w": "她"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10206,7 +10657,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10215,7 +10667,8 @@ export const CHAPTER: Chapter = {
               "t": "enchantment",
               "w": "魔法"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10224,7 +10677,8 @@ export const CHAPTER: Chapter = {
               "t": "Yaksu_in_North_Korea,_near_the_border_with_Liaoning_and_Jiling_province",
               "w": "药水"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -10237,7 +10691,8 @@ export const CHAPTER: Chapter = {
               "t": "be_born",
               "w": "生"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10246,7 +10701,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10255,7 +10711,8 @@ export const CHAPTER: Chapter = {
               "t": "small_table",
               "w": "几"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10264,7 +10721,8 @@ export const CHAPTER: Chapter = {
               "t": "individual",
               "w": "个"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10273,7 +10731,8 @@ export const CHAPTER: Chapter = {
               "t": "week",
               "w": "星期"
             }
-          ]
+          ],
+          "weeks"
         ],
         [
           "translation_word",
@@ -10282,7 +10741,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10291,7 +10751,8 @@ export const CHAPTER: Chapter = {
               "t": "illness",
               "w": "病"
             }
-          ]
+          ],
+          "sick"
         ],
         [
           "punctuation",
@@ -10304,7 +10765,8 @@ export const CHAPTER: Chapter = {
               "t": "illness",
               "w": "病"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10313,7 +10775,8 @@ export const CHAPTER: Chapter = {
               "t": "good",
               "w": "好"
             }
-          ]
+          ],
+          "better"
         ],
         [
           "translation_word",
@@ -10322,7 +10785,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10331,7 +10795,8 @@ export const CHAPTER: Chapter = {
               "t": "time",
               "w": "时候"
             }
-          ]
+          ],
+          "when"
         ],
         [
           "punctuation",
@@ -10344,7 +10809,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          "my"
         ],
         [
           "translation_word",
@@ -10353,7 +10819,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10362,7 +10829,8 @@ export const CHAPTER: Chapter = {
               "t": "pimple",
               "w": "粉刺"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10371,7 +10839,8 @@ export const CHAPTER: Chapter = {
               "t": "haven't",
               "w": "没有"
             }
-          ]
+          ],
+          "n't"
         ],
         [
           "translation_word",
@@ -10380,7 +10849,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          "got"
         ],
         [
           "punctuation",
@@ -10393,7 +10863,8 @@ export const CHAPTER: Chapter = {
               "t": "stature",
               "w": "身材"
             }
-          ]
+          ],
+          "beautiful"
         ],
         [
           "translation_word",
@@ -10402,7 +10873,8 @@ export const CHAPTER: Chapter = {
               "t": "change",
               "w": "变"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10411,7 +10883,8 @@ export const CHAPTER: Chapter = {
               "t": "good",
               "w": "好"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10420,7 +10893,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -10433,15 +10907,18 @@ export const CHAPTER: Chapter = {
               "t": "but_also",
               "w": "而且"
             }
-          ]
+          ],
+          "but"
         ],
         [
-          "punctuation",
-          "…"
-        ],
-        [
-          "punctuation",
-          "…"
+          "translation_word",
+          [
+            {
+              "t": "..",
+              "w": "……"
+            }
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10450,7 +10927,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10459,7 +10937,8 @@ export const CHAPTER: Chapter = {
               "t": "change_into",
               "w": "变成"
             }
-          ]
+          ],
+          "broke"
         ],
         [
           "translation_word",
@@ -10468,7 +10947,8 @@ export const CHAPTER: Chapter = {
               "t": "beautiful_woman",
               "w": "美女"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10477,7 +10957,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -10490,7 +10971,8 @@ export const CHAPTER: Chapter = {
               "t": "everyone",
               "w": "大家"
             }
-          ]
+          ],
+          "people"
         ],
         [
           "translation_word",
@@ -10499,7 +10981,8 @@ export const CHAPTER: Chapter = {
               "t": "begin",
               "w": "开始"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10508,7 +10991,8 @@ export const CHAPTER: Chapter = {
               "t": "right",
               "w": "对"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10517,7 +11001,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10526,7 +11011,8 @@ export const CHAPTER: Chapter = {
               "t": "very",
               "w": "很"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10535,7 +11021,8 @@ export const CHAPTER: Chapter = {
               "t": "good",
               "w": "好"
             }
-          ]
+          ],
+          "nice"
         ],
         [
           "punctuation",
@@ -10552,7 +11039,8 @@ export const CHAPTER: Chapter = {
               "t": "she",
               "w": "她"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10561,7 +11049,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10574,7 +11063,8 @@ export const CHAPTER: Chapter = {
               "t": "choke_with_emotion",
               "w": "哽咽"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10583,7 +11073,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -10600,7 +11091,8 @@ export const CHAPTER: Chapter = {
               "t": "from",
               "w": "从"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10609,7 +11101,8 @@ export const CHAPTER: Chapter = {
               "t": "that",
               "w": "那"
             }
-          ]
+          ],
+          "that"
         ],
         [
           "translation_word",
@@ -10618,7 +11111,8 @@ export const CHAPTER: Chapter = {
               "t": "after",
               "w": "以后"
             }
-          ]
+          ],
+          "after"
         ],
         [
           "translation_word",
@@ -10627,7 +11121,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10636,7 +11131,8 @@ export const CHAPTER: Chapter = {
               "t": "right",
               "w": "对"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10645,7 +11141,8 @@ export const CHAPTER: Chapter = {
               "t": "younger_sister",
               "w": "妹妹"
             }
-          ]
+          ],
+          "sister"
         ],
         [
           "translation_word",
@@ -10654,7 +11151,8 @@ export const CHAPTER: Chapter = {
               "t": "again",
               "w": "再"
             }
-          ]
+          ],
+          "more"
         ],
         [
           "translation_word",
@@ -10663,7 +11161,8 @@ export const CHAPTER: Chapter = {
               "t": "also",
               "w": "也"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10672,7 +11171,8 @@ export const CHAPTER: Chapter = {
               "t": "hate",
               "w": "恨"
             }
-          ]
+          ],
+          "hate"
         ],
         [
           "translation_word",
@@ -10681,7 +11181,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "不"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10690,7 +11191,8 @@ export const CHAPTER: Chapter = {
               "t": "stand_up",
               "w": "起来"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10699,7 +11201,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -10712,7 +11215,8 @@ export const CHAPTER: Chapter = {
               "t": "let_alone",
               "w": "何况"
             }
-          ]
+          ],
+          "especially"
         ],
         [
           "translation_word",
@@ -10721,7 +11225,8 @@ export const CHAPTER: Chapter = {
               "t": "afterwards",
               "w": "后来"
             }
-          ]
+          ],
+          "learned"
         ],
         [
           "translation_word",
@@ -10730,16 +11235,18 @@ export const CHAPTER: Chapter = {
               "t": "again",
               "w": "又"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
           [
             {
-              "t": "NOT_FOUND",
+              "t": "..",
               "w": "看到"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10748,7 +11255,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10757,7 +11265,8 @@ export const CHAPTER: Chapter = {
               "t": "she",
               "w": "她"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10766,7 +11275,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10775,7 +11285,8 @@ export const CHAPTER: Chapter = {
               "t": "enchantment",
               "w": "魔法"
             }
-          ]
+          ],
+          "magic"
         ],
         [
           "translation_word",
@@ -10784,7 +11295,8 @@ export const CHAPTER: Chapter = {
               "t": "band",
               "w": "带"
             }
-          ]
+          ],
+          "brought"
         ],
         [
           "translation_word",
@@ -10793,7 +11305,8 @@ export const CHAPTER: Chapter = {
               "t": "to",
               "w": "给"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10802,7 +11315,8 @@ export const CHAPTER: Chapter = {
               "t": "she",
               "w": "她"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10811,7 +11325,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10820,15 +11335,18 @@ export const CHAPTER: Chapter = {
               "t": "conclusion",
               "w": "结局"
             }
-          ]
+          ],
+          "end"
         ],
         [
-          "punctuation",
-          "—"
-        ],
-        [
-          "punctuation",
-          "—"
+          "translation_word",
+          [
+            {
+              "t": "..",
+              "w": "——"
+            }
+          ],
+          "-"
         ],
         [
           "punctuation",
@@ -10851,7 +11369,8 @@ export const CHAPTER: Chapter = {
               "t": "dear",
               "w": "亲爱"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10860,7 +11379,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -10881,7 +11401,8 @@ export const CHAPTER: Chapter = {
               "t": "CHAEL",
               "w": "克"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10890,7 +11411,8 @@ export const CHAPTER: Chapter = {
               "t": "gentle_and_soft",
               "w": "温柔"
             }
-          ]
+          ],
+          "gently"
         ],
         [
           "translation_word",
@@ -10899,7 +11421,8 @@ export const CHAPTER: Chapter = {
               "t": "-ly",
               "w": "地"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10908,7 +11431,8 @@ export const CHAPTER: Chapter = {
               "t": "persuade",
               "w": "说"
             }
-          ]
+          ],
+          "said"
         ],
         [
           "punctuation",
@@ -10925,7 +11449,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "你"
             }
-          ]
+          ],
+          "you"
         ],
         [
           "translation_word",
@@ -10934,7 +11459,8 @@ export const CHAPTER: Chapter = {
               "t": "fall_ill",
               "w": "生病"
             }
-          ]
+          ],
+          "sick"
         ],
         [
           "translation_word",
@@ -10943,7 +11469,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          "gained"
         ],
         [
           "punctuation",
@@ -10956,7 +11483,8 @@ export const CHAPTER: Chapter = {
               "t": "because",
               "w": "因为"
             }
-          ]
+          ],
+          "while"
         ],
         [
           "translation_word",
@@ -10965,7 +11493,8 @@ export const CHAPTER: Chapter = {
               "t": "lie_in_bed",
               "w": "卧床"
             }
-          ]
+          ],
+          "bed"
         ],
         [
           "translation_word",
@@ -10974,7 +11503,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10983,7 +11513,8 @@ export const CHAPTER: Chapter = {
               "t": "reason",
               "w": "缘故"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -10992,7 +11523,8 @@ export const CHAPTER: Chapter = {
               "t": "Fengman_district_of_Jilin_city_吉林市,_Jilin_province",
               "w": "丰满"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -11001,7 +11533,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          "got"
         ],
         [
           "translation_word",
@@ -11010,7 +11543,8 @@ export const CHAPTER: Chapter = {
               "t": "some",
               "w": "一些"
             }
-          ]
+          ],
+          "some"
         ],
         [
           "punctuation",
@@ -11023,7 +11557,8 @@ export const CHAPTER: Chapter = {
               "t": "after",
               "w": "然后"
             }
-          ]
+          ],
+          "and"
         ],
         [
           "translation_word",
@@ -11032,7 +11567,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "你"
             }
-          ]
+          ],
+          "your"
         ],
         [
           "translation_word",
@@ -11041,7 +11577,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -11050,7 +11587,8 @@ export const CHAPTER: Chapter = {
               "t": "skin",
               "w": "皮肤"
             }
-          ]
+          ],
+          "skin"
         ],
         [
           "translation_word",
@@ -11059,7 +11597,8 @@ export const CHAPTER: Chapter = {
               "t": "oneself",
               "w": "自己"
             }
-          ]
+          ],
+          "own"
         ],
         [
           "translation_word",
@@ -11068,7 +11607,8 @@ export const CHAPTER: Chapter = {
               "t": "change",
               "w": "变"
             }
-          ]
+          ],
+          "change"
         ],
         [
           "translation_word",
@@ -11077,7 +11617,8 @@ export const CHAPTER: Chapter = {
               "t": "good",
               "w": "好"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -11086,7 +11627,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -11099,7 +11641,8 @@ export const CHAPTER: Chapter = {
               "t": "also",
               "w": "也"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -11108,7 +11651,8 @@ export const CHAPTER: Chapter = {
               "t": "might",
               "w": "可能"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -11117,7 +11661,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "你"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -11126,7 +11671,8 @@ export const CHAPTER: Chapter = {
               "t": "at",
               "w": "在"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -11135,7 +11681,8 @@ export const CHAPTER: Chapter = {
               "t": "fall_ill",
               "w": "生病"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -11144,7 +11691,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -11153,7 +11701,8 @@ export const CHAPTER: Chapter = {
               "t": "time",
               "w": "时候"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -11162,7 +11711,8 @@ export const CHAPTER: Chapter = {
               "t": "change",
               "w": "改变"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -11171,7 +11721,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -11180,7 +11731,8 @@ export const CHAPTER: Chapter = {
               "t": "food_and_drink",
               "w": "饮食"
             }
-          ]
+          ],
+          "diet"
         ],
         [
           "translation_word",
@@ -11189,15 +11741,18 @@ export const CHAPTER: Chapter = {
               "t": "habit",
               "w": "习惯"
             }
-          ]
+          ],
+          ""
         ],
         [
-          "punctuation",
-          "—"
-        ],
-        [
-          "punctuation",
-          "—"
+          "translation_word",
+          [
+            {
+              "t": "..",
+              "w": "——"
+            }
+          ],
+          "-"
         ],
         [
           "punctuation",
@@ -11220,7 +11775,8 @@ export const CHAPTER: Chapter = {
               "t": "she",
               "w": "她"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -11229,7 +11785,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          "was"
         ],
         [
           "translation_word",
@@ -11238,7 +11795,8 @@ export const CHAPTER: Chapter = {
               "t": "witch",
               "w": "女巫"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -11255,7 +11813,8 @@ export const CHAPTER: Chapter = {
               "t": "Petunia",
               "w": "佩妮"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -11264,7 +11823,8 @@ export const CHAPTER: Chapter = {
               "t": "repeat",
               "w": "重复"
             }
-          ]
+          ],
+          "repeated"
         ],
         [
           "translation_word",
@@ -11273,7 +11833,8 @@ export const CHAPTER: Chapter = {
               "t": "road",
               "w": "道"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -11290,7 +11851,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -11299,7 +11861,8 @@ export const CHAPTER: Chapter = {
               "t": "with_one's_own_eyes",
               "w": "亲眼"
             }
-          ]
+          ],
+          "saw"
         ],
         [
           "translation_word",
@@ -11308,7 +11871,8 @@ export const CHAPTER: Chapter = {
               "t": "see",
               "w": "见"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -11317,7 +11881,8 @@ export const CHAPTER: Chapter = {
               "t": "PAST",
               "w": "过"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -11326,7 +11891,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -11353,7 +11919,8 @@ export const CHAPTER: Chapter = {
               "t": "Petunia",
               "w": "佩妮"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -11374,7 +11941,8 @@ export const CHAPTER: Chapter = {
               "t": "CHAEL",
               "w": "克"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -11383,7 +11951,8 @@ export const CHAPTER: Chapter = {
               "t": "state",
               "w": "说道"
             }
-          ]
+          ],
+          "said"
         ],
         [
           "punctuation",
@@ -11396,7 +11965,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          "his"
         ],
         [
           "translation_word",
@@ -11405,7 +11975,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -11414,7 +11985,8 @@ export const CHAPTER: Chapter = {
               "t": "voice",
               "w": "声音"
             }
-          ]
+          ],
+          "voice"
         ],
         [
           "translation_word",
@@ -11423,7 +11995,8 @@ export const CHAPTER: Chapter = {
               "t": "gradually",
               "w": "渐渐"
             }
-          ]
+          ],
+          "creeping"
         ],
         [
           "translation_word",
@@ -11432,7 +12005,8 @@ export const CHAPTER: Chapter = {
               "t": "change",
               "w": "变"
             }
-          ]
+          ],
+          "into"
         ],
         [
           "translation_word",
@@ -11441,7 +12015,8 @@ export const CHAPTER: Chapter = {
               "t": "obtain",
               "w": "得"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -11450,7 +12025,8 @@ export const CHAPTER: Chapter = {
               "t": "impatience",
               "w": "不耐烦"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -11467,7 +12043,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "你"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -11476,7 +12053,8 @@ export const CHAPTER: Chapter = {
               "t": "Ming_Dynasty",
               "w": "明"
             }
-          ]
+          ],
+          "that"
         ],
         [
           "translation_word",
@@ -11485,7 +12063,8 @@ export const CHAPTER: Chapter = {
               "t": "know",
               "w": "知道"
             }
-          ]
+          ],
+          "know"
         ],
         [
           "translation_word",
@@ -11494,7 +12073,8 @@ export const CHAPTER: Chapter = {
               "t": "that",
               "w": "那"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -11503,7 +12083,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -11512,7 +12093,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "不"
             }
-          ]
+          ],
+          "n't"
         ],
         [
           "translation_word",
@@ -11521,7 +12103,8 @@ export const CHAPTER: Chapter = {
               "t": "might",
               "w": "可能"
             }
-          ]
+          ],
+          "be"
         ],
         [
           "translation_word",
@@ -11530,7 +12113,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -11543,7 +12127,8 @@ export const CHAPTER: Chapter = {
               "t": "surely",
               "w": "一定"
             }
-          ]
+          ],
+          "really"
         ],
         [
           "translation_word",
@@ -11552,7 +12137,8 @@ export const CHAPTER: Chapter = {
               "t": "demand",
               "w": "要"
             }
-          ]
+          ],
+          "to"
         ],
         [
           "translation_word",
@@ -11561,7 +12147,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -11570,7 +12157,8 @@ export const CHAPTER: Chapter = {
               "t": "explanation",
               "w": "解释"
             }
-          ]
+          ],
+          "explain"
         ],
         [
           "translation_word",
@@ -11579,7 +12167,8 @@ export const CHAPTER: Chapter = {
               "t": "why?",
               "w": "为什么"
             }
-          ]
+          ],
+          "why"
         ],
         [
           "translation_word",
@@ -11588,7 +12177,8 @@ export const CHAPTER: Chapter = {
               "t": "see_嗎啡|吗啡,_morphine",
               "w": "吗"
             }
-          ]
+          ],
+          "?"
         ],
         [
           "punctuation",
@@ -11615,7 +12205,8 @@ export const CHAPTER: Chapter = {
               "t": "twist",
               "w": "绞"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -11624,7 +12215,8 @@ export const CHAPTER: Chapter = {
               "t": "-ing",
               "w": "着"
             }
-          ]
+          ],
+          "her"
         ],
         [
           "translation_word",
@@ -11633,7 +12225,8 @@ export const CHAPTER: Chapter = {
               "t": "both_hands",
               "w": "双手"
             }
-          ]
+          ],
+          "hands"
         ],
         [
           "punctuation",
@@ -11646,7 +12239,8 @@ export const CHAPTER: Chapter = {
               "t": "look_after",
               "w": "看"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -11655,7 +12249,8 @@ export const CHAPTER: Chapter = {
               "t": "stand_up",
               "w": "起来"
             }
-          ]
+          ],
+          "seemed"
         ],
         [
           "translation_word",
@@ -11664,7 +12259,8 @@ export const CHAPTER: Chapter = {
               "t": "almost",
               "w": "快要"
             }
-          ]
+          ],
+          "verge"
         ],
         [
           "translation_word",
@@ -11673,7 +12269,8 @@ export const CHAPTER: Chapter = {
               "t": "cry",
               "w": "哭"
             }
-          ]
+          ],
+          "tears"
         ],
         [
           "translation_word",
@@ -11682,7 +12279,8 @@ export const CHAPTER: Chapter = {
               "t": "come_out",
               "w": "出来"
             }
-          ]
+          ],
+          "ca"
         ],
         [
           "translation_word",
@@ -11691,7 +12289,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -11712,7 +12311,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -11725,7 +12325,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -11734,7 +12335,8 @@ export const CHAPTER: Chapter = {
               "t": "know",
               "w": "知道"
             }
-          ]
+          ],
+          "know"
         ],
         [
           "translation_word",
@@ -11743,7 +12345,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -11752,7 +12355,8 @@ export const CHAPTER: Chapter = {
               "t": "persuade",
               "w": "说"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -11761,7 +12365,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "不"
             }
-          ]
+          ],
+          "n't"
         ],
         [
           "translation_word",
@@ -11770,7 +12375,8 @@ export const CHAPTER: Chapter = {
               "t": "PAST",
               "w": "过"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -11779,7 +12385,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "你"
             }
-          ]
+          ],
+          "you"
         ],
         [
           "punctuation",
@@ -11792,7 +12399,8 @@ export const CHAPTER: Chapter = {
               "t": "but",
               "w": "可是"
             }
-          ]
+          ],
+          "but"
         ],
         [
           "translation_word",
@@ -11801,7 +12409,8 @@ export const CHAPTER: Chapter = {
               "t": "this",
               "w": "这"
             }
-          ]
+          ],
+          "this"
         ],
         [
           "translation_word",
@@ -11810,7 +12419,8 @@ export const CHAPTER: Chapter = {
               "t": "item",
               "w": "件"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -11819,7 +12429,8 @@ export const CHAPTER: Chapter = {
               "t": "matter",
               "w": "事"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -11828,7 +12439,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "你"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -11837,7 +12449,8 @@ export const CHAPTER: Chapter = {
               "t": "surely",
               "w": "一定"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -11846,7 +12459,8 @@ export const CHAPTER: Chapter = {
               "t": "demand",
               "w": "要"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -11855,7 +12469,8 @@ export const CHAPTER: Chapter = {
               "t": "be_convinced",
               "w": "相信"
             }
-          ]
+          ],
+          "trust"
         ],
         [
           "translation_word",
@@ -11864,15 +12479,18 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          "me"
         ],
         [
-          "punctuation",
-          "—"
-        ],
-        [
-          "punctuation",
-          "—"
+          "translation_word",
+          [
+            {
+              "t": "..",
+              "w": "——"
+            }
+          ],
+          "-"
         ],
         [
           "punctuation",
@@ -11895,7 +12513,8 @@ export const CHAPTER: Chapter = {
               "t": "father",
               "w": "爸爸"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -11908,7 +12527,8 @@ export const CHAPTER: Chapter = {
               "t": "mama",
               "w": "妈妈"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -11931,7 +12551,8 @@ export const CHAPTER: Chapter = {
               "t": "two",
               "w": "两"
             }
-          ]
+          ],
+          "two"
         ],
         [
           "translation_word",
@@ -11940,7 +12561,8 @@ export const CHAPTER: Chapter = {
               "t": "man",
               "w": "人"
             }
-          ]
+          ],
+          "them"
         ],
         [
           "translation_word",
@@ -11949,7 +12571,8 @@ export const CHAPTER: Chapter = {
               "t": "stop",
               "w": "停下来"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -11958,7 +12581,8 @@ export const CHAPTER: Chapter = {
               "t": "look_after",
               "w": "看"
             }
-          ]
+          ],
+          "looked"
         ],
         [
           "translation_word",
@@ -11967,7 +12591,8 @@ export const CHAPTER: Chapter = {
               "t": "-ing",
               "w": "着"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -11976,7 +12601,8 @@ export const CHAPTER: Chapter = {
               "t": "Harry",
               "w": "哈利"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -11989,7 +12615,8 @@ export const CHAPTER: Chapter = {
               "t": "at_once",
               "w": "就"
             }
-          ]
+          ],
+          "'d"
         ],
         [
           "translation_word",
@@ -11998,7 +12625,8 @@ export const CHAPTER: Chapter = {
               "t": "resemble",
               "w": "像"
             }
-          ]
+          ],
+          "as"
         ],
         [
           "translation_word",
@@ -12007,7 +12635,8 @@ export const CHAPTER: Chapter = {
               "t": "just_recently",
               "w": "刚刚"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12016,7 +12645,8 @@ export const CHAPTER: Chapter = {
               "t": "ability",
               "w": "才"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12025,7 +12655,8 @@ export const CHAPTER: Chapter = {
               "t": "recall",
               "w": "想起"
             }
-          ]
+          ],
+          "there"
         ],
         [
           "translation_word",
@@ -12034,7 +12665,8 @@ export const CHAPTER: Chapter = {
               "t": "house",
               "w": "屋子"
             }
-          ]
+          ],
+          "room"
         ],
         [
           "translation_word",
@@ -12043,7 +12675,8 @@ export const CHAPTER: Chapter = {
               "t": "lining",
               "w": "里"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12052,7 +12685,8 @@ export const CHAPTER: Chapter = {
               "t": "still",
               "w": "还"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12061,16 +12695,18 @@ export const CHAPTER: Chapter = {
               "t": "have",
               "w": "有"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
           [
             {
-              "t": "NOT_FOUND",
+              "t": "..",
               "w": "第三"
             }
-          ]
+          ],
+          "third"
         ],
         [
           "translation_word",
@@ -12079,7 +12715,8 @@ export const CHAPTER: Chapter = {
               "t": "individual",
               "w": "个"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12088,7 +12725,8 @@ export const CHAPTER: Chapter = {
               "t": "man",
               "w": "人"
             }
-          ]
+          ],
+          "person"
         ],
         [
           "punctuation",
@@ -12107,7 +12745,8 @@ export const CHAPTER: Chapter = {
               "t": "Harry",
               "w": "哈利"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12116,7 +12755,8 @@ export const CHAPTER: Chapter = {
               "t": "deep",
               "w": "深"
             }
-          ]
+          ],
+          "deep"
         ],
         [
           "translation_word",
@@ -12125,7 +12765,8 @@ export const CHAPTER: Chapter = {
               "t": "breathe",
               "w": "吸"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12134,7 +12775,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          "took"
         ],
         [
           "translation_word",
@@ -12143,7 +12785,8 @@ export const CHAPTER: Chapter = {
               "t": "one",
               "w": "一"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12152,7 +12795,8 @@ export const CHAPTER: Chapter = {
               "t": "mouth",
               "w": "口"
             }
-          ]
+          ],
+          "breath"
         ],
         [
           "translation_word",
@@ -12161,7 +12805,8 @@ export const CHAPTER: Chapter = {
               "t": "gas",
               "w": "气"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -12178,7 +12823,8 @@ export const CHAPTER: Chapter = {
               "t": "mama",
               "w": "妈妈"
             }
-          ]
+          ],
+          "parents"
         ],
         [
           "punctuation",
@@ -12191,7 +12837,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "你"
             }
-          ]
+          ],
+          "your"
         ],
         [
           "translation_word",
@@ -12200,7 +12847,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12209,7 +12857,8 @@ export const CHAPTER: Chapter = {
               "t": "father_and_mother",
               "w": "父母"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12218,7 +12867,8 @@ export const CHAPTER: Chapter = {
               "t": "also",
               "w": "也"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12227,7 +12877,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "不"
             }
-          ]
+          ],
+          "did"
         ],
         [
           "translation_word",
@@ -12236,7 +12887,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "会"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12245,7 +12897,8 @@ export const CHAPTER: Chapter = {
               "t": "enchantment",
               "w": "魔法"
             }
-          ]
+          ],
+          "magic"
         ],
         [
           "punctuation",
@@ -12258,7 +12911,8 @@ export const CHAPTER: Chapter = {
               "t": "right",
               "w": "对"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12267,7 +12921,8 @@ export const CHAPTER: Chapter = {
               "t": "incorrect",
               "w": "不对"
             }
-          ]
+          ],
+          "n't"
         ],
         [
           "punctuation",
@@ -12294,7 +12949,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12303,7 +12959,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "不"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12312,7 +12969,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "会"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -12329,7 +12987,8 @@ export const CHAPTER: Chapter = {
               "t": "Petunia",
               "w": "佩妮"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12338,7 +12997,8 @@ export const CHAPTER: Chapter = {
               "t": "persuade",
               "w": "说"
             }
-          ]
+          ],
+          "said"
         ],
         [
           "punctuation",
@@ -12351,7 +13011,8 @@ export const CHAPTER: Chapter = {
               "t": "look_after",
               "w": "看"
             }
-          ]
+          ],
+          "looking"
         ],
         [
           "translation_word",
@@ -12360,7 +13021,8 @@ export const CHAPTER: Chapter = {
               "t": "stand_up",
               "w": "起来"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12369,7 +13031,8 @@ export const CHAPTER: Chapter = {
               "t": "have",
               "w": "有"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12378,7 +13041,8 @@ export const CHAPTER: Chapter = {
               "t": "point",
               "w": "点"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12387,7 +13051,8 @@ export const CHAPTER: Chapter = {
               "t": "unfathomable_mystery_;_subtle_and_ineffable",
               "w": "莫名其妙"
             }
-          ]
+          ],
+          "puzzled"
         ],
         [
           "punctuation",
@@ -12410,7 +13075,8 @@ export const CHAPTER: Chapter = {
               "t": "like_that",
               "w": "那么"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12423,7 +13089,8 @@ export const CHAPTER: Chapter = {
               "t": "LI",
               "w": "莉"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12432,16 +13099,18 @@ export const CHAPTER: Chapter = {
               "t": "hold",
               "w": "拿"
             }
-          ]
+          ],
+          "got"
         ],
         [
           "translation_word",
           [
             {
-              "t": "NOT_FOUND",
+              "t": "..",
               "w": "到"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12450,7 +13119,8 @@ export const CHAPTER: Chapter = {
               "t": "she",
               "w": "她"
             }
-          ]
+          ],
+          "her"
         ],
         [
           "translation_word",
@@ -12459,7 +13129,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12468,7 +13139,8 @@ export const CHAPTER: Chapter = {
               "t": "letter",
               "w": "信"
             }
-          ]
+          ],
+          "letter"
         ],
         [
           "translation_word",
@@ -12477,7 +13149,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12486,7 +13159,8 @@ export const CHAPTER: Chapter = {
               "t": "time",
               "w": "时候"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -12499,7 +13173,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "你们"
             }
-          ]
+          ],
+          "your"
         ],
         [
           "translation_word",
@@ -12508,7 +13183,8 @@ export const CHAPTER: Chapter = {
               "t": "home_;_family",
               "w": "家"
             }
-          ]
+          ],
+          "family"
         ],
         [
           "translation_word",
@@ -12517,7 +13193,8 @@ export const CHAPTER: Chapter = {
               "t": "also",
               "w": "也"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12526,7 +13203,8 @@ export const CHAPTER: Chapter = {
               "t": "haven't",
               "w": "没有"
             }
-          ]
+          ],
+          "no"
         ],
         [
           "translation_word",
@@ -12535,7 +13213,8 @@ export const CHAPTER: Chapter = {
               "t": "man",
               "w": "人"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12544,7 +13223,8 @@ export const CHAPTER: Chapter = {
               "t": "know",
               "w": "知道"
             }
-          ]
+          ],
+          "knew"
         ],
         [
           "translation_word",
@@ -12553,7 +13233,8 @@ export const CHAPTER: Chapter = {
               "t": "enchantment",
               "w": "魔法"
             }
-          ]
+          ],
+          "magic"
         ],
         [
           "translation_word",
@@ -12562,7 +13243,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12571,7 +13253,8 @@ export const CHAPTER: Chapter = {
               "t": "exist",
               "w": "存在"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -12584,7 +13267,8 @@ export const CHAPTER: Chapter = {
               "t": "they",
               "w": "他们"
             }
-          ]
+          ],
+          "they"
         ],
         [
           "translation_word",
@@ -12593,7 +13277,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12602,7 +13287,8 @@ export const CHAPTER: Chapter = {
               "t": "how?",
               "w": "怎么"
             }
-          ]
+          ],
+          "did"
         ],
         [
           "translation_word",
@@ -12611,7 +13297,8 @@ export const CHAPTER: Chapter = {
               "t": "be_convinced",
               "w": "相信"
             }
-          ]
+          ],
+          "convinced"
         ],
         [
           "translation_word",
@@ -12620,7 +13307,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12629,7 +13317,8 @@ export const CHAPTER: Chapter = {
               "t": "particle_indicating_that_a_previously_asked_question_is_to_be_applied_to_the_preceding_word",
               "w": "呢"
             }
-          ]
+          ],
+          "?"
         ],
         [
           "punctuation",
@@ -12656,24 +13345,28 @@ export const CHAPTER: Chapter = {
               "t": "interjection_of_surprise",
               "w": "啊"
             }
-          ]
-        ],
-        [
-          "punctuation",
-          "…"
-        ],
-        [
-          "punctuation",
-          "…"
+          ],
+          "n't"
         ],
         [
           "translation_word",
           [
             {
-              "t": "NOT_FOUND",
+              "t": "..",
+              "w": "……"
+            }
+          ],
+          "."
+        ],
+        [
+          "translation_word",
+          [
+            {
+              "t": "..",
               "w": "\"佩妮"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12682,7 +13375,8 @@ export const CHAPTER: Chapter = {
               "t": "persuade",
               "w": "说"
             }
-          ]
+          ],
+          "said"
         ],
         [
           "punctuation",
@@ -12699,7 +13393,8 @@ export const CHAPTER: Chapter = {
               "t": "they",
               "w": "他们"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12708,7 +13403,8 @@ export const CHAPTER: Chapter = {
               "t": "incessantly",
               "w": "不止"
             }
-          ]
+          ],
+          "just"
         ],
         [
           "translation_word",
@@ -12717,7 +13413,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12726,7 +13423,8 @@ export const CHAPTER: Chapter = {
               "t": "deliver",
               "w": "送"
             }
-          ]
+          ],
+          "send"
         ],
         [
           "translation_word",
@@ -12735,7 +13433,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12744,7 +13443,8 @@ export const CHAPTER: Chapter = {
               "t": "letter",
               "w": "信"
             }
-          ]
+          ],
+          "letter"
         ],
         [
           "translation_word",
@@ -12753,7 +13453,8 @@ export const CHAPTER: Chapter = {
               "t": "come",
               "w": "来"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -12766,7 +13467,8 @@ export const CHAPTER: Chapter = {
               "t": "still",
               "w": "还"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12775,7 +13477,8 @@ export const CHAPTER: Chapter = {
               "t": "come",
               "w": "来"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12784,7 +13487,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12797,7 +13501,8 @@ export const CHAPTER: Chapter = {
               "t": "individual",
               "w": "个"
             }
-          ]
+          ],
+          "a"
         ],
         [
           "translation_word",
@@ -12806,16 +13511,18 @@ export const CHAPTER: Chapter = {
               "t": "suddenly",
               "w": "霍"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
           [
             {
-              "t": "NOT_FOUND",
+              "t": "..",
               "w": "格沃茨"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12824,7 +13531,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12833,7 +13541,8 @@ export const CHAPTER: Chapter = {
               "t": "professor",
               "w": "教授"
             }
-          ]
+          ],
+          "professor"
         ],
         [
           "punctuation",
@@ -12846,15 +13555,18 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          ""
         ],
         [
-          "punctuation",
-          "—"
-        ],
-        [
-          "punctuation",
-          "—"
+          "translation_word",
+          [
+            {
+              "t": "..",
+              "w": "——"
+            }
+          ],
+          "-"
         ],
         [
           "punctuation",
@@ -12871,7 +13583,8 @@ export const CHAPTER: Chapter = {
               "t": "shoot_a_glance",
               "w": "瞥"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12880,7 +13593,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12889,7 +13603,8 @@ export const CHAPTER: Chapter = {
               "t": "one",
               "w": "一"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12898,7 +13613,8 @@ export const CHAPTER: Chapter = {
               "t": "eye",
               "w": "眼"
             }
-          ]
+          ],
+          "eyes"
         ],
         [
           "translation_word",
@@ -12911,7 +13627,8 @@ export const CHAPTER: Chapter = {
               "t": "CHAEL",
               "w": "克"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -12928,7 +13645,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12937,7 +13655,8 @@ export const CHAPTER: Chapter = {
               "t": "to",
               "w": "给"
             }
-          ]
+          ],
+          "sent"
         ],
         [
           "translation_word",
@@ -12946,7 +13665,8 @@ export const CHAPTER: Chapter = {
               "t": "we",
               "w": "我们"
             }
-          ]
+          ],
+          "us"
         ],
         [
           "translation_word",
@@ -12955,7 +13675,8 @@ export const CHAPTER: Chapter = {
               "t": "play",
               "w": "表演"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12964,7 +13685,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -12973,7 +13695,8 @@ export const CHAPTER: Chapter = {
               "t": "some",
               "w": "一些"
             }
-          ]
+          ],
+          "some"
         ],
         [
           "translation_word",
@@ -12982,7 +13705,8 @@ export const CHAPTER: Chapter = {
               "t": "enchantment",
               "w": "魔法"
             }
-          ]
+          ],
+          "magic"
         ],
         [
           "punctuation",
@@ -13009,7 +13733,8 @@ export const CHAPTER: Chapter = {
               "t": "that",
               "w": "那"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13018,7 +13743,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "你们"
             }
-          ]
+          ],
+          "you"
         ],
         [
           "translation_word",
@@ -13027,7 +13753,8 @@ export const CHAPTER: Chapter = {
               "t": "at_once",
               "w": "就"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13036,7 +13763,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "不"
             }
-          ]
+          ],
+          "n't"
         ],
         [
           "translation_word",
@@ -13045,7 +13773,8 @@ export const CHAPTER: Chapter = {
               "t": "use",
               "w": "用"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13054,7 +13783,8 @@ export const CHAPTER: Chapter = {
               "t": "quarrel",
               "w": "吵"
             }
-          ]
+          ],
+          "fight"
         ],
         [
           "translation_word",
@@ -13063,7 +13793,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -13080,7 +13811,8 @@ export const CHAPTER: Chapter = {
               "t": "Harry",
               "w": "哈利"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13089,7 +13821,8 @@ export const CHAPTER: Chapter = {
               "t": "firm",
               "w": "坚决"
             }
-          ]
+          ],
+          "firmly"
         ],
         [
           "translation_word",
@@ -13098,7 +13831,8 @@ export const CHAPTER: Chapter = {
               "t": "-ly",
               "w": "地"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13107,7 +13841,8 @@ export const CHAPTER: Chapter = {
               "t": "persuade",
               "w": "说"
             }
-          ]
+          ],
+          "said"
         ],
         [
           "punctuation",
@@ -13120,7 +13855,8 @@ export const CHAPTER: Chapter = {
               "t": "inwardly",
               "w": "暗自"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13129,7 +13865,8 @@ export const CHAPTER: Chapter = {
               "t": "wish_for",
               "w": "希望"
             }
-          ]
+          ],
+          "hope"
         ],
         [
           "translation_word",
@@ -13138,7 +13875,8 @@ export const CHAPTER: Chapter = {
               "t": "this",
               "w": "这"
             }
-          ]
+          ],
+          "this"
         ],
         [
           "translation_word",
@@ -13147,7 +13885,8 @@ export const CHAPTER: Chapter = {
               "t": "one",
               "w": "一"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13156,7 +13895,8 @@ export const CHAPTER: Chapter = {
               "t": "next_in_sequence",
               "w": "次"
             }
-          ]
+          ],
+          "time"
         ],
         [
           "punctuation",
@@ -13169,7 +13909,8 @@ export const CHAPTER: Chapter = {
               "t": "even",
               "w": "哪怕"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13178,7 +13919,8 @@ export const CHAPTER: Chapter = {
               "t": "at_once",
               "w": "就"
             }
-          ]
+          ],
+          "just"
         ],
         [
           "translation_word",
@@ -13187,7 +13929,8 @@ export const CHAPTER: Chapter = {
               "t": "one",
               "w": "一"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13196,7 +13939,8 @@ export const CHAPTER: Chapter = {
               "t": "next_in_sequence",
               "w": "次"
             }
-          ]
+          ],
+          "once"
         ],
         [
           "punctuation",
@@ -13209,7 +13953,8 @@ export const CHAPTER: Chapter = {
               "t": "they",
               "w": "他们"
             }
-          ]
+          ],
+          "they"
         ],
         [
           "translation_word",
@@ -13218,7 +13963,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "能"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13227,7 +13973,8 @@ export const CHAPTER: Chapter = {
               "t": "incidentally",
               "w": "偶然"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13240,7 +13987,8 @@ export const CHAPTER: Chapter = {
               "t": "smile",
               "w": "听"
             }
-          ]
+          ],
+          "listen"
         ],
         [
           "translation_word",
@@ -13249,7 +13997,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          "him"
         ],
         [
           "translation_word",
@@ -13258,7 +14007,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13267,7 +14017,8 @@ export const CHAPTER: Chapter = {
               "t": "idea",
               "w": "意见"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -13284,7 +14035,8 @@ export const CHAPTER: Chapter = {
               "t": "if",
               "w": "如果"
             }
-          ]
+          ],
+          "if"
         ],
         [
           "translation_word",
@@ -13293,7 +14045,8 @@ export const CHAPTER: Chapter = {
               "t": "this",
               "w": "这"
             }
-          ]
+          ],
+          "it"
         ],
         [
           "translation_word",
@@ -13302,7 +14055,8 @@ export const CHAPTER: Chapter = {
               "t": "item",
               "w": "件"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13311,7 +14065,8 @@ export const CHAPTER: Chapter = {
               "t": "matter",
               "w": "事"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13320,7 +14075,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13333,7 +14089,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          "true"
         ],
         [
           "translation_word",
@@ -13342,7 +14099,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13351,7 +14109,8 @@ export const CHAPTER: Chapter = {
               "t": "dialect",
               "w": "话"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -13364,7 +14123,8 @@ export const CHAPTER: Chapter = {
               "t": "we",
               "w": "我们"
             }
-          ]
+          ],
+          "we"
         ],
         [
           "translation_word",
@@ -13373,7 +14133,8 @@ export const CHAPTER: Chapter = {
               "t": "also",
               "w": "也"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13382,7 +14143,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "可以"
             }
-          ]
+          ],
+          "can"
         ],
         [
           "translation_word",
@@ -13391,7 +14153,8 @@ export const CHAPTER: Chapter = {
               "t": "ask",
               "w": "请"
             }
-          ]
+          ],
+          "get"
         ],
         [
           "translation_word",
@@ -13404,7 +14167,8 @@ export const CHAPTER: Chapter = {
               "t": "individual",
               "w": "个"
             }
-          ]
+          ],
+          "a"
         ],
         [
           "translation_word",
@@ -13413,16 +14177,18 @@ export const CHAPTER: Chapter = {
               "t": "suddenly",
               "w": "霍"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
           [
             {
-              "t": "NOT_FOUND",
+              "t": "..",
               "w": "格沃茨"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13431,7 +14197,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13440,7 +14207,8 @@ export const CHAPTER: Chapter = {
               "t": "professor",
               "w": "教授"
             }
-          ]
+          ],
+          "professor"
         ],
         [
           "translation_word",
@@ -13449,7 +14217,8 @@ export const CHAPTER: Chapter = {
               "t": "come_over",
               "w": "过来"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -13462,7 +14231,8 @@ export const CHAPTER: Chapter = {
               "t": "with_one's_own_eyes",
               "w": "亲眼"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13471,7 +14241,8 @@ export const CHAPTER: Chapter = {
               "t": "be_witness_to",
               "w": "见证"
             }
-          ]
+          ],
+          "see"
         ],
         [
           "translation_word",
@@ -13480,7 +14251,8 @@ export const CHAPTER: Chapter = {
               "t": "enchantment",
               "w": "魔法"
             }
-          ]
+          ],
+          "magic"
         ],
         [
           "translation_word",
@@ -13489,7 +14261,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13498,7 +14271,8 @@ export const CHAPTER: Chapter = {
               "t": "exist",
               "w": "存在"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -13511,7 +14285,8 @@ export const CHAPTER: Chapter = {
               "t": "father",
               "w": "爸爸"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13520,7 +14295,8 @@ export const CHAPTER: Chapter = {
               "t": "at_once",
               "w": "就"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13529,7 +14305,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "会"
             }
-          ]
+          ],
+          "will"
         ],
         [
           "translation_word",
@@ -13538,7 +14315,8 @@ export const CHAPTER: Chapter = {
               "t": "admit",
               "w": "承认"
             }
-          ]
+          ],
+          "admit"
         ],
         [
           "translation_word",
@@ -13547,7 +14325,8 @@ export const CHAPTER: Chapter = {
               "t": "this",
               "w": "这"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13556,7 +14335,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13565,7 +14345,8 @@ export const CHAPTER: Chapter = {
               "t": "really",
               "w": "真"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13574,7 +14355,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13583,7 +14365,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -13596,7 +14379,8 @@ export const CHAPTER: Chapter = {
               "t": "if",
               "w": "如果"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13605,7 +14389,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "不"
             }
-          ]
+          ],
+          "not"
         ],
         [
           "translation_word",
@@ -13614,7 +14399,8 @@ export const CHAPTER: Chapter = {
               "t": "succeed",
               "w": "成"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -13627,7 +14413,8 @@ export const CHAPTER: Chapter = {
               "t": "mama",
               "w": "妈妈"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13636,7 +14423,8 @@ export const CHAPTER: Chapter = {
               "t": "at_once",
               "w": "就"
             }
-          ]
+          ],
+          "then"
         ],
         [
           "translation_word",
@@ -13645,7 +14433,8 @@ export const CHAPTER: Chapter = {
               "t": "admit",
               "w": "承认"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13654,7 +14443,8 @@ export const CHAPTER: Chapter = {
               "t": "this",
               "w": "这"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13663,7 +14453,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13672,7 +14463,8 @@ export const CHAPTER: Chapter = {
               "t": "fake",
               "w": "假"
             }
-          ]
+          ],
+          "false"
         ],
         [
           "translation_word",
@@ -13681,7 +14473,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          "'s"
         ],
         [
           "punctuation",
@@ -13694,7 +14487,8 @@ export const CHAPTER: Chapter = {
               "t": "experiment",
               "w": "实验"
             }
-          ]
+          ],
+          "experimental"
         ],
         [
           "translation_word",
@@ -13703,7 +14497,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13712,7 +14507,8 @@ export const CHAPTER: Chapter = {
               "t": "method",
               "w": "方法"
             }
-          ]
+          ],
+          "method"
         ],
         [
           "translation_word",
@@ -13721,7 +14517,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13730,7 +14527,8 @@ export const CHAPTER: Chapter = {
               "t": "usefulness",
               "w": "用处"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13739,7 +14537,8 @@ export const CHAPTER: Chapter = {
               "t": "at_once",
               "w": "就"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13748,7 +14547,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          "is"
         ],
         [
           "translation_word",
@@ -13757,7 +14557,8 @@ export const CHAPTER: Chapter = {
               "t": "this",
               "w": "这个"
             }
-          ]
+          ],
+          "that"
         ],
         [
           "punctuation",
@@ -13770,7 +14571,8 @@ export const CHAPTER: Chapter = {
               "t": "yield",
               "w": "让"
             }
-          ]
+          ],
+          "so"
         ],
         [
           "translation_word",
@@ -13779,7 +14581,8 @@ export const CHAPTER: Chapter = {
               "t": "we",
               "w": "我们"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13788,7 +14591,8 @@ export const CHAPTER: Chapter = {
               "t": "need_not",
               "w": "不用"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13797,7 +14601,8 @@ export const CHAPTER: Chapter = {
               "t": "argue",
               "w": "争论"
             }
-          ]
+          ],
+          "arguing"
         ],
         [
           "translation_word",
@@ -13806,7 +14611,8 @@ export const CHAPTER: Chapter = {
               "t": "also",
               "w": "也"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13815,7 +14621,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "可以"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13824,7 +14631,8 @@ export const CHAPTER: Chapter = {
               "t": "settle",
               "w": "解决"
             }
-          ]
+          ],
+          "resolve"
         ],
         [
           "translation_word",
@@ -13833,7 +14641,8 @@ export const CHAPTER: Chapter = {
               "t": "question",
               "w": "问题"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -13856,7 +14665,8 @@ export const CHAPTER: Chapter = {
               "t": "professor",
               "w": "教授"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13865,7 +14675,8 @@ export const CHAPTER: Chapter = {
               "t": "see_轉文|转文[zhuai3_wen2]",
               "w": "转"
             }
-          ]
+          ],
+          "turned"
         ],
         [
           "translation_word",
@@ -13874,7 +14685,8 @@ export const CHAPTER: Chapter = {
               "t": "PAST",
               "w": "过"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13883,7 +14695,8 @@ export const CHAPTER: Chapter = {
               "t": "body",
               "w": "身"
             }
-          ]
+          ],
+          "as"
         ],
         [
           "translation_word",
@@ -13892,7 +14705,8 @@ export const CHAPTER: Chapter = {
               "t": "come",
               "w": "来"
             }
-          ]
+          ],
+          "come"
         ],
         [
           "translation_word",
@@ -13901,7 +14715,8 @@ export const CHAPTER: Chapter = {
               "t": "bow_the_head",
               "w": "低头"
             }
-          ]
+          ],
+          "down"
         ],
         [
           "translation_word",
@@ -13910,7 +14725,8 @@ export const CHAPTER: Chapter = {
               "t": "look_after",
               "w": "看"
             }
-          ]
+          ],
+          "looked"
         ],
         [
           "translation_word",
@@ -13919,7 +14735,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          "him"
         ],
         [
           "punctuation",
@@ -13932,7 +14749,8 @@ export const CHAPTER: Chapter = {
               "t": "and",
               "w": "和"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13941,7 +14759,8 @@ export const CHAPTER: Chapter = {
               "t": "ordinary",
               "w": "平常"
             }
-          ]
+          ],
+          "usual"
         ],
         [
           "translation_word",
@@ -13950,7 +14769,8 @@ export const CHAPTER: Chapter = {
               "t": "same",
               "w": "一样"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -13959,7 +14779,8 @@ export const CHAPTER: Chapter = {
               "t": "disdain_as_beneath_contempt",
               "w": "不屑一顾"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -13977,10 +14798,11 @@ export const CHAPTER: Chapter = {
               "w": "得"
             },
             {
-              "t": "sound_of_singing,_cheering_etc",
+              "t": "exclamation",
               "w": "啦"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -13993,7 +14815,8 @@ export const CHAPTER: Chapter = {
               "t": "Harry",
               "w": "哈利"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -14006,7 +14829,8 @@ export const CHAPTER: Chapter = {
               "t": "really",
               "w": "真"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14015,7 +14839,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14024,7 +14849,8 @@ export const CHAPTER: Chapter = {
               "t": "fake",
               "w": "假"
             }
-          ]
+          ],
+          "if"
         ],
         [
           "translation_word",
@@ -14033,7 +14859,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -14046,7 +14873,8 @@ export const CHAPTER: Chapter = {
               "t": "still",
               "w": "还"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14055,7 +14883,8 @@ export const CHAPTER: Chapter = {
               "t": "enchantment",
               "w": "魔法"
             }
-          ]
+          ],
+          "magic"
         ],
         [
           "punctuation",
@@ -14068,7 +14897,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14077,7 +14907,8 @@ export const CHAPTER: Chapter = {
               "t": "original",
               "w": "本来"
             }
-          ]
+          ],
+          "thought"
         ],
         [
           "translation_word",
@@ -14086,7 +14917,8 @@ export const CHAPTER: Chapter = {
               "t": "still",
               "w": "还"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14095,7 +14927,8 @@ export const CHAPTER: Chapter = {
               "t": "have_expectations",
               "w": "期望"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14104,7 +14937,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "你"
             }
-          ]
+          ],
+          "you"
         ],
         [
           "translation_word",
@@ -14113,7 +14947,8 @@ export const CHAPTER: Chapter = {
               "t": "unlikely_to_go_so_far_as_to",
               "w": "不至于"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14122,7 +14957,8 @@ export const CHAPTER: Chapter = {
               "t": "right",
               "w": "对"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14131,7 +14967,8 @@ export const CHAPTER: Chapter = {
               "t": "this",
               "w": "这种"
             }
-          ]
+          ],
+          "this"
         ],
         [
           "translation_word",
@@ -14140,7 +14977,8 @@ export const CHAPTER: Chapter = {
               "t": "affair",
               "w": "事情"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14149,7 +14987,8 @@ export const CHAPTER: Chapter = {
               "t": "also",
               "w": "也"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14158,7 +14997,8 @@ export const CHAPTER: Chapter = {
               "t": "conscientious",
               "w": "认真"
             }
-          ]
+          ],
+          "seriously"
         ],
         [
           "translation_word",
@@ -14167,7 +15007,8 @@ export const CHAPTER: Chapter = {
               "t": "particle_indicating_that_a_previously_asked_question_is_to_be_applied_to_the_preceding_word",
               "w": "呢"
             }
-          ]
+          ],
+          "?"
         ],
         [
           "punctuation",
@@ -14180,7 +15021,8 @@ export const CHAPTER: Chapter = {
               "t": "son",
               "w": "儿子"
             }
-          ]
+          ],
+          "son"
         ],
         [
           "punctuation",
@@ -14193,7 +15035,8 @@ export const CHAPTER: Chapter = {
               "t": "even_if",
               "w": "即使"
             }
-          ]
+          ],
+          "even"
         ],
         [
           "translation_word",
@@ -14202,7 +15045,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "你"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14211,7 +15055,8 @@ export const CHAPTER: Chapter = {
               "t": "ability",
               "w": "才"
             }
-          ]
+          ],
+          "only"
         ],
         [
           "translation_word",
@@ -14220,7 +15065,8 @@ export const CHAPTER: Chapter = {
               "t": "ten",
               "w": "十"
             }
-          ]
+          ],
+          "ten"
         ],
         [
           "translation_word",
@@ -14229,7 +15075,8 @@ export const CHAPTER: Chapter = {
               "t": "classifier_for_years",
               "w": "岁"
             }
-          ]
+          ],
+          "'re"
         ],
         [
           "punctuation",
@@ -14242,7 +15089,8 @@ export const CHAPTER: Chapter = {
               "t": "enchantment",
               "w": "魔法"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14251,7 +15099,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "可以"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14260,7 +15109,8 @@ export const CHAPTER: Chapter = {
               "t": "persuade",
               "w": "说"
             }
-          ]
+          ],
+          "about"
         ],
         [
           "translation_word",
@@ -14269,7 +15119,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          "is"
         ],
         [
           "translation_word",
@@ -14278,7 +15129,8 @@ export const CHAPTER: Chapter = {
               "t": "on_earth",
               "w": "世上"
             }
-          ]
+          ],
+          "there"
         ],
         [
           "translation_word",
@@ -14287,7 +15139,8 @@ export const CHAPTER: Chapter = {
               "t": "most",
               "w": "最"
             }
-          ]
+          ],
+          "most"
         ],
         [
           "translation_word",
@@ -14296,7 +15149,8 @@ export const CHAPTER: Chapter = {
               "t": "anti-science",
               "w": "反科学"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14305,7 +15159,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14314,7 +15169,8 @@ export const CHAPTER: Chapter = {
               "t": "affair",
               "w": "事情"
             }
-          ]
+          ],
+          "thing"
         ],
         [
           "translation_word",
@@ -14323,7 +15179,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -14346,7 +15203,8 @@ export const CHAPTER: Chapter = {
               "t": "Harry",
               "w": "哈利"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14355,7 +15213,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14368,7 +15227,8 @@ export const CHAPTER: Chapter = {
               "t": "side",
               "w": "边"
             }
-          ]
+          ],
+          "mouth"
         ],
         [
           "translation_word",
@@ -14377,7 +15237,8 @@ export const CHAPTER: Chapter = {
               "t": "flit_across",
               "w": "掠过"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14386,7 +15247,8 @@ export const CHAPTER: Chapter = {
               "t": "one",
               "w": "一"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14395,7 +15257,8 @@ export const CHAPTER: Chapter = {
               "t": "silk",
               "w": "丝"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14404,7 +15267,8 @@ export const CHAPTER: Chapter = {
               "t": "force_a_smile",
               "w": "苦笑"
             }
-          ]
+          ],
+          "bitterly"
         ],
         [
           "punctuation",
@@ -14417,7 +15281,8 @@ export const CHAPTER: Chapter = {
               "t": "father",
               "w": "爸爸"
             }
-          ]
+          ],
+          "fathers"
         ],
         [
           "translation_word",
@@ -14426,7 +15291,8 @@ export const CHAPTER: Chapter = {
               "t": "right",
               "w": "对"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14435,7 +15301,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14444,7 +15311,8 @@ export const CHAPTER: Chapter = {
               "t": "very",
               "w": "很"
             }
-          ]
+          ],
+          "was"
         ],
         [
           "translation_word",
@@ -14453,7 +15321,8 @@ export const CHAPTER: Chapter = {
               "t": "good",
               "w": "好"
             }
-          ]
+          ],
+          "better"
         ],
         [
           "punctuation",
@@ -14466,7 +15335,8 @@ export const CHAPTER: Chapter = {
               "t": "might",
               "w": "可能"
             }
-          ]
+          ],
+          "probably"
         ],
         [
           "translation_word",
@@ -14475,7 +15345,8 @@ export const CHAPTER: Chapter = {
               "t": "compared_to",
               "w": "比"
             }
-          ]
+          ],
+          "than"
         ],
         [
           "translation_word",
@@ -14484,7 +15355,8 @@ export const CHAPTER: Chapter = {
               "t": "in_large_part",
               "w": "大部分"
             }
-          ]
+          ],
+          "most"
         ],
         [
           "translation_word",
@@ -14493,7 +15365,8 @@ export const CHAPTER: Chapter = {
               "t": "one's_own",
               "w": "亲生"
             }
-          ]
+          ],
+          "own"
         ],
         [
           "translation_word",
@@ -14502,7 +15375,8 @@ export const CHAPTER: Chapter = {
               "t": "father",
               "w": "父亲"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14511,7 +15385,8 @@ export const CHAPTER: Chapter = {
               "t": "right",
               "w": "对"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14520,7 +15395,8 @@ export const CHAPTER: Chapter = {
               "t": "oneself",
               "w": "自己"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14529,7 +15405,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14538,7 +15415,8 @@ export const CHAPTER: Chapter = {
               "t": "child",
               "w": "孩子"
             }
-          ]
+          ],
+          "children"
         ],
         [
           "translation_word",
@@ -14547,7 +15425,8 @@ export const CHAPTER: Chapter = {
               "t": "still",
               "w": "还"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14556,7 +15435,8 @@ export const CHAPTER: Chapter = {
               "t": "good",
               "w": "好"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -14569,7 +15449,8 @@ export const CHAPTER: Chapter = {
               "t": "Harry",
               "w": "哈利"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14578,7 +15459,8 @@ export const CHAPTER: Chapter = {
               "t": "to_cover",
               "w": "被"
             }
-          ]
+          ],
+          "been"
         ],
         [
           "translation_word",
@@ -14587,7 +15469,8 @@ export const CHAPTER: Chapter = {
               "t": "deliver",
               "w": "送"
             }
-          ]
+          ],
+          "sent"
         ],
         [
           "translation_word",
@@ -14596,7 +15479,8 @@ export const CHAPTER: Chapter = {
               "t": "go",
               "w": "去"
             }
-          ]
+          ],
+          "to"
         ],
         [
           "translation_word",
@@ -14605,7 +15489,8 @@ export const CHAPTER: Chapter = {
               "t": "most",
               "w": "最"
             }
-          ]
+          ],
+          "best"
         ],
         [
           "translation_word",
@@ -14614,7 +15499,8 @@ export const CHAPTER: Chapter = {
               "t": "good",
               "w": "好"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14623,7 +15509,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14632,15 +15519,18 @@ export const CHAPTER: Chapter = {
               "t": "elementary_school",
               "w": "小学"
             }
-          ]
+          ],
+          "primary"
         ],
         [
-          "punctuation",
-          "—"
-        ],
-        [
-          "punctuation",
-          "—"
+          "translation_word",
+          [
+            {
+              "t": "..",
+              "w": "——"
+            }
+          ],
+          "-"
         ],
         [
           "translation_word",
@@ -14649,7 +15539,8 @@ export const CHAPTER: Chapter = {
               "t": "be_defeated",
               "w": "失败"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14658,7 +15549,8 @@ export const CHAPTER: Chapter = {
               "t": "after",
               "w": "以后"
             }
-          ]
+          ],
+          "when"
         ],
         [
           "punctuation",
@@ -14671,7 +15563,8 @@ export const CHAPTER: Chapter = {
               "t": "again",
               "w": "又"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14680,7 +15573,8 @@ export const CHAPTER: Chapter = {
               "t": "from",
               "w": "从"
             }
-          ]
+          ],
+          "from"
         ],
         [
           "translation_word",
@@ -14693,7 +15587,8 @@ export const CHAPTER: Chapter = {
               "t": "hold",
               "w": "把"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14702,7 +15597,8 @@ export const CHAPTER: Chapter = {
               "t": "deficiency",
               "w": "缺"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14711,7 +15607,8 @@ export const CHAPTER: Chapter = {
               "t": "coin",
               "w": "钱"
             }
-          ]
+          ],
+          "n't"
         ],
         [
           "translation_word",
@@ -14720,7 +15617,8 @@ export const CHAPTER: Chapter = {
               "t": "flower",
               "w": "花"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14729,7 +15627,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14738,7 +15637,8 @@ export const CHAPTER: Chapter = {
               "t": "university_student",
               "w": "大学生"
             }
-          ]
+          ],
+          "students"
         ],
         [
           "translation_word",
@@ -14747,7 +15647,8 @@ export const CHAPTER: Chapter = {
               "t": "China",
               "w": "中"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14760,7 +15661,8 @@ export const CHAPTER: Chapter = {
               "t": "man",
               "w": "人"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14769,7 +15671,8 @@ export const CHAPTER: Chapter = {
               "t": "do",
               "w": "做"
             }
-          ]
+          ],
+          "did"
         ],
         [
           "translation_word",
@@ -14778,7 +15681,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          "he"
         ],
         [
           "translation_word",
@@ -14787,7 +15691,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14796,7 +15701,8 @@ export const CHAPTER: Chapter = {
               "t": "private",
               "w": "私人"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14805,7 +15711,8 @@ export const CHAPTER: Chapter = {
               "t": "teacher",
               "w": "老师"
             }
-          ]
+          ],
+          "schools"
         ],
         [
           "punctuation",
@@ -14818,7 +15725,8 @@ export const CHAPTER: Chapter = {
               "t": "Harry",
               "w": "哈利"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14827,7 +15735,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "可以"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14836,7 +15745,8 @@ export const CHAPTER: Chapter = {
               "t": "learn",
               "w": "学习"
             }
-          ]
+          ],
+          "study"
         ],
         [
           "translation_word",
@@ -14845,7 +15755,8 @@ export const CHAPTER: Chapter = {
               "t": "any",
               "w": "任何"
             }
-          ]
+          ],
+          "whatever"
         ],
         [
           "translation_word",
@@ -14854,7 +15765,8 @@ export const CHAPTER: Chapter = {
               "t": "see_令狐[Ling2_hu2]",
               "w": "令"
             }
-          ]
+          ],
+          "encouraged"
         ],
         [
           "translation_word",
@@ -14863,7 +15775,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          "his"
         ],
         [
           "translation_word",
@@ -14872,7 +15785,8 @@ export const CHAPTER: Chapter = {
               "t": "feel",
               "w": "感"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14881,7 +15795,8 @@ export const CHAPTER: Chapter = {
               "t": "interest",
               "w": "兴趣"
             }
-          ]
+          ],
+          "attention"
         ],
         [
           "translation_word",
@@ -14890,7 +15805,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14899,7 +15815,8 @@ export const CHAPTER: Chapter = {
               "t": "task",
               "w": "课题"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -14912,7 +15829,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "可以"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14921,7 +15839,8 @@ export const CHAPTER: Chapter = {
               "t": "buy",
               "w": "买"
             }
-          ]
+          ],
+          "bought"
         ],
         [
           "translation_word",
@@ -14930,7 +15849,8 @@ export const CHAPTER: Chapter = {
               "t": "down",
               "w": "下"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14939,7 +15859,8 @@ export const CHAPTER: Chapter = {
               "t": "actually",
               "w": "所"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14948,7 +15869,8 @@ export const CHAPTER: Chapter = {
               "t": "have",
               "w": "有"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14957,7 +15879,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14966,7 +15889,8 @@ export const CHAPTER: Chapter = {
               "t": "think",
               "w": "想"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14975,7 +15899,8 @@ export const CHAPTER: Chapter = {
               "t": "look_after",
               "w": "看"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14984,7 +15909,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -14993,7 +15919,8 @@ export const CHAPTER: Chapter = {
               "t": "book",
               "w": "书"
             }
-          ]
+          ],
+          "books"
         ],
         [
           "punctuation",
@@ -15006,7 +15933,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "可以"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15015,7 +15943,8 @@ export const CHAPTER: Chapter = {
               "t": "participate",
               "w": "参加"
             }
-          ]
+          ],
+          "sponsored"
         ],
         [
           "translation_word",
@@ -15024,7 +15953,8 @@ export const CHAPTER: Chapter = {
               "t": "any",
               "w": "任何"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15033,7 +15963,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15042,7 +15973,8 @@ export const CHAPTER: Chapter = {
               "t": "feel",
               "w": "感"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15051,7 +15983,8 @@ export const CHAPTER: Chapter = {
               "t": "interest",
               "w": "兴趣"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15060,7 +15993,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15069,7 +16003,8 @@ export const CHAPTER: Chapter = {
               "t": "mathematics",
               "w": "数学"
             }
-          ]
+          ],
+          "maths"
         ],
         [
           "translation_word",
@@ -15078,7 +16013,8 @@ export const CHAPTER: Chapter = {
               "t": "or",
               "w": "或者"
             }
-          ]
+          ],
+          "or"
         ],
         [
           "translation_word",
@@ -15087,7 +16023,8 @@ export const CHAPTER: Chapter = {
               "t": "science",
               "w": "科学"
             }
-          ]
+          ],
+          "science"
         ],
         [
           "translation_word",
@@ -15096,7 +16033,8 @@ export const CHAPTER: Chapter = {
               "t": "race",
               "w": "竞赛"
             }
-          ]
+          ],
+          "competitions"
         ],
         [
           "punctuation",
@@ -15109,7 +16047,8 @@ export const CHAPTER: Chapter = {
               "t": "if_only",
               "w": "只要"
             }
-          ]
+          ],
+          "anything"
         ],
         [
           "translation_word",
@@ -15118,7 +16057,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15127,7 +16067,8 @@ export const CHAPTER: Chapter = {
               "t": "rational",
               "w": "合理"
             }
-          ]
+          ],
+          "reasonable"
         ],
         [
           "translation_word",
@@ -15136,7 +16077,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15145,7 +16087,8 @@ export const CHAPTER: Chapter = {
               "t": "request",
               "w": "要求"
             }
-          ]
+          ],
+          "wanted"
         ],
         [
           "translation_word",
@@ -15154,7 +16097,8 @@ export const CHAPTER: Chapter = {
               "t": "all",
               "w": "都"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15163,7 +16107,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "可以"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15172,7 +16117,8 @@ export const CHAPTER: Chapter = {
               "t": "satisfy",
               "w": "满足"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -15185,7 +16131,8 @@ export const CHAPTER: Chapter = {
               "t": "only",
               "w": "只"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15194,7 +16141,8 @@ export const CHAPTER: Chapter = {
               "t": "besides",
               "w": "除了"
             }
-          ]
+          ],
+          "except"
         ],
         [
           "translation_word",
@@ -15203,7 +16151,8 @@ export const CHAPTER: Chapter = {
               "t": "same",
               "w": "一样"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -15216,7 +16165,8 @@ export const CHAPTER: Chapter = {
               "t": "perhaps",
               "w": "也许"
             }
-          ]
+          ],
+          "maybe"
         ],
         [
           "punctuation",
@@ -15233,7 +16183,8 @@ export const CHAPTER: Chapter = {
               "t": "child",
               "w": "儿"
             }
-          ]
+          ],
+          "slightest"
         ],
         [
           "translation_word",
@@ -15242,7 +16193,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15251,7 +16203,8 @@ export const CHAPTER: Chapter = {
               "t": "esteem",
               "w": "尊重"
             }
-          ]
+          ],
+          "respect"
         ],
         [
           "punctuation",
@@ -15264,7 +16217,8 @@ export const CHAPTER: Chapter = {
               "t": "grand",
               "w": "堂堂"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15273,7 +16227,8 @@ export const CHAPTER: Chapter = {
               "t": "University_of_Oxford",
               "w": "牛津大学"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15282,7 +16237,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15291,7 +16247,8 @@ export const CHAPTER: Chapter = {
               "t": "biochemistry",
               "w": "生化"
             }
-          ]
+          ],
+          "biochemistry"
         ],
         [
           "translation_word",
@@ -15300,7 +16257,8 @@ export const CHAPTER: Chapter = {
               "t": "professor",
               "w": "教授"
             }
-          ]
+          ],
+          "teaching"
         ],
         [
           "translation_word",
@@ -15309,7 +16267,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15318,7 +16277,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "不"
             }
-          ]
+          ],
+          "hardly"
         ],
         [
           "translation_word",
@@ -15327,7 +16287,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "会"
             }
-          ]
+          ],
+          "expected"
         ],
         [
           "translation_word",
@@ -15336,7 +16297,8 @@ export const CHAPTER: Chapter = {
               "t": "condescend",
               "w": "屈尊"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15345,7 +16307,8 @@ export const CHAPTER: Chapter = {
               "t": "hear",
               "w": "听取"
             }
-          ]
+          ],
+          "listen"
         ],
         [
           "translation_word",
@@ -15358,7 +16321,8 @@ export const CHAPTER: Chapter = {
               "t": "individual",
               "w": "个"
             }
-          ]
+          ],
+          "a"
         ],
         [
           "translation_word",
@@ -15367,7 +16331,8 @@ export const CHAPTER: Chapter = {
               "t": "small",
               "w": "小"
             }
-          ]
+          ],
+          "little"
         ],
         [
           "translation_word",
@@ -15376,7 +16341,8 @@ export const CHAPTER: Chapter = {
               "t": "boy",
               "w": "男孩"
             }
-          ]
+          ],
+          "boy"
         ],
         [
           "translation_word",
@@ -15385,7 +16351,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15394,7 +16361,8 @@ export const CHAPTER: Chapter = {
               "t": "idea",
               "w": "意见"
             }
-          ]
+          ],
+          "advice"
         ],
         [
           "translation_word",
@@ -15403,7 +16371,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -15416,7 +16385,8 @@ export const CHAPTER: Chapter = {
               "t": "only_natural",
               "w": "当然"
             }
-          ]
+          ],
+          "course"
         ],
         [
           "translation_word",
@@ -15425,7 +16395,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -15438,7 +16409,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "你"
             }
-          ]
+          ],
+          "you"
         ],
         [
           "translation_word",
@@ -15447,7 +16419,8 @@ export const CHAPTER: Chapter = {
               "t": "still",
               "w": "还"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15456,7 +16429,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15465,7 +16439,8 @@ export const CHAPTER: Chapter = {
               "t": "demand",
               "w": "要"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15474,7 +16449,8 @@ export const CHAPTER: Chapter = {
               "t": "smile",
               "w": "听"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -15487,7 +16463,8 @@ export const CHAPTER: Chapter = {
               "t": "but_also",
               "w": "而且"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15496,7 +16473,8 @@ export const CHAPTER: Chapter = {
               "t": "show",
               "w": "表现"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15505,7 +16483,8 @@ export const CHAPTER: Chapter = {
               "t": "go_out",
               "w": "出"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15514,7 +16493,8 @@ export const CHAPTER: Chapter = {
               "t": "feel",
               "w": "感"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15523,7 +16503,8 @@ export const CHAPTER: Chapter = {
               "t": "interest",
               "w": "兴趣"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15532,7 +16513,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15541,7 +16523,8 @@ export const CHAPTER: Chapter = {
               "t": "appearance",
               "w": "样子"
             }
-          ]
+          ],
+          "what"
         ],
         [
           "punctuation",
@@ -15554,7 +16537,8 @@ export const CHAPTER: Chapter = {
               "t": "well_qualified",
               "w": "称职"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15563,7 +16547,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15572,7 +16557,8 @@ export const CHAPTER: Chapter = {
               "t": "head_of_a_household",
               "w": "家长"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15581,7 +16567,8 @@ export const CHAPTER: Chapter = {
               "t": "all",
               "w": "都"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15590,7 +16577,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15599,7 +16587,8 @@ export const CHAPTER: Chapter = {
               "t": "this_kind_of",
               "w": "这样"
             }
-          ]
+          ],
+          "do"
         ],
         [
           "translation_word",
@@ -15608,7 +16597,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -15621,7 +16611,8 @@ export const CHAPTER: Chapter = {
               "t": "therefore",
               "w": "所以"
             }
-          ]
+          ],
+          "so"
         ],
         [
           "punctuation",
@@ -15634,7 +16625,8 @@ export const CHAPTER: Chapter = {
               "t": "if",
               "w": "如果"
             }
-          ]
+          ],
+          "if"
         ],
         [
           "translation_word",
@@ -15643,7 +16635,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "你"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15656,7 +16649,8 @@ export const CHAPTER: Chapter = {
               "t": "believe",
               "w": "认为"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15665,7 +16659,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15674,7 +16669,8 @@ export const CHAPTER: Chapter = {
               "t": "individual",
               "w": "个"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15683,7 +16679,8 @@ export const CHAPTER: Chapter = {
               "t": "well_qualified",
               "w": "称职"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15692,7 +16689,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15701,7 +16699,8 @@ export const CHAPTER: Chapter = {
               "t": "head_of_a_household",
               "w": "家长"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -15714,7 +16713,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "你"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15723,7 +16723,8 @@ export const CHAPTER: Chapter = {
               "t": "at_once",
               "w": "就"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15732,7 +16733,8 @@ export const CHAPTER: Chapter = {
               "t": "obtain",
               "w": "得"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15741,7 +16743,8 @@ export const CHAPTER: Chapter = {
               "t": "so_much",
               "w": "这么"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15750,7 +16753,8 @@ export const CHAPTER: Chapter = {
               "t": "do",
               "w": "做"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -15763,7 +16767,8 @@ export const CHAPTER: Chapter = {
               "t": "but",
               "w": "但是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15772,7 +16777,8 @@ export const CHAPTER: Chapter = {
               "t": "conscientious",
               "w": "认真"
             }
-          ]
+          ],
+          "seriously"
         ],
         [
           "translation_word",
@@ -15781,7 +16787,8 @@ export const CHAPTER: Chapter = {
               "t": "think_over",
               "w": "考虑"
             }
-          ]
+          ],
+          "take"
         ],
         [
           "translation_word",
@@ -15794,7 +16801,8 @@ export const CHAPTER: Chapter = {
               "t": "individual",
               "w": "个"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15803,7 +16811,8 @@ export const CHAPTER: Chapter = {
               "t": "ten",
               "w": "十"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15812,7 +16821,8 @@ export const CHAPTER: Chapter = {
               "t": "classifier_for_years",
               "w": "岁"
             }
-          ]
+          ],
+          "ten-year-old"
         ],
         [
           "translation_word",
@@ -15821,7 +16831,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15830,7 +16841,8 @@ export const CHAPTER: Chapter = {
               "t": "small",
               "w": "小"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15839,7 +16851,8 @@ export const CHAPTER: Chapter = {
               "t": "boy",
               "w": "男孩"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15848,7 +16861,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15857,7 +16871,8 @@ export const CHAPTER: Chapter = {
               "t": "idea",
               "w": "意见"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -15870,7 +16885,8 @@ export const CHAPTER: Chapter = {
               "t": "it'd_be_a_wonder_if...",
               "w": "才怪"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -15889,7 +16905,8 @@ export const CHAPTER: Chapter = {
               "t": "some",
               "w": "有的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15898,7 +16915,8 @@ export const CHAPTER: Chapter = {
               "t": "time",
               "w": "时候"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15907,7 +16925,8 @@ export const CHAPTER: Chapter = {
               "t": "Harry",
               "w": "哈利"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15916,7 +16935,8 @@ export const CHAPTER: Chapter = {
               "t": "very",
               "w": "很"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15925,7 +16945,8 @@ export const CHAPTER: Chapter = {
               "t": "think",
               "w": "想"
             }
-          ]
+          ],
+          "wanted"
         ],
         [
           "translation_word",
@@ -15934,7 +16955,8 @@ export const CHAPTER: Chapter = {
               "t": "right",
               "w": "对"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -15943,7 +16965,8 @@ export const CHAPTER: Chapter = {
               "t": "father",
               "w": "爸爸"
             }
-          ]
+          ],
+          "father"
         ],
         [
           "translation_word",
@@ -15952,7 +16975,8 @@ export const CHAPTER: Chapter = {
               "t": "screech",
               "w": "尖叫"
             }
-          ]
+          ],
+          "scream"
         ],
         [
           "punctuation",
@@ -15975,7 +16999,8 @@ export const CHAPTER: Chapter = {
               "t": "mama",
               "w": "妈妈"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -15992,7 +17017,8 @@ export const CHAPTER: Chapter = {
               "t": "Harry",
               "w": "哈利"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16001,7 +17027,8 @@ export const CHAPTER: Chapter = {
               "t": "persuade",
               "w": "说"
             }
-          ]
+          ],
+          "said"
         ],
         [
           "punctuation",
@@ -16018,7 +17045,8 @@ export const CHAPTER: Chapter = {
               "t": "if",
               "w": "如果"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16027,7 +17055,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "你"
             }
-          ]
+          ],
+          "you"
         ],
         [
           "translation_word",
@@ -16036,7 +17065,8 @@ export const CHAPTER: Chapter = {
               "t": "think",
               "w": "想"
             }
-          ]
+          ],
+          "want"
         ],
         [
           "translation_word",
@@ -16045,7 +17075,8 @@ export const CHAPTER: Chapter = {
               "t": "strive_for",
               "w": "争"
             }
-          ]
+          ],
+          "argument"
         ],
         [
           "translation_word",
@@ -16054,7 +17085,8 @@ export const CHAPTER: Chapter = {
               "t": "beat",
               "w": "赢"
             }
-          ]
+          ],
+          "win"
         ],
         [
           "translation_word",
@@ -16063,7 +17095,8 @@ export const CHAPTER: Chapter = {
               "t": "father",
               "w": "爸爸"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16072,7 +17105,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16081,7 +17115,8 @@ export const CHAPTER: Chapter = {
               "t": "dialect",
               "w": "话"
             }
-          ]
+          ],
+          "quote"
         ],
         [
           "punctuation",
@@ -16094,7 +17129,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "可以"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16103,7 +17139,8 @@ export const CHAPTER: Chapter = {
               "t": "go",
               "w": "去"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16112,7 +17149,8 @@ export const CHAPTER: Chapter = {
               "t": "comma",
               "w": "读"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16121,7 +17159,8 @@ export const CHAPTER: Chapter = {
               "t": "give_it_a_go",
               "w": "一下"
             }
-          ]
+          ],
+          "look"
         ],
         [
           "translation_word",
@@ -16130,7 +17169,8 @@ export const CHAPTER: Chapter = {
               "t": "Feinman_or_Feynman",
               "w": "费曼"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16139,7 +17179,8 @@ export const CHAPTER: Chapter = {
               "t": "physics",
               "w": "物理学"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16148,7 +17189,8 @@ export const CHAPTER: Chapter = {
               "t": "teaching_materials",
               "w": "讲义"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16157,7 +17199,8 @@ export const CHAPTER: Chapter = {
               "t": "first",
               "w": "第一"
             }
-          ]
+          ],
+          "first"
         ],
         [
           "translation_word",
@@ -16166,7 +17209,8 @@ export const CHAPTER: Chapter = {
               "t": "book",
               "w": "册"
             }
-          ]
+          ],
+          "book"
         ],
         [
           "translation_word",
@@ -16175,7 +17219,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16184,7 +17229,8 @@ export const CHAPTER: Chapter = {
               "t": "second",
               "w": "第二"
             }
-          ]
+          ],
+          "two"
         ],
         [
           "translation_word",
@@ -16193,7 +17239,8 @@ export const CHAPTER: Chapter = {
               "t": "chapter",
               "w": "章"
             }
-          ]
+          ],
+          "chapter"
         ],
         [
           "punctuation",
@@ -16207,10 +17254,11 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "NOT_FOUND",
+              "t": "..",
               "w": "1"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -16223,7 +17271,8 @@ export const CHAPTER: Chapter = {
               "t": "inside",
               "w": "里面"
             }
-          ]
+          ],
+          "there"
         ],
         [
           "translation_word",
@@ -16232,7 +17281,8 @@ export const CHAPTER: Chapter = {
               "t": "persuade",
               "w": "说"
             }
-          ]
+          ],
+          "say"
         ],
         [
           "punctuation",
@@ -16245,7 +17295,8 @@ export const CHAPTER: Chapter = {
               "t": "have",
               "w": "有"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16258,7 +17309,8 @@ export const CHAPTER: Chapter = {
               "t": "many",
               "w": "多"
             }
-          ]
+          ],
+          "deal"
         ],
         [
           "translation_word",
@@ -16267,7 +17319,8 @@ export const CHAPTER: Chapter = {
               "t": "philosopher",
               "w": "哲学家"
             }
-          ]
+          ],
+          "philosophers"
         ],
         [
           "translation_word",
@@ -16276,7 +17329,8 @@ export const CHAPTER: Chapter = {
               "t": "once",
               "w": "曾经"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16285,7 +17339,8 @@ export const CHAPTER: Chapter = {
               "t": "believe",
               "w": "认为"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16294,7 +17349,8 @@ export const CHAPTER: Chapter = {
               "t": "science",
               "w": "科学"
             }
-          ]
+          ],
+          "science"
         ],
         [
           "translation_word",
@@ -16303,7 +17359,8 @@ export const CHAPTER: Chapter = {
               "t": "demand",
               "w": "要"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16312,7 +17369,8 @@ export const CHAPTER: Chapter = {
               "t": "this_kind_of",
               "w": "这样"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -16325,7 +17383,8 @@ export const CHAPTER: Chapter = {
               "t": "demand",
               "w": "要"
             }
-          ]
+          ],
+          "requires"
         ],
         [
           "translation_word",
@@ -16334,7 +17393,8 @@ export const CHAPTER: Chapter = {
               "t": "that_kind",
               "w": "那样"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -16347,7 +17407,8 @@ export const CHAPTER: Chapter = {
               "t": "but",
               "w": "可是"
             }
-          ]
+          ],
+          "it"
         ],
         [
           "translation_word",
@@ -16356,7 +17417,8 @@ export const CHAPTER: Chapter = {
               "t": "in_fact",
               "w": "实际上"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16365,7 +17427,8 @@ export const CHAPTER: Chapter = {
               "t": "they",
               "w": "他们"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16374,7 +17437,8 @@ export const CHAPTER: Chapter = {
               "t": "all",
               "w": "都"
             }
-          ]
+          ],
+          "all"
         ],
         [
           "translation_word",
@@ -16383,7 +17447,8 @@ export const CHAPTER: Chapter = {
               "t": "mistake",
               "w": "错"
             }
-          ]
+          ],
+          "wrong"
         ],
         [
           "translation_word",
@@ -16392,7 +17457,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -16405,7 +17471,8 @@ export const CHAPTER: Chapter = {
               "t": "because",
               "w": "因为"
             }
-          ]
+          ],
+          "because"
         ],
         [
           "translation_word",
@@ -16414,7 +17481,8 @@ export const CHAPTER: Chapter = {
               "t": "science",
               "w": "科学"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16423,7 +17491,8 @@ export const CHAPTER: Chapter = {
               "t": "only",
               "w": "只"
             }
-          ]
+          ],
+          "only"
         ],
         [
           "translation_word",
@@ -16432,7 +17501,8 @@ export const CHAPTER: Chapter = {
               "t": "have",
               "w": "有"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16441,7 +17511,8 @@ export const CHAPTER: Chapter = {
               "t": "one",
               "w": "一"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16450,7 +17521,8 @@ export const CHAPTER: Chapter = {
               "t": "strip",
               "w": "条"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16459,7 +17531,8 @@ export const CHAPTER: Chapter = {
               "t": "rule",
               "w": "规则"
             }
-          ]
+          ],
+          "rule"
         ],
         [
           "punctuation",
@@ -16472,7 +17545,8 @@ export const CHAPTER: Chapter = {
               "t": "at_once",
               "w": "就"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16481,7 +17555,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          "is"
         ],
         [
           "translation_word",
@@ -16490,7 +17565,8 @@ export const CHAPTER: Chapter = {
               "t": "observe",
               "w": "观测"
             }
-          ]
+          ],
+          "observation"
         ],
         [
           "translation_word",
@@ -16499,7 +17575,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16508,7 +17585,8 @@ export const CHAPTER: Chapter = {
               "t": "bear_fruit",
               "w": "结果"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16517,7 +17595,8 @@ export const CHAPTER: Chapter = {
               "t": "ability",
               "w": "才"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16526,7 +17605,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16535,7 +17615,8 @@ export const CHAPTER: Chapter = {
               "t": "final",
               "w": "最终"
             }
-          ]
+          ],
+          "final"
         ],
         [
           "translation_word",
@@ -16544,7 +17625,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16557,15 +17639,18 @@ export const CHAPTER: Chapter = {
               "t": "one_who__...",
               "w": "者"
             }
-          ]
+          ],
+          ""
         ],
         [
-          "punctuation",
-          "—"
-        ],
-        [
-          "punctuation",
-          "—"
+          "translation_word",
+          [
+            {
+              "t": "..",
+              "w": "——"
+            }
+          ],
+          "-"
         ],
         [
           "translation_word",
@@ -16574,7 +17659,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "你"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16583,7 +17669,8 @@ export const CHAPTER: Chapter = {
               "t": "only",
               "w": "只"
             }
-          ]
+          ],
+          "just"
         ],
         [
           "translation_word",
@@ -16592,7 +17679,8 @@ export const CHAPTER: Chapter = {
               "t": "need",
               "w": "需要"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16601,7 +17689,8 @@ export const CHAPTER: Chapter = {
               "t": "observe",
               "w": "观察"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16610,7 +17699,8 @@ export const CHAPTER: Chapter = {
               "t": "this",
               "w": "这个"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16619,7 +17709,8 @@ export const CHAPTER: Chapter = {
               "t": "world",
               "w": "世界"
             }
-          ]
+          ],
+          "world"
         ],
         [
           "punctuation",
@@ -16632,16 +17723,18 @@ export const CHAPTER: Chapter = {
               "t": "hold",
               "w": "把"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
           [
             {
-              "t": "NOT_FOUND",
+              "t": "..",
               "w": "看到"
             }
-          ]
+          ],
+          "see"
         ],
         [
           "translation_word",
@@ -16650,7 +17743,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16659,7 +17753,8 @@ export const CHAPTER: Chapter = {
               "t": "persuade",
               "w": "说"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16668,7 +17763,8 @@ export const CHAPTER: Chapter = {
               "t": "come_out",
               "w": "出来"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16677,7 +17773,8 @@ export const CHAPTER: Chapter = {
               "t": "at_once",
               "w": "就"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16686,7 +17783,8 @@ export const CHAPTER: Chapter = {
               "t": "row",
               "w": "行"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16695,7 +17793,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          "off"
         ],
         [
           "punctuation",
@@ -16708,15 +17807,18 @@ export const CHAPTER: Chapter = {
               "t": "interjection_indicating_approval,_appreciation_or_agreement",
               "w": "嗯"
             }
-          ]
+          ],
+          "think"
         ],
         [
-          "punctuation",
-          "…"
-        ],
-        [
-          "punctuation",
-          "…"
+          "translation_word",
+          [
+            {
+              "t": "..",
+              "w": "……"
+            }
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16725,7 +17827,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          "my"
         ],
         [
           "translation_word",
@@ -16734,16 +17837,18 @@ export const CHAPTER: Chapter = {
               "t": "a_period_of_time",
               "w": "一时"
             }
-          ]
+          ],
+          "ca"
         ],
         [
           "translation_word",
           [
             {
-              "t": "NOT_FOUND",
+              "t": "..",
               "w": "想不起"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16752,7 +17857,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          "something"
         ],
         [
           "translation_word",
@@ -16761,7 +17867,8 @@ export const CHAPTER: Chapter = {
               "t": "at",
               "w": "在"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16770,16 +17877,18 @@ export const CHAPTER: Chapter = {
               "t": "where?",
               "w": "哪里"
             }
-          ]
+          ],
+          "where"
         ],
         [
           "translation_word",
           [
             {
-              "t": "NOT_FOUND",
+              "t": "..",
               "w": "看到"
             }
-          ]
+          ],
+          "find"
         ],
         [
           "translation_word",
@@ -16788,7 +17897,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -16801,7 +17911,8 @@ export const CHAPTER: Chapter = {
               "t": "only",
               "w": "不过"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16810,7 +17921,8 @@ export const CHAPTER: Chapter = {
               "t": "science",
               "w": "科学"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16819,7 +17931,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16828,7 +17941,8 @@ export const CHAPTER: Chapter = {
               "t": "idea",
               "w": "理念"
             }
-          ]
+          ],
+          "ideal"
         ],
         [
           "translation_word",
@@ -16837,7 +17951,8 @@ export const CHAPTER: Chapter = {
               "t": "at_once",
               "w": "就"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16846,7 +17961,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16855,7 +17971,8 @@ export const CHAPTER: Chapter = {
               "t": "use",
               "w": "用"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16864,7 +17981,8 @@ export const CHAPTER: Chapter = {
               "t": "experiment",
               "w": "实验"
             }
-          ]
+          ],
+          "experiment"
         ],
         [
           "translation_word",
@@ -16873,7 +17991,8 @@ export const CHAPTER: Chapter = {
               "t": "and",
               "w": "而"
             }
-          ]
+          ],
+          "instead"
         ],
         [
           "translation_word",
@@ -16882,7 +18001,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "不"
             }
-          ]
+          ],
+          "n't"
         ],
         [
           "translation_word",
@@ -16891,7 +18011,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16900,7 +18021,8 @@ export const CHAPTER: Chapter = {
               "t": "use",
               "w": "用"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16909,7 +18031,8 @@ export const CHAPTER: Chapter = {
               "t": "argue",
               "w": "争论"
             }
-          ]
+          ],
+          "arguments"
         ],
         [
           "translation_word",
@@ -16918,7 +18041,8 @@ export const CHAPTER: Chapter = {
               "t": "come",
               "w": "来"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16927,7 +18051,8 @@ export const CHAPTER: Chapter = {
               "t": "settle",
               "w": "解决"
             }
-          ]
+          ],
+          "settle"
         ],
         [
           "translation_word",
@@ -16936,15 +18061,18 @@ export const CHAPTER: Chapter = {
               "t": "question",
               "w": "问题"
             }
-          ]
+          ],
+          ""
         ],
         [
-          "punctuation",
-          "—"
-        ],
-        [
-          "punctuation",
-          "—"
+          "translation_word",
+          [
+            {
+              "t": "..",
+              "w": "——"
+            }
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -16963,7 +18091,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          "him"
         ],
         [
           "translation_word",
@@ -16972,7 +18101,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -16981,7 +18111,8 @@ export const CHAPTER: Chapter = {
               "t": "mama",
               "w": "妈妈"
             }
-          ]
+          ],
+          "mother"
         ],
         [
           "translation_word",
@@ -16990,7 +18121,8 @@ export const CHAPTER: Chapter = {
               "t": "bow_the_head",
               "w": "低头"
             }
-          ]
+          ],
+          "down"
         ],
         [
           "translation_word",
@@ -16999,7 +18131,8 @@ export const CHAPTER: Chapter = {
               "t": "look_after",
               "w": "看"
             }
-          ]
+          ],
+          "looked"
         ],
         [
           "translation_word",
@@ -17008,7 +18141,8 @@ export const CHAPTER: Chapter = {
               "t": "-ing",
               "w": "着"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -17017,7 +18151,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -17030,7 +18165,8 @@ export const CHAPTER: Chapter = {
               "t": "laugh",
               "w": "笑"
             }
-          ]
+          ],
+          "smiled"
         ],
         [
           "translation_word",
@@ -17039,7 +18175,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -17056,7 +18193,8 @@ export const CHAPTER: Chapter = {
               "t": "thank",
               "w": "谢谢"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -17065,7 +18203,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "你"
             }
-          ]
+          ],
+          "you"
         ],
         [
           "punctuation",
@@ -17078,7 +18217,8 @@ export const CHAPTER: Chapter = {
               "t": "Harry",
               "w": "哈利"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -17091,15 +18231,18 @@ export const CHAPTER: Chapter = {
               "t": "only",
               "w": "不过"
             }
-          ]
+          ],
+          ""
         ],
         [
-          "punctuation",
-          "—"
-        ],
-        [
-          "punctuation",
-          "—"
+          "translation_word",
+          [
+            {
+              "t": "..",
+              "w": "——"
+            }
+          ],
+          "-"
         ],
         [
           "punctuation",
@@ -17112,7 +18255,8 @@ export const CHAPTER: Chapter = {
               "t": "she",
               "w": "她"
             }
-          ]
+          ],
+          "her"
         ],
         [
           "translation_word",
@@ -17121,7 +18265,8 @@ export const CHAPTER: Chapter = {
               "t": "again",
               "w": "又"
             }
-          ]
+          ],
+          "back"
         ],
         [
           "translation_word",
@@ -17130,7 +18275,8 @@ export const CHAPTER: Chapter = {
               "t": "labor_contractor",
               "w": "把头"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -17139,7 +18285,8 @@ export const CHAPTER: Chapter = {
               "t": "lift",
               "w": "抬"
             }
-          ]
+          ],
+          "head"
         ],
         [
           "translation_word",
@@ -17148,7 +18295,8 @@ export const CHAPTER: Chapter = {
               "t": "stand_up",
               "w": "起来"
             }
-          ]
+          ],
+          "rose"
         ],
         [
           "punctuation",
@@ -17161,7 +18309,8 @@ export const CHAPTER: Chapter = {
               "t": "open__wide",
               "w": "瞪"
             }
-          ]
+          ],
+          "stare"
         ],
         [
           "translation_word",
@@ -17170,7 +18319,8 @@ export const CHAPTER: Chapter = {
               "t": "-ing",
               "w": "着"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -17179,7 +18329,8 @@ export const CHAPTER: Chapter = {
               "t": "oneself",
               "w": "自己"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -17188,7 +18339,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -17197,7 +18349,8 @@ export const CHAPTER: Chapter = {
               "t": "husband",
               "w": "丈夫"
             }
-          ]
+          ],
+          "husband"
         ],
         [
           "punctuation",
@@ -17214,7 +18367,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -17223,7 +18377,8 @@ export const CHAPTER: Chapter = {
               "t": "and",
               "w": "并"
             }
-          ]
+          ],
+          "do"
         ],
         [
           "translation_word",
@@ -17232,7 +18387,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "不"
             }
-          ]
+          ],
+          "n't"
         ],
         [
           "translation_word",
@@ -17241,7 +18397,8 @@ export const CHAPTER: Chapter = {
               "t": "think",
               "w": "想"
             }
-          ]
+          ],
+          "want"
         ],
         [
           "translation_word",
@@ -17250,7 +18407,8 @@ export const CHAPTER: Chapter = {
               "t": "strive_for",
               "w": "争"
             }
-          ]
+          ],
+          "argument"
         ],
         [
           "translation_word",
@@ -17259,7 +18417,8 @@ export const CHAPTER: Chapter = {
               "t": "beat",
               "w": "赢"
             }
-          ]
+          ],
+          "win"
         ],
         [
           "translation_word",
@@ -17268,7 +18427,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "你"
             }
-          ]
+          ],
+          "your"
         ],
         [
           "translation_word",
@@ -17277,7 +18437,8 @@ export const CHAPTER: Chapter = {
               "t": "father",
               "w": "爸爸"
             }
-          ]
+          ],
+          "father"
         ],
         [
           "punctuation",
@@ -17290,7 +18451,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          "my"
         ],
         [
           "translation_word",
@@ -17299,7 +18461,8 @@ export const CHAPTER: Chapter = {
               "t": "merely",
               "w": "只是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -17308,7 +18471,8 @@ export const CHAPTER: Chapter = {
               "t": "think",
               "w": "想"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -17317,7 +18481,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -17326,7 +18491,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -17335,7 +18501,8 @@ export const CHAPTER: Chapter = {
               "t": "husband",
               "w": "丈夫"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -17344,7 +18511,8 @@ export const CHAPTER: Chapter = {
               "t": "be_capable_of",
               "w": "能够"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -17353,7 +18521,8 @@ export const CHAPTER: Chapter = {
               "t": "incidentally",
               "w": "偶然"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -17362,7 +18531,8 @@ export const CHAPTER: Chapter = {
               "t": "smile",
               "w": "听"
             }
-          ]
+          ],
+          "listen"
         ],
         [
           "translation_word",
@@ -17371,7 +18541,8 @@ export const CHAPTER: Chapter = {
               "t": "love",
               "w": "爱"
             }
-          ]
+          ],
+          "loves"
         ],
         [
           "translation_word",
@@ -17380,7 +18551,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -17389,7 +18561,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -17398,7 +18571,8 @@ export const CHAPTER: Chapter = {
               "t": "wife_and_children",
               "w": "妻子"
             }
-          ]
+          ],
+          "wife"
         ],
         [
           "translation_word",
@@ -17407,7 +18581,8 @@ export const CHAPTER: Chapter = {
               "t": "one",
               "w": "一"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -17416,7 +18591,8 @@ export const CHAPTER: Chapter = {
               "t": "sentence",
               "w": "句"
             }
-          ]
+          ],
+          "just"
         ],
         [
           "translation_word",
@@ -17425,7 +18601,8 @@ export const CHAPTER: Chapter = {
               "t": "dialect",
               "w": "话"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -17438,7 +18615,8 @@ export const CHAPTER: Chapter = {
               "t": "be_convinced",
               "w": "相信"
             }
-          ]
+          ],
+          "trust"
         ],
         [
           "translation_word",
@@ -17447,7 +18625,8 @@ export const CHAPTER: Chapter = {
               "t": "she",
               "w": "她"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -17456,7 +18635,8 @@ export const CHAPTER: Chapter = {
               "t": "one",
               "w": "一"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -17465,15 +18645,18 @@ export const CHAPTER: Chapter = {
               "t": "next_in_sequence",
               "w": "次"
             }
-          ]
+          ],
+          "once"
         ],
         [
-          "punctuation",
-          "—"
-        ],
-        [
-          "punctuation",
-          "—"
+          "translation_word",
+          [
+            {
+              "t": "..",
+              "w": "——"
+            }
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -17492,7 +18675,8 @@ export const CHAPTER: Chapter = {
               "t": "Harry",
               "w": "哈利"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -17501,7 +18685,8 @@ export const CHAPTER: Chapter = {
               "t": "close",
               "w": "闭"
             }
-          ]
+          ],
+          "closed"
         ],
         [
           "translation_word",
@@ -17510,7 +18695,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -17519,7 +18705,8 @@ export const CHAPTER: Chapter = {
               "t": "close",
               "w": "闭"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -17528,7 +18715,8 @@ export const CHAPTER: Chapter = {
               "t": "eye",
               "w": "眼睛"
             }
-          ]
+          ],
+          "eyes"
         ],
         [
           "punctuation",
@@ -17541,7 +18729,8 @@ export const CHAPTER: Chapter = {
               "t": "incurable",
               "w": "不可救药"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -17554,7 +18743,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          "his"
         ],
         [
           "translation_word",
@@ -17563,7 +18753,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -17572,7 +18763,8 @@ export const CHAPTER: Chapter = {
               "t": "father_and_mother",
               "w": "父母"
             }
-          ]
+          ],
+          "parents"
         ],
         [
           "translation_word",
@@ -17581,7 +18773,8 @@ export const CHAPTER: Chapter = {
               "t": "all",
               "w": "都"
             }
-          ]
+          ],
+          "were"
         ],
         [
           "translation_word",
@@ -17590,7 +18783,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -17599,7 +18793,8 @@ export const CHAPTER: Chapter = {
               "t": "incurable",
               "w": "不可救药"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -17618,7 +18813,8 @@ export const CHAPTER: Chapter = {
               "t": "now",
               "w": "现在"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -17627,7 +18823,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          "his"
         ],
         [
           "translation_word",
@@ -17636,7 +18833,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -17645,7 +18843,8 @@ export const CHAPTER: Chapter = {
               "t": "father_and_mother",
               "w": "父母"
             }
-          ]
+          ],
+          "parents"
         ],
         [
           "translation_word",
@@ -17654,7 +18853,8 @@ export const CHAPTER: Chapter = {
               "t": "again",
               "w": "又"
             }
-          ]
+          ],
+          "again"
         ],
         [
           "translation_word",
@@ -17663,7 +18863,8 @@ export const CHAPTER: Chapter = {
               "t": "enter",
               "w": "进入"
             }
-          ]
+          ],
+          "into"
         ],
         [
           "translation_word",
@@ -17672,7 +18873,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -17681,7 +18883,8 @@ export const CHAPTER: Chapter = {
               "t": "that",
               "w": "那种"
             }
-          ]
+          ],
+          "those"
         ],
         [
           "translation_word",
@@ -17690,7 +18893,8 @@ export const CHAPTER: Chapter = {
               "t": "quarrel",
               "w": "争吵"
             }
-          ]
+          ],
+          "arguments"
         ],
         [
           "translation_word",
@@ -17699,7 +18903,8 @@ export const CHAPTER: Chapter = {
               "t": "mode",
               "w": "模式"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -17712,7 +18917,8 @@ export const CHAPTER: Chapter = {
               "t": "mama",
               "w": "妈妈"
             }
-          ]
+          ],
+          "mother"
         ],
         [
           "translation_word",
@@ -17721,7 +18927,8 @@ export const CHAPTER: Chapter = {
               "t": "think",
               "w": "想"
             }
-          ]
+          ],
+          "tried"
         ],
         [
           "translation_word",
@@ -17730,7 +18937,8 @@ export const CHAPTER: Chapter = {
               "t": "yield",
               "w": "让"
             }
-          ]
+          ],
+          "make"
         ],
         [
           "translation_word",
@@ -17739,7 +18947,8 @@ export const CHAPTER: Chapter = {
               "t": "father",
               "w": "爸爸"
             }
-          ]
+          ],
+          "father"
         ],
         [
           "translation_word",
@@ -17748,7 +18957,8 @@ export const CHAPTER: Chapter = {
               "t": "think",
               "w": "觉得"
             }
-          ]
+          ],
+          "feel"
         ],
         [
           "translation_word",
@@ -17757,7 +18967,8 @@ export const CHAPTER: Chapter = {
               "t": "feel_guilty",
               "w": "愧疚"
             }
-          ]
+          ],
+          "guilty"
         ],
         [
           "punctuation",
@@ -17770,7 +18981,8 @@ export const CHAPTER: Chapter = {
               "t": "father",
               "w": "爸爸"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -17779,7 +18991,8 @@ export const CHAPTER: Chapter = {
               "t": "think",
               "w": "想"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -17788,7 +19001,8 @@ export const CHAPTER: Chapter = {
               "t": "yield",
               "w": "让"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -17797,7 +19011,8 @@ export const CHAPTER: Chapter = {
               "t": "mama",
               "w": "妈妈"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -17806,7 +19021,8 @@ export const CHAPTER: Chapter = {
               "t": "feel",
               "w": "感到"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -17815,7 +19031,8 @@ export const CHAPTER: Chapter = {
               "t": "silly",
               "w": "愚蠢"
             }
-          ]
+          ],
+          "stupid"
         ],
         [
           "punctuation",
@@ -17838,7 +19055,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          "my"
         ],
         [
           "translation_word",
@@ -17847,7 +19065,8 @@ export const CHAPTER: Chapter = {
               "t": "circle",
               "w": "回"
             }
-          ]
+          ],
+          "go"
         ],
         [
           "translation_word",
@@ -17856,7 +19075,8 @@ export const CHAPTER: Chapter = {
               "t": "room",
               "w": "房间"
             }
-          ]
+          ],
+          "room"
         ],
         [
           "translation_word",
@@ -17865,7 +19085,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -17882,7 +19103,8 @@ export const CHAPTER: Chapter = {
               "t": "Harry",
               "w": "哈利"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -17891,7 +19113,8 @@ export const CHAPTER: Chapter = {
               "t": "declare",
               "w": "宣布"
             }
-          ]
+          ],
+          "announced"
         ],
         [
           "translation_word",
@@ -17900,7 +19123,8 @@ export const CHAPTER: Chapter = {
               "t": "persuade",
               "w": "说"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -17913,7 +19137,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -17922,7 +19147,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -17931,7 +19157,8 @@ export const CHAPTER: Chapter = {
               "t": "voice",
               "w": "声音"
             }
-          ]
+          ],
+          "voice"
         ],
         [
           "translation_word",
@@ -17940,7 +19167,8 @@ export const CHAPTER: Chapter = {
               "t": "have",
               "w": "有"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -17949,7 +19177,8 @@ export const CHAPTER: Chapter = {
               "t": "point",
               "w": "点"
             }
-          ]
+          ],
+          "little"
         ],
         [
           "translation_word",
@@ -17958,7 +19187,8 @@ export const CHAPTER: Chapter = {
               "t": "tremble",
               "w": "发抖"
             }
-          ]
+          ],
+          "trembled"
         ],
         [
           "punctuation",
@@ -17975,7 +19205,8 @@ export const CHAPTER: Chapter = {
               "t": "father",
               "w": "爸爸"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -17988,7 +19219,8 @@ export const CHAPTER: Chapter = {
               "t": "mama",
               "w": "妈妈"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -18001,7 +19233,8 @@ export const CHAPTER: Chapter = {
               "t": "ask",
               "w": "请"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -18010,7 +19243,8 @@ export const CHAPTER: Chapter = {
               "t": "don't!",
               "w": "别"
             }
-          ]
+          ],
+          "not"
         ],
         [
           "translation_word",
@@ -18019,7 +19253,8 @@ export const CHAPTER: Chapter = {
               "t": "straight",
               "w": "一直"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -18028,7 +19263,8 @@ export const CHAPTER: Chapter = {
               "t": "quarrel",
               "w": "吵"
             }
-          ]
+          ],
+          "fight"
         ],
         [
           "translation_word",
@@ -18037,7 +19273,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -18050,7 +19287,8 @@ export const CHAPTER: Chapter = {
               "t": "anyway",
               "w": "反正"
             }
-          ]
+          ],
+          "'m"
         ],
         [
           "translation_word",
@@ -18059,7 +19297,8 @@ export const CHAPTER: Chapter = {
               "t": "we",
               "w": "我们"
             }
-          ]
+          ],
+          "we"
         ],
         [
           "translation_word",
@@ -18072,7 +19311,8 @@ export const CHAPTER: Chapter = {
               "t": "rapid",
               "w": "快"
             }
-          ]
+          ],
+          "soon"
         ],
         [
           "translation_word",
@@ -18081,7 +19321,8 @@ export const CHAPTER: Chapter = {
               "t": "at_once",
               "w": "就"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -18090,7 +19331,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "会"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -18099,7 +19341,8 @@ export const CHAPTER: Chapter = {
               "t": "know",
               "w": "知道"
             }
-          ]
+          ],
+          "know"
         ],
         [
           "translation_word",
@@ -18108,7 +19351,8 @@ export const CHAPTER: Chapter = {
               "t": "answer",
               "w": "答案"
             }
-          ]
+          ],
+          "'ll"
         ],
         [
           "translation_word",
@@ -18117,7 +19361,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -18130,7 +19375,8 @@ export const CHAPTER: Chapter = {
               "t": "right",
               "w": "对"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -18139,7 +19385,8 @@ export const CHAPTER: Chapter = {
               "t": "incorrect",
               "w": "不对"
             }
-          ]
+          ],
+          "right"
         ],
         [
           "punctuation",
@@ -18166,7 +19413,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "没"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -18175,7 +19423,8 @@ export const CHAPTER: Chapter = {
               "t": "question",
               "w": "问题"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -18188,7 +19437,8 @@ export const CHAPTER: Chapter = {
               "t": "Harry",
               "w": "哈利"
             }
-          ]
+          ],
+          "his"
         ],
         [
           "punctuation",
@@ -18205,7 +19455,8 @@ export const CHAPTER: Chapter = {
               "t": "father",
               "w": "爸爸"
             }
-          ]
+          ],
+          "father"
         ],
         [
           "translation_word",
@@ -18214,7 +19465,8 @@ export const CHAPTER: Chapter = {
               "t": "persuade",
               "w": "说"
             }
-          ]
+          ],
+          "said"
         ],
         [
           "punctuation",
@@ -18227,7 +19479,8 @@ export const CHAPTER: Chapter = {
               "t": "mama",
               "w": "妈妈"
             }
-          ]
+          ],
+          "mother"
         ],
         [
           "translation_word",
@@ -18236,7 +19489,8 @@ export const CHAPTER: Chapter = {
               "t": "parent",
               "w": "亲"
             }
-          ]
+          ],
+          "kiss"
         ],
         [
           "translation_word",
@@ -18245,7 +19499,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -18254,7 +19509,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          "him"
         ],
         [
           "translation_word",
@@ -18263,7 +19519,8 @@ export const CHAPTER: Chapter = {
               "t": "give_it_a_go",
               "w": "一下"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -18276,7 +19533,8 @@ export const CHAPTER: Chapter = {
               "t": "yield",
               "w": "让"
             }
-          ]
+          ],
+          "gave"
         ],
         [
           "translation_word",
@@ -18285,7 +19543,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -18294,7 +19553,8 @@ export const CHAPTER: Chapter = {
               "t": "feel_relieved",
               "w": "放心"
             }
-          ]
+          ],
+          "reassuring"
         ],
         [
           "punctuation",
@@ -18307,7 +19567,8 @@ export const CHAPTER: Chapter = {
               "t": "but",
               "w": "但是"
             }
-          ]
+          ],
+          "while"
         ],
         [
           "translation_word",
@@ -18316,7 +19577,8 @@ export const CHAPTER: Chapter = {
               "t": "Harry",
               "w": "哈利"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -18325,7 +19587,8 @@ export const CHAPTER: Chapter = {
               "t": "still",
               "w": "还"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -18334,7 +19597,8 @@ export const CHAPTER: Chapter = {
               "t": "at",
               "w": "在"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -18343,7 +19607,8 @@ export const CHAPTER: Chapter = {
               "t": "go_upstairs",
               "w": "上楼"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -18352,7 +19617,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -18361,7 +19627,8 @@ export const CHAPTER: Chapter = {
               "t": "time",
               "w": "时候"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -18374,7 +19641,8 @@ export const CHAPTER: Chapter = {
               "t": "they",
               "w": "他们"
             }
-          ]
+          ],
+          "they"
         ],
         [
           "translation_word",
@@ -18383,7 +19651,8 @@ export const CHAPTER: Chapter = {
               "t": "at_once",
               "w": "就"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -18392,7 +19661,8 @@ export const CHAPTER: Chapter = {
               "t": "again",
               "w": "又"
             }
-          ]
+          ],
+          "went"
         ],
         [
           "translation_word",
@@ -18401,7 +19671,8 @@ export const CHAPTER: Chapter = {
               "t": "strive_for",
               "w": "争"
             }
-          ]
+          ],
+          "fighting"
         ],
         [
           "translation_word",
@@ -18410,7 +19681,8 @@ export const CHAPTER: Chapter = {
               "t": "stand_up",
               "w": "起来"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -18419,7 +19691,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -18438,7 +19711,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          "him"
         ],
         [
           "translation_word",
@@ -18447,7 +19721,8 @@ export const CHAPTER: Chapter = {
               "t": "close",
               "w": "关上"
             }
-          ]
+          ],
+          "shut"
         ],
         [
           "translation_word",
@@ -18456,7 +19731,8 @@ export const CHAPTER: Chapter = {
               "t": "posthumous",
               "w": "身后"
             }
-          ]
+          ],
+          "behind"
         ],
         [
           "translation_word",
@@ -18465,7 +19741,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -18474,7 +19751,8 @@ export const CHAPTER: Chapter = {
               "t": "gate",
               "w": "门"
             }
-          ]
+          ],
+          "door"
         ],
         [
           "punctuation",
@@ -18487,7 +19765,8 @@ export const CHAPTER: Chapter = {
               "t": "begin",
               "w": "开始"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -18496,7 +19775,8 @@ export const CHAPTER: Chapter = {
               "t": "reflect_on",
               "w": "思考"
             }
-          ]
+          ],
+          "think"
         ],
         [
           "punctuation",
@@ -18515,7 +19795,8 @@ export const CHAPTER: Chapter = {
               "t": "strange",
               "w": "奇怪"
             }
-          ]
+          ],
+          "funny"
         ],
         [
           "translation_word",
@@ -18524,7 +19805,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -18533,7 +19815,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          "was"
         ],
         [
           "punctuation",
@@ -18546,7 +19829,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          "he"
         ],
         [
           "translation_word",
@@ -18559,7 +19843,8 @@ export const CHAPTER: Chapter = {
               "t": "should",
               "w": "该"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -18568,7 +19853,8 @@ export const CHAPTER: Chapter = {
               "t": "station",
               "w": "站"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -18577,7 +19863,8 @@ export const CHAPTER: Chapter = {
               "t": "at",
               "w": "在"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -18586,7 +19873,8 @@ export const CHAPTER: Chapter = {
               "t": "father",
               "w": "爸爸"
             }
-          ]
+          ],
+          "thing"
         ],
         [
           "translation_word",
@@ -18595,7 +19883,8 @@ export const CHAPTER: Chapter = {
               "t": "one_side",
               "w": "一边"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -18604,7 +19893,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -18617,7 +19907,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "没"
             }
-          ]
+          ],
+          "ever"
         ],
         [
           "translation_word",
@@ -18626,7 +19917,8 @@ export const CHAPTER: Chapter = {
               "t": "man",
               "w": "人"
             }
-          ]
+          ],
+          "one"
         ],
         [
           "translation_word",
@@ -18635,7 +19927,8 @@ export const CHAPTER: Chapter = {
               "t": "see",
               "w": "见"
             }
-          ]
+          ],
+          "seen"
         ],
         [
           "translation_word",
@@ -18644,7 +19937,8 @@ export const CHAPTER: Chapter = {
               "t": "PAST",
               "w": "过"
             }
-          ]
+          ],
+          "had"
         ],
         [
           "translation_word",
@@ -18653,7 +19947,8 @@ export const CHAPTER: Chapter = {
               "t": "enchantment",
               "w": "魔法"
             }
-          ]
+          ],
+          "magic"
         ],
         [
           "translation_word",
@@ -18662,7 +19957,8 @@ export const CHAPTER: Chapter = {
               "t": "true",
               "w": "真实"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -18671,7 +19967,8 @@ export const CHAPTER: Chapter = {
               "t": "exist",
               "w": "存在"
             }
-          ]
+          ],
+          "there"
         ],
         [
           "translation_word",
@@ -18680,7 +19977,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -18689,7 +19987,8 @@ export const CHAPTER: Chapter = {
               "t": "evidence",
               "w": "证据"
             }
-          ]
+          ],
+          "evidence"
         ],
         [
           "punctuation",
@@ -18702,7 +20001,8 @@ export const CHAPTER: Chapter = {
               "t": "but",
               "w": "可是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -18711,7 +20011,8 @@ export const CHAPTER: Chapter = {
               "t": "according_to",
               "w": "按照"
             }
-          ]
+          ],
+          "according"
         ],
         [
           "translation_word",
@@ -18720,7 +20021,8 @@ export const CHAPTER: Chapter = {
               "t": "mama",
               "w": "妈妈"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -18729,7 +20031,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -18738,7 +20041,8 @@ export const CHAPTER: Chapter = {
               "t": "expound_Buddhist_teachings",
               "w": "说法"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -18751,7 +20055,8 @@ export const CHAPTER: Chapter = {
               "t": "have",
               "w": "有"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -18760,7 +20065,8 @@ export const CHAPTER: Chapter = {
               "t": "one",
               "w": "一"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -18769,7 +20075,8 @@ export const CHAPTER: Chapter = {
               "t": "whole",
               "w": "整个"
             }
-          ]
+          ],
+          "whole"
         ],
         [
           "translation_word",
@@ -18778,7 +20085,8 @@ export const CHAPTER: Chapter = {
               "t": "enchantment",
               "w": "魔法"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -18787,7 +20095,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -18796,7 +20105,8 @@ export const CHAPTER: Chapter = {
               "t": "world",
               "w": "世界"
             }
-          ]
+          ],
+          "world"
         ],
         [
           "translation_word",
@@ -18805,7 +20115,8 @@ export const CHAPTER: Chapter = {
               "t": "exist",
               "w": "存在"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -18818,7 +20129,8 @@ export const CHAPTER: Chapter = {
               "t": "but",
               "w": "可是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -18827,7 +20139,8 @@ export const CHAPTER: Chapter = {
               "t": "this",
               "w": "这种"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -18836,7 +20149,8 @@ export const CHAPTER: Chapter = {
               "t": "affair",
               "w": "事情"
             }
-          ]
+          ],
+          "something"
         ],
         [
           "translation_word",
@@ -18845,7 +20159,8 @@ export const CHAPTER: Chapter = {
               "t": "so_much",
               "w": "这么"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -18854,7 +20169,8 @@ export const CHAPTER: Chapter = {
               "t": "might",
               "w": "可能"
             }
-          ]
+          ],
+          "could"
         ],
         [
           "translation_word",
@@ -18863,7 +20179,8 @@ export const CHAPTER: Chapter = {
               "t": "keep_sth_confidential",
               "w": "保密"
             }
-          ]
+          ],
+          "secret"
         ],
         [
           "translation_word",
@@ -18872,7 +20189,8 @@ export const CHAPTER: Chapter = {
               "t": "particle_indicating_that_a_previously_asked_question_is_to_be_applied_to_the_preceding_word",
               "w": "呢"
             }
-          ]
+          ],
+          "?"
         ],
         [
           "punctuation",
@@ -18889,7 +20207,8 @@ export const CHAPTER: Chapter = {
               "t": "enchantment",
               "w": "魔法"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -18898,7 +20217,8 @@ export const CHAPTER: Chapter = {
               "t": "see_嗎啡|吗啡,_morphine",
               "w": "吗"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -18911,7 +20231,8 @@ export const CHAPTER: Chapter = {
               "t": "this",
               "w": "这种"
             }
-          ]
+          ],
+          "sort"
         ],
         [
           "translation_word",
@@ -18920,7 +20241,8 @@ export const CHAPTER: Chapter = {
               "t": "use_as_an_excuse",
               "w": "借口"
             }
-          ]
+          ],
+          "excuse"
         ],
         [
           "translation_word",
@@ -18929,7 +20251,8 @@ export const CHAPTER: Chapter = {
               "t": "also",
               "w": "也"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -18938,7 +20261,8 @@ export const CHAPTER: Chapter = {
               "t": "highest",
               "w": "太"
             }
-          ]
+          ],
+          "seemed"
         ],
         [
           "translation_word",
@@ -18947,7 +20271,8 @@ export const CHAPTER: Chapter = {
               "t": "suspicious",
               "w": "可疑"
             }
-          ]
+          ],
+          "suspicious"
         ],
         [
           "translation_word",
@@ -18956,7 +20281,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -18975,7 +20301,8 @@ export const CHAPTER: Chapter = {
               "t": "circumstances",
               "w": "情况"
             }
-          ]
+          ],
+          "case"
         ],
         [
           "translation_word",
@@ -18984,7 +20311,8 @@ export const CHAPTER: Chapter = {
               "t": "ought_to",
               "w": "应该"
             }
-          ]
+          ],
+          "should"
         ],
         [
           "translation_word",
@@ -18993,7 +20321,8 @@ export const CHAPTER: Chapter = {
               "t": "very",
               "w": "很"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19002,7 +20331,8 @@ export const CHAPTER: Chapter = {
               "t": "clear",
               "w": "明显"
             }
-          ]
+          ],
+          "been"
         ],
         [
           "punctuation",
@@ -19015,7 +20345,8 @@ export const CHAPTER: Chapter = {
               "t": "mama",
               "w": "妈妈"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19024,7 +20355,8 @@ export const CHAPTER: Chapter = {
               "t": "demand",
               "w": "要"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19033,7 +20365,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "不"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19042,7 +20375,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19051,7 +20385,8 @@ export const CHAPTER: Chapter = {
               "t": "at",
               "w": "在"
             }
-          ]
+          ],
+          "in"
         ],
         [
           "translation_word",
@@ -19060,7 +20395,8 @@ export const CHAPTER: Chapter = {
               "t": "play_a_joke",
               "w": "开玩笑"
             }
-          ]
+          ],
+          "joking"
         ],
         [
           "punctuation",
@@ -19073,7 +20409,8 @@ export const CHAPTER: Chapter = {
               "t": "demand",
               "w": "要"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19082,7 +20419,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "不"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19091,7 +20429,8 @@ export const CHAPTER: Chapter = {
               "t": "at_once",
               "w": "就"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19100,7 +20439,8 @@ export const CHAPTER: Chapter = {
               "t": "at",
               "w": "在"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19109,7 +20449,8 @@ export const CHAPTER: Chapter = {
               "t": "tell_lies",
               "w": "撒谎"
             }
-          ]
+          ],
+          "lying"
         ],
         [
           "punctuation",
@@ -19122,7 +20463,8 @@ export const CHAPTER: Chapter = {
               "t": "or",
               "w": "或者"
             }
-          ]
+          ],
+          "or"
         ],
         [
           "translation_word",
@@ -19131,7 +20473,8 @@ export const CHAPTER: Chapter = {
               "t": "at_once",
               "w": "就"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19140,7 +20483,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19153,7 +20497,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -19166,7 +20511,8 @@ export const CHAPTER: Chapter = {
               "t": "press",
               "w": "按"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19175,7 +20521,8 @@ export const CHAPTER: Chapter = {
               "t": "too_bad",
               "w": "糟糕"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19184,7 +20531,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19193,7 +20541,8 @@ export const CHAPTER: Chapter = {
               "t": "degree",
               "w": "程度"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19202,7 +20551,8 @@ export const CHAPTER: Chapter = {
               "t": "ascending_order",
               "w": "升序"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19211,7 +20561,8 @@ export const CHAPTER: Chapter = {
               "t": "arrange_in_order",
               "w": "排列"
             }
-          ]
+          ],
+          "order"
         ],
         [
           "punctuation",
@@ -19224,7 +20575,8 @@ export const CHAPTER: Chapter = {
               "t": "if",
               "w": "如果"
             }
-          ]
+          ],
+          "had"
         ],
         [
           "translation_word",
@@ -19233,7 +20585,8 @@ export const CHAPTER: Chapter = {
               "t": "that",
               "w": "那"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19242,7 +20595,8 @@ export const CHAPTER: Chapter = {
               "t": "grant",
               "w": "封"
             }
-          ]
+          ],
+          "letter"
         ],
         [
           "translation_word",
@@ -19251,7 +20605,8 @@ export const CHAPTER: Chapter = {
               "t": "letter",
               "w": "信"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19260,7 +20615,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19269,7 +20625,8 @@ export const CHAPTER: Chapter = {
               "t": "mama",
               "w": "妈妈"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19278,7 +20635,8 @@ export const CHAPTER: Chapter = {
               "t": "oneself",
               "w": "自己"
             }
-          ]
+          ],
+          "herself"
         ],
         [
           "translation_word",
@@ -19287,7 +20645,8 @@ export const CHAPTER: Chapter = {
               "t": "send",
               "w": "寄"
             }
-          ]
+          ],
+          "sent"
         ],
         [
           "translation_word",
@@ -19296,7 +20655,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -19309,7 +20669,8 @@ export const CHAPTER: Chapter = {
               "t": "at_once",
               "w": "就"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19318,7 +20679,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "可以"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19327,7 +20689,8 @@ export const CHAPTER: Chapter = {
               "t": "explanation",
               "w": "解释"
             }
-          ]
+          ],
+          "explain"
         ],
         [
           "translation_word",
@@ -19336,7 +20699,8 @@ export const CHAPTER: Chapter = {
               "t": "why?",
               "w": "为什么"
             }
-          ]
+          ],
+          "how"
         ],
         [
           "translation_word",
@@ -19345,7 +20709,8 @@ export const CHAPTER: Chapter = {
               "t": "this",
               "w": "这"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19354,7 +20719,8 @@ export const CHAPTER: Chapter = {
               "t": "grant",
               "w": "封"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19363,7 +20729,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "没"
             }
-          ]
+          ],
+          "without"
         ],
         [
           "translation_word",
@@ -19372,7 +20739,8 @@ export const CHAPTER: Chapter = {
               "t": "stick",
               "w": "贴"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19381,7 +20749,8 @@ export const CHAPTER: Chapter = {
               "t": "stamp",
               "w": "邮票"
             }
-          ]
+          ],
+          "stamp"
         ],
         [
           "translation_word",
@@ -19390,7 +20759,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19399,7 +20769,8 @@ export const CHAPTER: Chapter = {
               "t": "letter",
               "w": "信"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19408,7 +20779,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "会"
             }
-          ]
+          ],
+          "would"
         ],
         [
           "translation_word",
@@ -19417,7 +20789,8 @@ export const CHAPTER: Chapter = {
               "t": "appear",
               "w": "出现"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19426,7 +20799,8 @@ export const CHAPTER: Chapter = {
               "t": "at",
               "w": "在"
             }
-          ]
+          ],
+          "at"
         ],
         [
           "translation_word",
@@ -19435,7 +20809,8 @@ export const CHAPTER: Chapter = {
               "t": "they",
               "w": "他们"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19444,7 +20819,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19453,7 +20829,8 @@ export const CHAPTER: Chapter = {
               "t": "mailbox",
               "w": "信箱"
             }
-          ]
+          ],
+          "letterbox"
         ],
         [
           "translation_word",
@@ -19462,7 +20839,8 @@ export const CHAPTER: Chapter = {
               "t": "lining",
               "w": "里"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -19475,7 +20853,8 @@ export const CHAPTER: Chapter = {
               "t": "a_little_bit",
               "w": "一点点"
             }
-          ]
+          ],
+          "little"
         ],
         [
           "translation_word",
@@ -19484,7 +20863,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19493,7 +20873,8 @@ export const CHAPTER: Chapter = {
               "t": "spirit",
               "w": "精神"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19502,7 +20883,8 @@ export const CHAPTER: Chapter = {
               "t": "not_normal",
               "w": "失常"
             }
-          ]
+          ],
+          "insanity"
         ],
         [
           "translation_word",
@@ -19511,7 +20893,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "可"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19520,7 +20903,8 @@ export const CHAPTER: Chapter = {
               "t": "compared_to",
               "w": "比"
             }
-          ]
+          ],
+          "than"
         ],
         [
           "translation_word",
@@ -19529,7 +20913,8 @@ export const CHAPTER: Chapter = {
               "t": "universe",
               "w": "宇宙"
             }
-          ]
+          ],
+          "universe"
         ],
         [
           "translation_word",
@@ -19542,7 +20927,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          "really"
         ],
         [
           "translation_word",
@@ -19551,7 +20937,8 @@ export const CHAPTER: Chapter = {
               "t": "that_kind",
               "w": "那样"
             }
-          ]
+          ],
+          "less"
         ],
         [
           "translation_word",
@@ -19560,7 +20947,8 @@ export const CHAPTER: Chapter = {
               "t": "move_along_one's_course",
               "w": "运行"
             }
-          ]
+          ],
+          "working"
         ],
         [
           "translation_word",
@@ -19569,7 +20957,8 @@ export const CHAPTER: Chapter = {
               "t": "possibility",
               "w": "可能性"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19578,7 +20967,8 @@ export const CHAPTER: Chapter = {
               "t": "for_the_most_part",
               "w": "大多"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19587,7 +20977,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -19606,7 +20997,8 @@ export const CHAPTER: Chapter = {
               "t": "question",
               "w": "问题"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19615,7 +21007,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          "was"
         ],
         [
           "punctuation",
@@ -19628,7 +21021,8 @@ export const CHAPTER: Chapter = {
               "t": "Harry",
               "w": "哈利"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19637,7 +21031,8 @@ export const CHAPTER: Chapter = {
               "t": "central_point",
               "w": "心中"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19646,7 +21041,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19655,7 +21051,8 @@ export const CHAPTER: Chapter = {
               "t": "some",
               "w": "某"
             }
-          ]
+          ],
+          "some"
         ],
         [
           "translation_word",
@@ -19664,7 +21061,8 @@ export const CHAPTER: Chapter = {
               "t": "one",
               "w": "一"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19673,7 +21071,8 @@ export const CHAPTER: Chapter = {
               "t": "part",
               "w": "部分"
             }
-          ]
+          ],
+          "part"
         ],
         [
           "translation_word",
@@ -19682,7 +21081,8 @@ export const CHAPTER: Chapter = {
               "t": "complete",
               "w": "完全"
             }
-          ]
+          ],
+          "utterly"
         ],
         [
           "translation_word",
@@ -19691,7 +21091,8 @@ export const CHAPTER: Chapter = {
               "t": "be_convinced",
               "w": "确信"
             }
-          ]
+          ],
+          "convinced"
         ],
         [
           "translation_word",
@@ -19700,7 +21101,8 @@ export const CHAPTER: Chapter = {
               "t": "enchantment",
               "w": "魔法"
             }
-          ]
+          ],
+          "magic"
         ],
         [
           "translation_word",
@@ -19709,7 +21111,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19718,7 +21121,8 @@ export const CHAPTER: Chapter = {
               "t": "true",
               "w": "真实"
             }
-          ]
+          ],
+          "real"
         ],
         [
           "translation_word",
@@ -19727,7 +21131,8 @@ export const CHAPTER: Chapter = {
               "t": "exist",
               "w": "存在"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -19740,7 +21145,8 @@ export const CHAPTER: Chapter = {
               "t": "since",
               "w": "自从"
             }
-          ]
+          ],
+          "since"
         ],
         [
           "translation_word",
@@ -19749,7 +21155,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          "he"
         ],
         [
           "translation_word",
@@ -19758,7 +21165,8 @@ export const CHAPTER: Chapter = {
               "t": "see",
               "w": "看见"
             }
-          ]
+          ],
+          "saw"
         ],
         [
           "translation_word",
@@ -19767,7 +21175,8 @@ export const CHAPTER: Chapter = {
               "t": "this",
               "w": "这"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19776,7 +21185,8 @@ export const CHAPTER: Chapter = {
               "t": "grant",
               "w": "封"
             }
-          ]
+          ],
+          "letter"
         ],
         [
           "translation_word",
@@ -19785,7 +21195,8 @@ export const CHAPTER: Chapter = {
               "t": "be_known_as",
               "w": "号称"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19794,7 +21205,8 @@ export const CHAPTER: Chapter = {
               "t": "come_from",
               "w": "来自"
             }
-          ]
+          ],
+          "from"
         ],
         [
           "translation_word",
@@ -19803,16 +21215,18 @@ export const CHAPTER: Chapter = {
               "t": "suddenly",
               "w": "霍"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
           [
             {
-              "t": "NOT_FOUND",
+              "t": "..",
               "w": "格沃茨"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19821,7 +21235,8 @@ export const CHAPTER: Chapter = {
               "t": "enchantment",
               "w": "魔法"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19830,7 +21245,8 @@ export const CHAPTER: Chapter = {
               "t": "and",
               "w": "与"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19839,7 +21255,8 @@ export const CHAPTER: Chapter = {
               "t": "wizard",
               "w": "巫师"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19848,7 +21265,8 @@ export const CHAPTER: Chapter = {
               "t": "school",
               "w": "学校"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19857,7 +21275,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19866,7 +21285,8 @@ export const CHAPTER: Chapter = {
               "t": "letter",
               "w": "信"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -19879,7 +21299,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19888,7 +21309,8 @@ export const CHAPTER: Chapter = {
               "t": "at_once",
               "w": "就"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19897,7 +21319,8 @@ export const CHAPTER: Chapter = {
               "t": "be_convinced",
               "w": "确信"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19906,7 +21329,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19919,7 +21343,8 @@ export const CHAPTER: Chapter = {
               "t": "item",
               "w": "件"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19928,7 +21353,8 @@ export const CHAPTER: Chapter = {
               "t": "matter",
               "w": "事"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -19947,7 +21373,8 @@ export const CHAPTER: Chapter = {
               "t": "Harry",
               "w": "哈利"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19956,7 +21383,8 @@ export const CHAPTER: Chapter = {
               "t": "knead",
               "w": "揉"
             }
-          ]
+          ],
+          "rubbed"
         ],
         [
           "translation_word",
@@ -19965,7 +21393,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19974,7 +21403,8 @@ export const CHAPTER: Chapter = {
               "t": "knead",
               "w": "揉"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -19983,7 +21413,8 @@ export const CHAPTER: Chapter = {
               "t": "forehead",
               "w": "前额"
             }
-          ]
+          ],
+          "forehead"
         ],
         [
           "punctuation",
@@ -19996,7 +21427,8 @@ export const CHAPTER: Chapter = {
               "t": "do",
               "w": "做"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20005,7 +21437,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20014,7 +21447,8 @@ export const CHAPTER: Chapter = {
               "t": "individual",
               "w": "个"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20023,7 +21457,8 @@ export const CHAPTER: Chapter = {
               "t": "wry_face",
               "w": "鬼脸"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -20036,7 +21471,8 @@ export const CHAPTER: Chapter = {
               "t": "don't!",
               "w": "不要"
             }
-          ]
+          ],
+          "n't"
         ],
         [
           "translation_word",
@@ -20045,7 +21481,8 @@ export const CHAPTER: Chapter = {
               "t": "be_convinced",
               "w": "相信"
             }
-          ]
+          ],
+          "believe"
         ],
         [
           "translation_word",
@@ -20054,7 +21491,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "你"
             }
-          ]
+          ],
+          "you"
         ],
         [
           "translation_word",
@@ -20063,7 +21501,8 @@ export const CHAPTER: Chapter = {
               "t": "oneself",
               "w": "自己"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20072,7 +21511,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20081,7 +21521,8 @@ export const CHAPTER: Chapter = {
               "t": "all",
               "w": "所有"
             }
-          ]
+          ],
+          "everything"
         ],
         [
           "translation_word",
@@ -20090,7 +21531,8 @@ export const CHAPTER: Chapter = {
               "t": "way_of_thinking",
               "w": "想法"
             }
-          ]
+          ],
+          "think"
         ],
         [
           "punctuation",
@@ -20103,7 +21545,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          "his"
         ],
         [
           "translation_word",
@@ -20112,7 +21555,8 @@ export const CHAPTER: Chapter = {
               "t": "look_after",
               "w": "看"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20121,7 +21565,8 @@ export const CHAPTER: Chapter = {
               "t": "PAST",
               "w": "过"
             }
-          ]
+          ],
+          "had"
         ],
         [
           "translation_word",
@@ -20130,7 +21575,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20139,7 +21585,8 @@ export const CHAPTER: Chapter = {
               "t": "one",
               "w": "一"
             }
-          ]
+          ],
+          "one"
         ],
         [
           "translation_word",
@@ -20148,7 +21595,8 @@ export const CHAPTER: Chapter = {
               "t": "root",
               "w": "本"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20157,7 +21605,8 @@ export const CHAPTER: Chapter = {
               "t": "book",
               "w": "书"
             }
-          ]
+          ],
+          "books"
         ],
         [
           "translation_word",
@@ -20166,7 +21615,8 @@ export const CHAPTER: Chapter = {
               "t": "lining",
               "w": "里"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20175,7 +21625,8 @@ export const CHAPTER: Chapter = {
               "t": "so_much",
               "w": "这么"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20184,7 +21635,8 @@ export const CHAPTER: Chapter = {
               "t": "persuade",
               "w": "说"
             }
-          ]
+          ],
+          "said"
         ],
         [
           "punctuation",
@@ -20203,7 +21655,8 @@ export const CHAPTER: Chapter = {
               "t": "but",
               "w": "可是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20212,7 +21665,8 @@ export const CHAPTER: Chapter = {
               "t": "this",
               "w": "这种"
             }
-          ]
+          ],
+          "this"
         ],
         [
           "translation_word",
@@ -20221,7 +21675,8 @@ export const CHAPTER: Chapter = {
               "t": "strange",
               "w": "奇怪"
             }
-          ]
+          ],
+          "bizarre"
         ],
         [
           "translation_word",
@@ -20230,7 +21685,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20239,7 +21695,8 @@ export const CHAPTER: Chapter = {
               "t": "definite",
               "w": "确定"
             }
-          ]
+          ],
+          "certainty"
         ],
         [
           "translation_word",
@@ -20252,15 +21709,18 @@ export const CHAPTER: Chapter = {
               "t": "doubt",
               "w": "疑"
             }
-          ]
+          ],
+          ""
         ],
         [
-          "punctuation",
-          "…"
-        ],
-        [
-          "punctuation",
-          "…"
+          "translation_word",
+          [
+            {
+              "t": "..",
+              "w": "……"
+            }
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20269,7 +21729,8 @@ export const CHAPTER: Chapter = {
               "t": "Harry",
               "w": "哈利"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20278,7 +21739,8 @@ export const CHAPTER: Chapter = {
               "t": "find",
               "w": "发现"
             }
-          ]
+          ],
+          "finding"
         ],
         [
           "translation_word",
@@ -20287,7 +21749,8 @@ export const CHAPTER: Chapter = {
               "t": "oneself",
               "w": "自己"
             }
-          ]
+          ],
+          "himself"
         ],
         [
           "translation_word",
@@ -20300,7 +21763,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          "yes"
         ],
         [
           "translation_word",
@@ -20309,7 +21773,8 @@ export const CHAPTER: Chapter = {
               "t": "believe",
               "w": "认为"
             }
-          ]
+          ],
+          "that"
         ],
         [
           "translation_word",
@@ -20318,7 +21783,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "会"
             }
-          ]
+          ],
+          "would"
         ],
         [
           "translation_word",
@@ -20327,7 +21793,8 @@ export const CHAPTER: Chapter = {
               "t": "have",
               "w": "有"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20340,7 +21807,8 @@ export const CHAPTER: Chapter = {
               "t": "individual",
               "w": "个"
             }
-          ]
+          ],
+          "a"
         ],
         [
           "translation_word",
@@ -20349,16 +21817,18 @@ export const CHAPTER: Chapter = {
               "t": "suddenly",
               "w": "霍"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
           [
             {
-              "t": "NOT_FOUND",
+              "t": "..",
               "w": "格沃茨"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20367,7 +21837,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20376,7 +21847,8 @@ export const CHAPTER: Chapter = {
               "t": "professor",
               "w": "教授"
             }
-          ]
+          ],
+          "professor"
         ],
         [
           "translation_word",
@@ -20385,7 +21857,8 @@ export const CHAPTER: Chapter = {
               "t": "come",
               "w": "来"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20394,16 +21867,18 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "会"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
           [
             {
-              "t": "NOT_FOUND",
+              "t": "..",
               "w": "到"
             }
-          ]
+          ],
+          "up"
         ],
         [
           "translation_word",
@@ -20412,7 +21887,8 @@ export const CHAPTER: Chapter = {
               "t": "home",
               "w": "家里"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -20429,7 +21905,8 @@ export const CHAPTER: Chapter = {
               "t": "wave",
               "w": "挥"
             }
-          ]
+          ],
+          "wave"
         ],
         [
           "translation_word",
@@ -20438,7 +21915,8 @@ export const CHAPTER: Chapter = {
               "t": "magic_wand",
               "w": "魔杖"
             }
-          ]
+          ],
+          "wand"
         ],
         [
           "punctuation",
@@ -20451,7 +21929,8 @@ export const CHAPTER: Chapter = {
               "t": "after",
               "w": "然后"
             }
-          ]
+          ],
+          "and"
         ],
         [
           "translation_word",
@@ -20460,7 +21939,8 @@ export const CHAPTER: Chapter = {
               "t": "enchantment",
               "w": "魔法"
             }
-          ]
+          ],
+          "magic"
         ],
         [
           "translation_word",
@@ -20469,7 +21949,8 @@ export const CHAPTER: Chapter = {
               "t": "at_once",
               "w": "就"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20478,7 +21959,8 @@ export const CHAPTER: Chapter = {
               "t": "appear",
               "w": "出现"
             }
-          ]
+          ],
+          "show"
         ],
         [
           "translation_word",
@@ -20487,7 +21969,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -20500,7 +21983,8 @@ export const CHAPTER: Chapter = {
               "t": "this",
               "w": "这个"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20509,7 +21993,8 @@ export const CHAPTER: Chapter = {
               "t": "strange",
               "w": "奇怪"
             }
-          ]
+          ],
+          "strange"
         ],
         [
           "translation_word",
@@ -20518,7 +22003,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20527,7 +22013,8 @@ export const CHAPTER: Chapter = {
               "t": "way_of_thinking",
               "w": "想法"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20536,7 +22023,8 @@ export const CHAPTER: Chapter = {
               "t": "complete",
               "w": "完全"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20545,7 +22033,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "不"
             }
-          ]
+          ],
+          "no"
         ],
         [
           "translation_word",
@@ -20554,7 +22043,8 @@ export const CHAPTER: Chapter = {
               "t": "think_over",
               "w": "考虑"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20563,7 +22053,8 @@ export const CHAPTER: Chapter = {
               "t": "to_cover",
               "w": "被"
             }
-          ]
+          ],
+          "was"
         ],
         [
           "translation_word",
@@ -20572,7 +22063,8 @@ export const CHAPTER: Chapter = {
               "t": "admonish",
               "w": "证"
             }
-          ]
+          ],
+          "against"
         ],
         [
           "translation_word",
@@ -20581,7 +22073,8 @@ export const CHAPTER: Chapter = {
               "t": "false",
               "w": "伪"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20590,7 +22083,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20599,7 +22093,8 @@ export const CHAPTER: Chapter = {
               "t": "might",
               "w": "可能"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -20612,7 +22107,8 @@ export const CHAPTER: Chapter = {
               "t": "for_example",
               "w": "比如"
             }
-          ]
+          ],
+          "effort"
         ],
         [
           "punctuation",
@@ -20625,7 +22121,8 @@ export const CHAPTER: Chapter = {
               "t": "it",
               "w": "它"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20634,7 +22131,8 @@ export const CHAPTER: Chapter = {
               "t": "a_bit",
               "w": "一点"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20643,7 +22141,8 @@ export const CHAPTER: Chapter = {
               "t": "also",
               "w": "也"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20652,7 +22151,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "不"
             }
-          ]
+          ],
+          "n't"
         ],
         [
           "translation_word",
@@ -20661,7 +22161,8 @@ export const CHAPTER: Chapter = {
               "t": "think",
               "w": "想"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20670,7 +22171,8 @@ export const CHAPTER: Chapter = {
               "t": "try_to_find",
               "w": "找"
             }
-          ]
+          ],
+          "come"
         ],
         [
           "translation_word",
@@ -20679,7 +22181,8 @@ export const CHAPTER: Chapter = {
               "t": "use_as_an_excuse",
               "w": "借口"
             }
-          ]
+          ],
+          "excuses"
         ],
         [
           "translation_word",
@@ -20688,7 +22191,8 @@ export const CHAPTER: Chapter = {
               "t": "persuade",
               "w": "说"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -20701,7 +22205,8 @@ export const CHAPTER: Chapter = {
               "t": "can't_say_for_sure",
               "w": "说不定"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20714,7 +22219,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "会"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20723,7 +22229,8 @@ export const CHAPTER: Chapter = {
               "t": "because",
               "w": "因为"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20732,7 +22239,8 @@ export const CHAPTER: Chapter = {
               "t": "what?",
               "w": "什么"
             }
-          ]
+          ],
+          "why"
         ],
         [
           "translation_word",
@@ -20741,7 +22249,8 @@ export const CHAPTER: Chapter = {
               "t": "cause",
               "w": "原因"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20750,7 +22259,8 @@ export const CHAPTER: Chapter = {
               "t": "come",
               "w": "来"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20759,7 +22269,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "不"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20768,7 +22279,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -20781,7 +22293,8 @@ export const CHAPTER: Chapter = {
               "t": "or",
               "w": "或者"
             }
-          ]
+          ],
+          "or"
         ],
         [
           "translation_word",
@@ -20790,7 +22303,8 @@ export const CHAPTER: Chapter = {
               "t": "can't_say_for_sure",
               "w": "说不定"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20799,7 +22313,8 @@ export const CHAPTER: Chapter = {
               "t": "come",
               "w": "来"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20808,7 +22323,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20817,7 +22333,8 @@ export const CHAPTER: Chapter = {
               "t": "professor",
               "w": "教授"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20826,7 +22343,8 @@ export const CHAPTER: Chapter = {
               "t": "might",
               "w": "可能"
             }
-          ]
+          ],
+          "able"
         ],
         [
           "translation_word",
@@ -20835,7 +22353,8 @@ export const CHAPTER: Chapter = {
               "t": "only",
               "w": "只"
             }
-          ]
+          ],
+          "only"
         ],
         [
           "translation_word",
@@ -20844,7 +22363,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "会"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20857,7 +22377,8 @@ export const CHAPTER: Chapter = {
               "t": "bend",
               "w": "弯"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20866,7 +22387,8 @@ export const CHAPTER: Chapter = {
               "t": "scoop",
               "w": "勺子"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -20885,7 +22407,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "你"
             }
-          ]
+          ],
+          "you"
         ],
         [
           "translation_word",
@@ -20894,7 +22417,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20903,7 +22427,8 @@ export const CHAPTER: Chapter = {
               "t": "from",
               "w": "从"
             }
-          ]
+          ],
+          "from"
         ],
         [
           "translation_word",
@@ -20912,7 +22437,8 @@ export const CHAPTER: Chapter = {
               "t": "where?",
               "w": "哪里"
             }
-          ]
+          ],
+          "?"
         ],
         [
           "translation_word",
@@ -20921,7 +22447,8 @@ export const CHAPTER: Chapter = {
               "t": "come",
               "w": "来"
             }
-          ]
+          ],
+          "come"
         ],
         [
           "translation_word",
@@ -20930,7 +22457,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20939,7 +22467,8 @@ export const CHAPTER: Chapter = {
               "t": "particle_indicating_that_a_previously_asked_question_is_to_be_applied_to_the_preceding_word",
               "w": "呢"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -20952,7 +22481,8 @@ export const CHAPTER: Chapter = {
               "t": "strange",
               "w": "奇怪"
             }
-          ]
+          ],
+          "strange"
         ],
         [
           "translation_word",
@@ -20961,7 +22491,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20970,7 +22501,8 @@ export const CHAPTER: Chapter = {
               "t": "have_a_premonition",
               "w": "预感"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -20983,7 +22515,8 @@ export const CHAPTER: Chapter = {
               "t": "Harry",
               "w": "哈利"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -20992,7 +22525,8 @@ export const CHAPTER: Chapter = {
               "t": "ask",
               "w": "问"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21001,7 +22535,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          "his"
         ],
         [
           "translation_word",
@@ -21010,7 +22545,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21019,7 +22555,8 @@ export const CHAPTER: Chapter = {
               "t": "brain",
               "w": "大脑"
             }
-          ]
+          ],
+          "brain"
         ],
         [
           "punctuation",
@@ -21032,7 +22569,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21041,7 +22579,8 @@ export const CHAPTER: Chapter = {
               "t": "why?",
               "w": "为什么"
             }
-          ]
+          ],
+          "what"
         ],
         [
           "translation_word",
@@ -21050,7 +22589,8 @@ export const CHAPTER: Chapter = {
               "t": "be_convinced",
               "w": "相信"
             }
-          ]
+          ],
+          "believe"
         ],
         [
           "translation_word",
@@ -21059,7 +22599,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21068,7 +22609,8 @@ export const CHAPTER: Chapter = {
               "t": "actually",
               "w": "所"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21077,7 +22619,8 @@ export const CHAPTER: Chapter = {
               "t": "be_convinced",
               "w": "相信"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21086,7 +22629,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -21105,7 +22649,8 @@ export const CHAPTER: Chapter = {
               "t": "at",
               "w": "在"
             }
-          ]
+          ],
+          "at"
         ],
         [
           "translation_word",
@@ -21114,7 +22659,8 @@ export const CHAPTER: Chapter = {
               "t": "same",
               "w": "一般"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21123,7 +22669,8 @@ export const CHAPTER: Chapter = {
               "t": "circumstances",
               "w": "情况"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21132,7 +22679,8 @@ export const CHAPTER: Chapter = {
               "t": "down",
               "w": "下"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21141,7 +22689,8 @@ export const CHAPTER: Chapter = {
               "t": "Harry",
               "w": "哈利"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21150,7 +22699,8 @@ export const CHAPTER: Chapter = {
               "t": "all",
               "w": "都"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21159,7 +22709,8 @@ export const CHAPTER: Chapter = {
               "t": "very",
               "w": "很"
             }
-          ]
+          ],
+          "pretty"
         ],
         [
           "translation_word",
@@ -21168,7 +22719,8 @@ export const CHAPTER: Chapter = {
               "t": "be_good_at",
               "w": "擅长"
             }
-          ]
+          ],
+          "good"
         ],
         [
           "translation_word",
@@ -21177,7 +22729,8 @@ export const CHAPTER: Chapter = {
               "t": "reply",
               "w": "回答"
             }
-          ]
+          ],
+          "answering"
         ],
         [
           "translation_word",
@@ -21186,7 +22739,8 @@ export const CHAPTER: Chapter = {
               "t": "this",
               "w": "这个"
             }
-          ]
+          ],
+          "this"
         ],
         [
           "translation_word",
@@ -21195,7 +22749,8 @@ export const CHAPTER: Chapter = {
               "t": "question",
               "w": "问题"
             }
-          ]
+          ],
+          "question"
         ],
         [
           "punctuation",
@@ -21208,7 +22763,8 @@ export const CHAPTER: Chapter = {
               "t": "but",
               "w": "可是"
             }
-          ]
+          ],
+          "but"
         ],
         [
           "translation_word",
@@ -21217,7 +22773,8 @@ export const CHAPTER: Chapter = {
               "t": "this",
               "w": "这"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21226,7 +22783,8 @@ export const CHAPTER: Chapter = {
               "t": "one",
               "w": "一"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21235,7 +22793,8 @@ export const CHAPTER: Chapter = {
               "t": "next_in_sequence",
               "w": "次"
             }
-          ]
+          ],
+          "case"
         ],
         [
           "punctuation",
@@ -21248,7 +22807,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          "he"
         ],
         [
           "translation_word",
@@ -21257,7 +22817,8 @@ export const CHAPTER: Chapter = {
               "t": "complete",
               "w": "完全"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21266,7 +22827,8 @@ export const CHAPTER: Chapter = {
               "t": "do",
               "w": "搞"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21275,7 +22837,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "不"
             }
-          ]
+          ],
+          "no"
         ],
         [
           "translation_word",
@@ -21284,7 +22847,8 @@ export const CHAPTER: Chapter = {
               "t": "understand",
               "w": "懂"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21293,7 +22857,8 @@ export const CHAPTER: Chapter = {
               "t": "oneself",
               "w": "自己"
             }
-          ]
+          ],
+          "his"
         ],
         [
           "translation_word",
@@ -21302,7 +22867,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21311,7 +22877,8 @@ export const CHAPTER: Chapter = {
               "t": "brains",
               "w": "脑子"
             }
-          ]
+          ],
+          "brain"
         ],
         [
           "translation_word",
@@ -21320,7 +22887,8 @@ export const CHAPTER: Chapter = {
               "t": "at",
               "w": "在"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21329,7 +22897,8 @@ export const CHAPTER: Chapter = {
               "t": "think",
               "w": "想"
             }
-          ]
+          ],
+          "thinking"
         ],
         [
           "translation_word",
@@ -21338,7 +22907,8 @@ export const CHAPTER: Chapter = {
               "t": "what?",
               "w": "什么"
             }
-          ]
+          ],
+          "what"
         ],
         [
           "punctuation",
@@ -21357,7 +22927,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21366,7 +22937,8 @@ export const CHAPTER: Chapter = {
               "t": "at",
               "w": "在"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21375,7 +22947,8 @@ export const CHAPTER: Chapter = {
               "t": "chest",
               "w": "心里"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21384,7 +22957,8 @@ export const CHAPTER: Chapter = {
               "t": "excite",
               "w": "耸"
             }
-          ]
+          ],
+          "shrugged"
         ],
         [
           "translation_word",
@@ -21393,7 +22967,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21402,7 +22977,8 @@ export const CHAPTER: Chapter = {
               "t": "excite",
               "w": "耸"
             }
-          ]
+          ],
+          "plate"
         ],
         [
           "translation_word",
@@ -21411,7 +22987,8 @@ export const CHAPTER: Chapter = {
               "t": "shoulder",
               "w": "肩膀"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -21424,7 +23001,8 @@ export const CHAPTER: Chapter = {
               "t": "one",
               "w": "一"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21433,7 +23011,8 @@ export const CHAPTER: Chapter = {
               "t": "fan",
               "w": "扇"
             }
-          ]
+          ],
+          "door"
         ],
         [
           "translation_word",
@@ -21442,7 +23021,8 @@ export const CHAPTER: Chapter = {
               "t": "gate",
               "w": "门"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21451,7 +23031,8 @@ export const CHAPTER: Chapter = {
               "t": "above",
               "w": "上"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21460,7 +23041,8 @@ export const CHAPTER: Chapter = {
               "t": "if",
               "w": "如果"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21469,7 +23051,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          "is"
         ],
         [
           "translation_word",
@@ -21478,7 +23061,8 @@ export const CHAPTER: Chapter = {
               "t": "one",
               "w": "一"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21487,7 +23071,8 @@ export const CHAPTER: Chapter = {
               "t": "lump",
               "w": "块"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21496,7 +23081,8 @@ export const CHAPTER: Chapter = {
               "t": "metal_plate",
               "w": "金属板"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -21509,7 +23095,8 @@ export const CHAPTER: Chapter = {
               "t": "at_once",
               "w": "就"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21518,7 +23105,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21527,7 +23115,8 @@ export const CHAPTER: Chapter = {
               "t": "use",
               "w": "用"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21536,7 +23125,8 @@ export const CHAPTER: Chapter = {
               "t": "come",
               "w": "来"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21545,7 +23135,8 @@ export const CHAPTER: Chapter = {
               "t": "push",
               "w": "推"
             }
-          ]
+          ],
+          "pushing"
         ],
         [
           "translation_word",
@@ -21554,7 +23145,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -21567,7 +23159,8 @@ export const CHAPTER: Chapter = {
               "t": "if",
               "w": "如果"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21576,7 +23169,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21589,7 +23183,8 @@ export const CHAPTER: Chapter = {
               "t": "hold",
               "w": "把"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21598,7 +23193,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21607,7 +23203,8 @@ export const CHAPTER: Chapter = {
               "t": "dialect",
               "w": "话"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -21620,7 +23217,8 @@ export const CHAPTER: Chapter = {
               "t": "at_once",
               "w": "就"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21629,7 +23227,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21638,7 +23237,8 @@ export const CHAPTER: Chapter = {
               "t": "use",
               "w": "用"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21647,7 +23247,8 @@ export const CHAPTER: Chapter = {
               "t": "come",
               "w": "来"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21656,7 +23257,8 @@ export const CHAPTER: Chapter = {
               "t": "pull",
               "w": "拉"
             }
-          ]
+          ],
+          "pulling"
         ],
         [
           "translation_word",
@@ -21665,7 +23267,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -21678,7 +23281,8 @@ export const CHAPTER: Chapter = {
               "t": "regarding",
               "w": "对于"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21691,7 +23295,8 @@ export const CHAPTER: Chapter = {
               "t": "individual",
               "w": "个"
             }
-          ]
+          ],
+          "a"
         ],
         [
           "translation_word",
@@ -21700,7 +23305,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "可以"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21709,7 +23315,8 @@ export const CHAPTER: Chapter = {
               "t": "inspect_and_verify",
               "w": "验证"
             }
-          ]
+          ],
+          "test"
         ],
         [
           "translation_word",
@@ -21718,7 +23325,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21727,7 +23335,8 @@ export const CHAPTER: Chapter = {
               "t": "guess",
               "w": "猜想"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -21740,7 +23349,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "你"
             }
-          ]
+          ],
+          "go"
         ],
         [
           "translation_word",
@@ -21749,7 +23359,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "能"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21758,7 +23369,8 @@ export const CHAPTER: Chapter = {
               "t": "do",
               "w": "做"
             }
-          ]
+          ],
+          "do"
         ],
         [
           "translation_word",
@@ -21767,7 +23379,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21776,7 +23389,8 @@ export const CHAPTER: Chapter = {
               "t": "affair",
               "w": "事情"
             }
-          ]
+          ],
+          "thing"
         ],
         [
           "translation_word",
@@ -21785,7 +23399,8 @@ export const CHAPTER: Chapter = {
               "t": "at_once",
               "w": "就"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21794,7 +23409,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21803,7 +23419,8 @@ export const CHAPTER: Chapter = {
               "t": "inspect_and_verify",
               "w": "验证"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21812,7 +23429,8 @@ export const CHAPTER: Chapter = {
               "t": "give_it_a_go",
               "w": "一下"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -21831,7 +23449,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          "his"
         ],
         [
           "translation_word",
@@ -21840,7 +23459,8 @@ export const CHAPTER: Chapter = {
               "t": "from",
               "w": "从"
             }
-          ]
+          ],
+          "from"
         ],
         [
           "translation_word",
@@ -21853,7 +23473,8 @@ export const CHAPTER: Chapter = {
               "t": "above",
               "w": "上"
             }
-          ]
+          ],
+          "desk"
         ],
         [
           "translation_word",
@@ -21862,7 +23483,8 @@ export const CHAPTER: Chapter = {
               "t": "hold",
               "w": "拿"
             }
-          ]
+          ],
+          "took"
         ],
         [
           "translation_word",
@@ -21871,7 +23493,8 @@ export const CHAPTER: Chapter = {
               "t": "rise",
               "w": "起"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21880,7 +23503,8 @@ export const CHAPTER: Chapter = {
               "t": "one",
               "w": "一"
             }
-          ]
+          ],
+          "piece"
         ],
         [
           "translation_word",
@@ -21889,7 +23513,8 @@ export const CHAPTER: Chapter = {
               "t": "open_up",
               "w": "张"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21898,7 +23523,8 @@ export const CHAPTER: Chapter = {
               "t": "dozen",
               "w": "打"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21907,7 +23533,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21916,7 +23543,8 @@ export const CHAPTER: Chapter = {
               "t": "lattice",
               "w": "格子"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21925,7 +23553,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21934,7 +23563,8 @@ export const CHAPTER: Chapter = {
               "t": "paper",
               "w": "纸"
             }
-          ]
+          ],
+          "paper"
         ],
         [
           "punctuation",
@@ -21947,7 +23577,8 @@ export const CHAPTER: Chapter = {
               "t": "begin",
               "w": "开始"
             }
-          ]
+          ],
+          "started"
         ],
         [
           "translation_word",
@@ -21956,7 +23587,8 @@ export const CHAPTER: Chapter = {
               "t": "write_a_letter",
               "w": "写信"
             }
-          ]
+          ],
+          "writing"
         ],
         [
           "punctuation",
@@ -21975,7 +23607,8 @@ export const CHAPTER: Chapter = {
               "t": "dear",
               "w": "亲爱"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21984,7 +23617,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -21993,7 +23627,8 @@ export const CHAPTER: Chapter = {
               "t": "secondary",
               "w": "副"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22002,7 +23637,8 @@ export const CHAPTER: Chapter = {
               "t": "president",
               "w": "校长"
             }
-          ]
+          ],
+          ""
         ]
       ]
     },
@@ -22017,7 +23653,8 @@ export const CHAPTER: Chapter = {
               "t": "Harry",
               "w": "哈利"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22026,7 +23663,8 @@ export const CHAPTER: Chapter = {
               "t": "stop",
               "w": "停"
             }
-          ]
+          ],
+          "paused"
         ],
         [
           "translation_word",
@@ -22035,7 +23673,8 @@ export const CHAPTER: Chapter = {
               "t": "come_down",
               "w": "下来"
             }
-          ]
+          ],
+          "reflecting"
         ],
         [
           "punctuation",
@@ -22048,7 +23687,8 @@ export const CHAPTER: Chapter = {
               "t": "think_over",
               "w": "考虑"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22057,7 +23697,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22066,7 +23707,8 @@ export const CHAPTER: Chapter = {
               "t": "a_moment",
               "w": "一会儿"
             }
-          ]
+          ],
+          "then"
         ],
         [
           "punctuation",
@@ -22079,7 +23721,8 @@ export const CHAPTER: Chapter = {
               "t": "after",
               "w": "然后"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22088,7 +23731,8 @@ export const CHAPTER: Chapter = {
               "t": "again",
               "w": "重新"
             }
-          ]
+          ],
+          "another"
         ],
         [
           "translation_word",
@@ -22097,7 +23741,8 @@ export const CHAPTER: Chapter = {
               "t": "exchange",
               "w": "换"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22106,7 +23751,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22115,7 +23761,8 @@ export const CHAPTER: Chapter = {
               "t": "one",
               "w": "一"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22124,7 +23771,8 @@ export const CHAPTER: Chapter = {
               "t": "open_up",
               "w": "张"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22133,7 +23781,8 @@ export const CHAPTER: Chapter = {
               "t": "abbr._for_Xinjiang_新疆[Xin1_jiang1]_or_Singapore_新加坡[Xin1_jia1_po1]",
               "w": "新"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22142,7 +23791,8 @@ export const CHAPTER: Chapter = {
               "t": "paper",
               "w": "纸"
             }
-          ]
+          ],
+          "paper"
         ],
         [
           "punctuation",
@@ -22155,7 +23805,8 @@ export const CHAPTER: Chapter = {
               "t": "hold",
               "w": "把"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22164,7 +23815,8 @@ export const CHAPTER: Chapter = {
               "t": "automatic",
               "w": "自动"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22173,7 +23825,8 @@ export const CHAPTER: Chapter = {
               "t": "pencil",
               "w": "铅笔"
             }
-          ]
+          ],
+          "pencil"
         ],
         [
           "translation_word",
@@ -22182,7 +23835,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22195,7 +23849,8 @@ export const CHAPTER: Chapter = {
               "t": "lamp_pith",
               "w": "芯"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22204,7 +23859,8 @@ export const CHAPTER: Chapter = {
               "t": "again",
               "w": "再"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22213,7 +23869,8 @@ export const CHAPTER: Chapter = {
               "t": "press",
               "w": "按"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22222,7 +23879,8 @@ export const CHAPTER: Chapter = {
               "t": "come_out",
               "w": "出来"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22231,7 +23889,8 @@ export const CHAPTER: Chapter = {
               "t": "one",
               "w": "一"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22240,7 +23899,8 @@ export const CHAPTER: Chapter = {
               "t": "millimeter",
               "w": "毫米"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -22253,7 +23913,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          "his"
         ],
         [
           "translation_word",
@@ -22262,7 +23923,8 @@ export const CHAPTER: Chapter = {
               "t": "decide",
               "w": "决定"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22271,7 +23933,8 @@ export const CHAPTER: Chapter = {
               "t": "write",
               "w": "写"
             }
-          ]
+          ],
+          "calligraphy"
         ],
         [
           "translation_word",
@@ -22280,7 +23943,8 @@ export const CHAPTER: Chapter = {
               "t": "obtain",
               "w": "得"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22289,7 +23953,8 @@ export const CHAPTER: Chapter = {
               "t": "fine_work",
               "w": "工整"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22298,7 +23963,8 @@ export const CHAPTER: Chapter = {
               "t": "some",
               "w": "一些"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -22317,7 +23983,8 @@ export const CHAPTER: Chapter = {
               "t": "dear",
               "w": "亲爱"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22326,7 +23993,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22335,7 +24003,8 @@ export const CHAPTER: Chapter = {
               "t": "Minerva_McGonagall",
               "w": "米勒娃·麦格"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22344,7 +24013,8 @@ export const CHAPTER: Chapter = {
               "t": "secondary",
               "w": "副"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22353,16 +24023,18 @@ export const CHAPTER: Chapter = {
               "t": "president",
               "w": "校长"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
           [
             {
-              "t": "NOT_FOUND",
+              "t": "..",
               "w": ","
             }
-          ]
+          ],
+          ""
         ]
       ]
     },
@@ -22377,7 +24049,8 @@ export const CHAPTER: Chapter = {
               "t": "maybe",
               "w": "或"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22386,7 +24059,8 @@ export const CHAPTER: Chapter = {
               "t": "related",
               "w": "相关"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22395,7 +24069,8 @@ export const CHAPTER: Chapter = {
               "t": "person",
               "w": "人士"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -22414,7 +24089,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22423,7 +24099,8 @@ export const CHAPTER: Chapter = {
               "t": "recent",
               "w": "最近"
             }
-          ]
+          ],
+          "recently"
         ],
         [
           "translation_word",
@@ -22432,7 +24109,8 @@ export const CHAPTER: Chapter = {
               "t": "receive",
               "w": "收到"
             }
-          ]
+          ],
+          "received"
         ],
         [
           "translation_word",
@@ -22441,7 +24119,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "您"
             }
-          ]
+          ],
+          "your"
         ],
         [
           "translation_word",
@@ -22450,7 +24129,8 @@ export const CHAPTER: Chapter = {
               "t": "send",
               "w": "寄"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22459,7 +24139,8 @@ export const CHAPTER: Chapter = {
               "t": "come",
               "w": "来"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22468,7 +24149,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22477,16 +24159,18 @@ export const CHAPTER: Chapter = {
               "t": "suddenly",
               "w": "霍"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
           [
             {
-              "t": "NOT_FOUND",
+              "t": "..",
               "w": "格沃茨"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22495,7 +24179,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22504,7 +24189,8 @@ export const CHAPTER: Chapter = {
               "t": "accept_an_applicant__who_passes_an_entrance_exam",
               "w": "录取"
             }
-          ]
+          ],
+          "acceptance"
         ],
         [
           "translation_word",
@@ -22513,7 +24199,8 @@ export const CHAPTER: Chapter = {
               "t": "letter",
               "w": "信"
             }
-          ]
+          ],
+          "letter"
         ],
         [
           "punctuation",
@@ -22523,10 +24210,11 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "NOT_FOUND",
+              "t": "..",
               "w": "收信人"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22535,7 +24223,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22544,7 +24233,8 @@ export const CHAPTER: Chapter = {
               "t": "H._Potter",
               "w": "H·波特"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22553,7 +24243,8 @@ export const CHAPTER: Chapter = {
               "t": "Mister",
               "w": "先生"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -22566,7 +24257,8 @@ export const CHAPTER: Chapter = {
               "t": "might",
               "w": "可能"
             }
-          ]
+          ],
+          "may"
         ],
         [
           "translation_word",
@@ -22575,7 +24267,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "您"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22584,7 +24277,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "不"
             }
-          ]
+          ],
+          "not"
         ],
         [
           "translation_word",
@@ -22593,7 +24287,8 @@ export const CHAPTER: Chapter = {
               "t": "clear",
               "w": "清楚"
             }
-          ]
+          ],
+          "aware"
         ],
         [
           "punctuation",
@@ -22606,7 +24301,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          "my"
         ],
         [
           "translation_word",
@@ -22615,7 +24311,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22628,7 +24325,8 @@ export const CHAPTER: Chapter = {
               "t": "biological_parents",
               "w": "生父母"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -22641,7 +24339,8 @@ export const CHAPTER: Chapter = {
               "t": "James_Potter",
               "w": "詹姆·波特"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22650,7 +24349,8 @@ export const CHAPTER: Chapter = {
               "t": "and",
               "w": "和"
             }
-          ]
+          ],
+          "and"
         ],
         [
           "translation_word",
@@ -22659,7 +24359,8 @@ export const CHAPTER: Chapter = {
               "t": "Lily_Potter",
               "w": "莉莉·波特"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -22672,7 +24373,8 @@ export const CHAPTER: Chapter = {
               "t": "premarital",
               "w": "婚前"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22681,7 +24383,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22690,7 +24393,8 @@ export const CHAPTER: Chapter = {
               "t": "Lily_Evans",
               "w": "莉莉·伊万"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22699,7 +24403,8 @@ export const CHAPTER: Chapter = {
               "t": "S",
               "w": "斯"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -22712,7 +24417,8 @@ export const CHAPTER: Chapter = {
               "t": "already",
               "w": "已经"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22721,7 +24427,8 @@ export const CHAPTER: Chapter = {
               "t": "PAST",
               "w": "过"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22730,7 +24437,8 @@ export const CHAPTER: Chapter = {
               "t": "life",
               "w": "世"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -22743,7 +24451,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22752,7 +24461,8 @@ export const CHAPTER: Chapter = {
               "t": "to_cover",
               "w": "被"
             }
-          ]
+          ],
+          "was"
         ],
         [
           "translation_word",
@@ -22765,7 +24475,8 @@ export const CHAPTER: Chapter = {
               "t": "LI",
               "w": "莉"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22774,7 +24485,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22783,7 +24495,8 @@ export const CHAPTER: Chapter = {
               "t": "older_sister",
               "w": "姐姐"
             }
-          ]
+          ],
+          "sister"
         ],
         [
           "translation_word",
@@ -22792,20 +24505,18 @@ export const CHAPTER: Chapter = {
               "t": "Penny-Evans",
               "w": "佩妮·伊万"
             }
-          ]
-        ],
-        [
-          "punctuation",
-          "－"
+          ],
+          ""
         ],
         [
           "translation_word",
           [
             {
-              "t": "Verres",
-              "w": "维瑞斯"
+              "t": "..",
+              "w": "斯－维瑞斯"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22814,7 +24525,8 @@ export const CHAPTER: Chapter = {
               "t": "and",
               "w": "和"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22823,7 +24535,8 @@ export const CHAPTER: Chapter = {
               "t": "she",
               "w": "她"
             }
-          ]
+          ],
+          "her"
         ],
         [
           "translation_word",
@@ -22832,7 +24545,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22841,24 +24555,22 @@ export const CHAPTER: Chapter = {
               "t": "husband",
               "w": "丈夫"
             }
-          ]
+          ],
+          "husband"
         ],
         [
           "punctuation",
           "，"
         ],
         [
-          "punctuation",
-          "－"
-        ],
-        [
           "translation_word",
           [
             {
-              "t": "Evans",
-              "w": "伊万"
+              "t": "NAME?",
+              "w": "迈克·维瑞斯－伊万"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22867,7 +24579,8 @@ export const CHAPTER: Chapter = {
               "t": "S",
               "w": "斯"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22876,7 +24589,8 @@ export const CHAPTER: Chapter = {
               "t": "take_in_and_care_for",
               "w": "收养"
             }
-          ]
+          ],
+          "adopted"
         ],
         [
           "translation_word",
@@ -22885,7 +24599,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -22904,7 +24619,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          "am"
         ],
         [
           "translation_word",
@@ -22913,7 +24629,8 @@ export const CHAPTER: Chapter = {
               "t": "right",
               "w": "对"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22922,7 +24639,8 @@ export const CHAPTER: Chapter = {
               "t": "go",
               "w": "去"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22931,16 +24649,18 @@ export const CHAPTER: Chapter = {
               "t": "suddenly",
               "w": "霍"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
           [
             {
-              "t": "NOT_FOUND",
+              "t": "..",
               "w": "格沃茨"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22949,7 +24669,8 @@ export const CHAPTER: Chapter = {
               "t": "go_to_school",
               "w": "上学"
             }
-          ]
+          ],
+          "attending"
         ],
         [
           "translation_word",
@@ -22958,7 +24679,8 @@ export const CHAPTER: Chapter = {
               "t": "very",
               "w": "非常"
             }
-          ]
+          ],
+          "extremely"
         ],
         [
           "translation_word",
@@ -22967,7 +24689,8 @@ export const CHAPTER: Chapter = {
               "t": "have",
               "w": "有"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -22976,7 +24699,8 @@ export const CHAPTER: Chapter = {
               "t": "interest",
               "w": "兴趣"
             }
-          ]
+          ],
+          "interested"
         ],
         [
           "punctuation",
@@ -22989,7 +24713,8 @@ export const CHAPTER: Chapter = {
               "t": "premise",
               "w": "前提"
             }
-          ]
+          ],
+          "conditional"
         ],
         [
           "translation_word",
@@ -22998,7 +24723,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -23007,7 +24733,8 @@ export const CHAPTER: Chapter = {
               "t": "this",
               "w": "这个"
             }
-          ]
+          ],
+          "such"
         ],
         [
           "translation_word",
@@ -23016,7 +24743,8 @@ export const CHAPTER: Chapter = {
               "t": "region",
               "w": "地方"
             }
-          ]
+          ],
+          "place"
         ],
         [
           "translation_word",
@@ -23025,7 +24753,8 @@ export const CHAPTER: Chapter = {
               "t": "really",
               "w": "真"
             }
-          ]
+          ],
+          "actually"
         ],
         [
           "translation_word",
@@ -23034,7 +24763,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -23043,7 +24773,8 @@ export const CHAPTER: Chapter = {
               "t": "exist",
               "w": "存在"
             }
-          ]
+          ],
+          "existing"
         ],
         [
           "punctuation",
@@ -23056,7 +24787,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          "my"
         ],
         [
           "translation_word",
@@ -23065,7 +24797,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -23074,7 +24807,8 @@ export const CHAPTER: Chapter = {
               "t": "mama",
               "w": "妈妈"
             }
-          ]
+          ],
+          "mother"
         ],
         [
           "translation_word",
@@ -23083,7 +24817,8 @@ export const CHAPTER: Chapter = {
               "t": "Petunia",
               "w": "佩妮"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -23092,7 +24827,8 @@ export const CHAPTER: Chapter = {
               "t": "persuade",
               "w": "说"
             }
-          ]
+          ],
+          "says"
         ],
         [
           "translation_word",
@@ -23101,7 +24837,8 @@ export const CHAPTER: Chapter = {
               "t": "she",
               "w": "她"
             }
-          ]
+          ],
+          "she"
         ],
         [
           "translation_word",
@@ -23110,7 +24847,8 @@ export const CHAPTER: Chapter = {
               "t": "see",
               "w": "见"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -23119,7 +24857,8 @@ export const CHAPTER: Chapter = {
               "t": "PAST",
               "w": "过"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -23128,7 +24867,8 @@ export const CHAPTER: Chapter = {
               "t": "enchantment",
               "w": "魔法"
             }
-          ]
+          ],
+          "magic"
         ],
         [
           "punctuation",
@@ -23141,7 +24881,8 @@ export const CHAPTER: Chapter = {
               "t": "but",
               "w": "可是"
             }
-          ]
+          ],
+          "it"
         ],
         [
           "translation_word",
@@ -23150,7 +24891,8 @@ export const CHAPTER: Chapter = {
               "t": "she",
               "w": "她"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -23159,7 +24901,8 @@ export const CHAPTER: Chapter = {
               "t": "oneself",
               "w": "自己"
             }
-          ]
+          ],
+          "herself"
         ],
         [
           "translation_word",
@@ -23168,7 +24911,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "不"
             }
-          ]
+          ],
+          "n't"
         ],
         [
           "translation_word",
@@ -23181,7 +24925,8 @@ export const CHAPTER: Chapter = {
               "t": "use",
               "w": "用"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -23194,7 +24939,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -23203,7 +24949,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -23212,7 +24959,8 @@ export const CHAPTER: Chapter = {
               "t": "father",
               "w": "爸爸"
             }
-          ]
+          ],
+          "father"
         ],
         [
           "translation_word",
@@ -23221,7 +24969,8 @@ export const CHAPTER: Chapter = {
               "t": "very",
               "w": "非常"
             }
-          ]
+          ],
+          "highly"
         ],
         [
           "translation_word",
@@ -23230,7 +24979,8 @@ export const CHAPTER: Chapter = {
               "t": "doubt",
               "w": "怀疑"
             }
-          ]
+          ],
+          "sceptical"
         ],
         [
           "punctuation",
@@ -23243,7 +24993,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -23252,7 +25003,8 @@ export const CHAPTER: Chapter = {
               "t": "oneself",
               "w": "自己"
             }
-          ]
+          ],
+          "myself"
         ],
         [
           "translation_word",
@@ -23261,7 +25013,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "不"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -23270,7 +25023,8 @@ export const CHAPTER: Chapter = {
               "t": "definite",
               "w": "确定"
             }
-          ]
+          ],
+          "uncertain"
         ],
         [
           "punctuation",
@@ -23283,7 +25037,8 @@ export const CHAPTER: Chapter = {
               "t": "and",
               "w": "并且"
             }
-          ]
+          ],
+          "also"
         ],
         [
           "translation_word",
@@ -23292,7 +25047,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -23301,7 +25057,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "不"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -23310,16 +25067,18 @@ export const CHAPTER: Chapter = {
               "t": "know",
               "w": "知道"
             }
-          ]
+          ],
+          "know"
         ],
         [
           "translation_word",
           [
             {
-              "t": "NOT_FOUND",
+              "t": "..",
               "w": "到"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -23328,7 +25087,8 @@ export const CHAPTER: Chapter = {
               "t": "where?",
               "w": "哪里"
             }
-          ]
+          ],
+          "where"
         ],
         [
           "translation_word",
@@ -23337,7 +25097,8 @@ export const CHAPTER: Chapter = {
               "t": "go",
               "w": "去"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -23346,7 +25107,8 @@ export const CHAPTER: Chapter = {
               "t": "purchase",
               "w": "购买"
             }
-          ]
+          ],
+          "obtain"
         ],
         [
           "translation_word",
@@ -23355,7 +25117,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "您"
             }
-          ]
+          ],
+          "your"
         ],
         [
           "translation_word",
@@ -23364,7 +25127,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -23373,7 +25137,8 @@ export const CHAPTER: Chapter = {
               "t": "accept_an_applicant__who_passes_an_entrance_exam",
               "w": "录取"
             }
-          ]
+          ],
+          "acceptance"
         ],
         [
           "translation_word",
@@ -23386,7 +25151,8 @@ export const CHAPTER: Chapter = {
               "t": "above",
               "w": "上"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -23395,7 +25161,8 @@ export const CHAPTER: Chapter = {
               "t": "arrange",
               "w": "列"
             }
-          ]
+          ],
+          "listed"
         ],
         [
           "translation_word",
@@ -23404,7 +25171,8 @@ export const CHAPTER: Chapter = {
               "t": "go_out",
               "w": "出"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -23413,7 +25181,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -23422,7 +25191,8 @@ export const CHAPTER: Chapter = {
               "t": "book",
               "w": "书"
             }
-          ]
+          ],
+          "books"
         ],
         [
           "translation_word",
@@ -23431,7 +25201,8 @@ export const CHAPTER: Chapter = {
               "t": "and",
               "w": "和"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -23440,7 +25211,8 @@ export const CHAPTER: Chapter = {
               "t": "articles_for_use",
               "w": "用品"
             }
-          ]
+          ],
+          "equipment"
         ],
         [
           "punctuation",
@@ -23459,7 +25231,8 @@ export const CHAPTER: Chapter = {
               "t": "mama",
               "w": "妈妈"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -23468,7 +25241,8 @@ export const CHAPTER: Chapter = {
               "t": "mention",
               "w": "提到"
             }
-          ]
+          ],
+          "mentioned"
         ],
         [
           "translation_word",
@@ -23477,7 +25251,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "您"
             }
-          ]
+          ],
+          "you"
         ],
         [
           "translation_word",
@@ -23486,7 +25261,8 @@ export const CHAPTER: Chapter = {
               "t": "clique",
               "w": "派"
             }
-          ]
+          ],
+          "sent"
         ],
         [
           "translation_word",
@@ -23495,7 +25271,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -23504,7 +25281,8 @@ export const CHAPTER: Chapter = {
               "t": "one",
               "w": "一"
             }
-          ]
+          ],
+          "a"
         ],
         [
           "translation_word",
@@ -23513,7 +25291,8 @@ export const CHAPTER: Chapter = {
               "t": "position",
               "w": "位"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -23522,16 +25301,18 @@ export const CHAPTER: Chapter = {
               "t": "suddenly",
               "w": "霍"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
           [
             {
-              "t": "NOT_FOUND",
+              "t": "..",
               "w": "格沃茨"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -23540,7 +25321,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -23549,7 +25331,8 @@ export const CHAPTER: Chapter = {
               "t": "representative",
               "w": "代表"
             }
-          ]
+          ],
+          "representative"
         ],
         [
           "translation_word",
@@ -23558,7 +25341,8 @@ export const CHAPTER: Chapter = {
               "t": "go",
               "w": "去"
             }
-          ]
+          ],
+          "to"
         ],
         [
           "translation_word",
@@ -23567,7 +25351,8 @@ export const CHAPTER: Chapter = {
               "t": "Lily_Potter",
               "w": "莉莉·波特"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -23580,7 +25365,8 @@ export const CHAPTER: Chapter = {
               "t": "then",
               "w": "那时"
             }
-          ]
+          ],
+          "then"
         ],
         [
           "translation_word",
@@ -23589,7 +25375,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -23598,7 +25385,8 @@ export const CHAPTER: Chapter = {
               "t": "Lily_Evans",
               "w": "莉莉·伊万"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -23607,7 +25395,8 @@ export const CHAPTER: Chapter = {
               "t": "S",
               "w": "斯"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -23620,7 +25409,8 @@ export const CHAPTER: Chapter = {
               "t": "home_;_family",
               "w": "家"
             }
-          ]
+          ],
+          "family"
         ],
         [
           "punctuation",
@@ -23633,7 +25423,8 @@ export const CHAPTER: Chapter = {
               "t": "towards",
               "w": "向"
             }
-          ]
+          ],
+          "demonstrate"
         ],
         [
           "translation_word",
@@ -23642,7 +25433,8 @@ export const CHAPTER: Chapter = {
               "t": "she",
               "w": "她"
             }
-          ]
+          ],
+          "her"
         ],
         [
           "translation_word",
@@ -23651,7 +25443,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -23660,7 +25453,8 @@ export const CHAPTER: Chapter = {
               "t": "household",
               "w": "家人"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -23673,7 +25467,8 @@ export const CHAPTER: Chapter = {
               "t": "understand_clearly",
               "w": "明了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -23682,7 +25477,8 @@ export const CHAPTER: Chapter = {
               "t": "enchantment",
               "w": "魔法"
             }
-          ]
+          ],
+          "magic"
         ],
         [
           "translation_word",
@@ -23691,7 +25487,8 @@ export const CHAPTER: Chapter = {
               "t": "indeed",
               "w": "确实"
             }
-          ]
+          ],
+          "real"
         ],
         [
           "translation_word",
@@ -23700,7 +25497,8 @@ export const CHAPTER: Chapter = {
               "t": "exist",
               "w": "存在"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -23713,7 +25511,8 @@ export const CHAPTER: Chapter = {
               "t": "and",
               "w": "并且"
             }
-          ]
+          ],
+          "and"
         ],
         [
           "punctuation",
@@ -23726,7 +25525,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -23735,7 +25535,8 @@ export const CHAPTER: Chapter = {
               "t": "guess",
               "w": "猜想"
             }
-          ]
+          ],
+          "presume"
         ],
         [
           "punctuation",
@@ -23748,7 +25549,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "您"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -23757,7 +25559,8 @@ export const CHAPTER: Chapter = {
               "t": "help",
               "w": "帮"
             }
-          ]
+          ],
+          "help"
         ],
         [
           "translation_word",
@@ -23766,7 +25569,8 @@ export const CHAPTER: Chapter = {
               "t": "she",
               "w": "她"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -23775,16 +25579,18 @@ export const CHAPTER: Chapter = {
               "t": "buy",
               "w": "买"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
           [
             {
-              "t": "NOT_FOUND",
+              "t": "..",
               "w": "到"
             }
-          ]
+          ],
+          "obtain"
         ],
         [
           "translation_word",
@@ -23793,7 +25599,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -23802,7 +25609,8 @@ export const CHAPTER: Chapter = {
               "t": "school",
               "w": "学校"
             }
-          ]
+          ],
+          "school"
         ],
         [
           "translation_word",
@@ -23811,7 +25619,8 @@ export const CHAPTER: Chapter = {
               "t": "articles_for_use",
               "w": "用品"
             }
-          ]
+          ],
+          "materials"
         ],
         [
           "punctuation",
@@ -23824,7 +25633,8 @@ export const CHAPTER: Chapter = {
               "t": "if",
               "w": "如果"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -23833,7 +25643,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "您"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -23842,7 +25653,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "能"
             }
-          ]
+          ],
+          "could"
         ],
         [
           "translation_word",
@@ -23851,7 +25663,8 @@ export const CHAPTER: Chapter = {
               "t": "as",
               "w": "为"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -23860,7 +25673,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          "my"
         ],
         [
           "translation_word",
@@ -23869,7 +25683,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -23878,7 +25693,8 @@ export const CHAPTER: Chapter = {
               "t": "family",
               "w": "家庭"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -23887,7 +25703,8 @@ export const CHAPTER: Chapter = {
               "t": "do",
               "w": "做"
             }
-          ]
+          ],
+          "do"
         ],
         [
           "translation_word",
@@ -23896,7 +25713,8 @@ export const CHAPTER: Chapter = {
               "t": "same",
               "w": "同样"
             }
-          ]
+          ],
+          "it"
         ],
         [
           "translation_word",
@@ -23905,7 +25723,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -23914,7 +25733,8 @@ export const CHAPTER: Chapter = {
               "t": "matter",
               "w": "事"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -23923,7 +25743,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -23932,7 +25753,8 @@ export const CHAPTER: Chapter = {
               "t": "dialect",
               "w": "话"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -23945,7 +25767,8 @@ export const CHAPTER: Chapter = {
               "t": "we",
               "w": "我们"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -23954,7 +25777,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "会"
             }
-          ]
+          ],
+          "would"
         ],
         [
           "translation_word",
@@ -23963,7 +25787,8 @@ export const CHAPTER: Chapter = {
               "t": "very",
               "w": "非常"
             }
-          ]
+          ],
+          "extremely"
         ],
         [
           "translation_word",
@@ -23972,7 +25797,8 @@ export const CHAPTER: Chapter = {
               "t": "be_grateful",
               "w": "感激"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -23991,7 +25817,8 @@ export const CHAPTER: Chapter = {
               "t": "true",
               "w": "真诚"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24000,7 +25827,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -24019,7 +25847,8 @@ export const CHAPTER: Chapter = {
               "t": "Harry",
               "w": "哈利"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24028,7 +25857,8 @@ export const CHAPTER: Chapter = {
               "t": "·",
               "w": "·"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24037,11 +25867,8 @@ export const CHAPTER: Chapter = {
               "t": "James_Potter",
               "w": "詹姆·波特"
             }
-          ]
-        ],
-        [
-          "punctuation",
-          "－"
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -24051,10 +25878,11 @@ export const CHAPTER: Chapter = {
           "translation_word",
           [
             {
-              "t": "Verres",
-              "w": "维瑞斯"
+              "t": "..",
+              "w": "伊万斯－维瑞斯"
             }
-          ]
+          ],
+          ""
         ]
       ]
     },
@@ -24069,7 +25897,8 @@ export const CHAPTER: Chapter = {
               "t": "Harry",
               "w": "哈利"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24078,7 +25907,8 @@ export const CHAPTER: Chapter = {
               "t": "write",
               "w": "写"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24087,7 +25917,8 @@ export const CHAPTER: Chapter = {
               "t": "above",
               "w": "上"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24096,7 +25927,8 @@ export const CHAPTER: Chapter = {
               "t": "they",
               "w": "他们"
             }
-          ]
+          ],
+          "their"
         ],
         [
           "translation_word",
@@ -24105,7 +25937,8 @@ export const CHAPTER: Chapter = {
               "t": "at_the_present_time",
               "w": "目前"
             }
-          ]
+          ],
+          "current"
         ],
         [
           "translation_word",
@@ -24114,7 +25947,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24123,7 +25957,8 @@ export const CHAPTER: Chapter = {
               "t": "address",
               "w": "地址"
             }
-          ]
+          ],
+          "address"
         ],
         [
           "punctuation",
@@ -24136,7 +25971,8 @@ export const CHAPTER: Chapter = {
               "t": "hold",
               "w": "把"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24145,7 +25981,8 @@ export const CHAPTER: Chapter = {
               "t": "letter",
               "w": "信"
             }
-          ]
+          ],
+          "letter"
         ],
         [
           "translation_word",
@@ -24154,7 +25991,8 @@ export const CHAPTER: Chapter = {
               "t": "break",
               "w": "折"
             }
-          ]
+          ],
+          "folded"
         ],
         [
           "translation_word",
@@ -24163,7 +26001,8 @@ export const CHAPTER: Chapter = {
               "t": "good",
               "w": "好"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24172,7 +26011,8 @@ export const CHAPTER: Chapter = {
               "t": "put",
               "w": "放"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24181,7 +26021,8 @@ export const CHAPTER: Chapter = {
               "t": "go_forward",
               "w": "进"
             }
-          ]
+          ],
+          "up"
         ],
         [
           "translation_word",
@@ -24190,7 +26031,8 @@ export const CHAPTER: Chapter = {
               "t": "envelope",
               "w": "信封"
             }
-          ]
+          ],
+          "envelope"
         ],
         [
           "punctuation",
@@ -24203,7 +26045,8 @@ export const CHAPTER: Chapter = {
               "t": "at",
               "w": "在"
             }
-          ]
+          ],
+          "in"
         ],
         [
           "translation_word",
@@ -24212,7 +26055,8 @@ export const CHAPTER: Chapter = {
               "t": "recipient",
               "w": "收件人"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24221,7 +26065,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24230,7 +26075,8 @@ export const CHAPTER: Chapter = {
               "t": "part",
               "w": "部分"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24239,7 +26085,8 @@ export const CHAPTER: Chapter = {
               "t": "write",
               "w": "写"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24248,7 +26095,8 @@ export const CHAPTER: Chapter = {
               "t": "above",
               "w": "上"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24257,16 +26105,18 @@ export const CHAPTER: Chapter = {
               "t": "suddenly",
               "w": "霍"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
           [
             {
-              "t": "NOT_FOUND",
+              "t": "..",
               "w": "格沃茨"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -24279,7 +26129,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          "him"
         ],
         [
           "translation_word",
@@ -24288,7 +26139,8 @@ export const CHAPTER: Chapter = {
               "t": "think_over",
               "w": "考虑"
             }
-          ]
+          ],
+          "consideration"
         ],
         [
           "translation_word",
@@ -24297,7 +26149,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24306,7 +26159,8 @@ export const CHAPTER: Chapter = {
               "t": "give_it_a_go",
               "w": "一下"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -24319,7 +26173,8 @@ export const CHAPTER: Chapter = {
               "t": "again",
               "w": "又"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24328,7 +26183,8 @@ export const CHAPTER: Chapter = {
               "t": "hold",
               "w": "拿"
             }
-          ]
+          ],
+          "obtain"
         ],
         [
           "translation_word",
@@ -24337,7 +26193,8 @@ export const CHAPTER: Chapter = {
               "t": "come",
               "w": "来"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24346,7 +26203,8 @@ export const CHAPTER: Chapter = {
               "t": "one",
               "w": "一"
             }
-          ]
+          ],
+          "a"
         ],
         [
           "translation_word",
@@ -24355,7 +26213,8 @@ export const CHAPTER: Chapter = {
               "t": "root",
               "w": "根"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24364,7 +26223,8 @@ export const CHAPTER: Chapter = {
               "t": "candle",
               "w": "蜡烛"
             }
-          ]
+          ],
+          "candle"
         ],
         [
           "punctuation",
@@ -24377,7 +26237,8 @@ export const CHAPTER: Chapter = {
               "t": "at",
               "w": "在"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24386,7 +26247,8 @@ export const CHAPTER: Chapter = {
               "t": "envelope",
               "w": "信封"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24395,7 +26257,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24404,7 +26267,8 @@ export const CHAPTER: Chapter = {
               "t": "close_up",
               "w": "封口"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24413,7 +26277,8 @@ export const CHAPTER: Chapter = {
               "t": "reside",
               "w": "处"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24422,7 +26287,8 @@ export const CHAPTER: Chapter = {
               "t": "a_drop",
               "w": "滴"
             }
-          ]
+          ],
+          "drip"
         ],
         [
           "translation_word",
@@ -24431,7 +26297,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24440,7 +26307,8 @@ export const CHAPTER: Chapter = {
               "t": "one",
               "w": "一"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24449,7 +26317,8 @@ export const CHAPTER: Chapter = {
               "t": "a_drop",
               "w": "滴"
             }
-          ]
+          ],
+          "onto"
         ],
         [
           "translation_word",
@@ -24462,7 +26331,8 @@ export const CHAPTER: Chapter = {
               "t": "oil",
               "w": "油"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -24475,7 +26345,8 @@ export const CHAPTER: Chapter = {
               "t": "at",
               "w": "在"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24484,7 +26355,8 @@ export const CHAPTER: Chapter = {
               "t": "on_top_of",
               "w": "上面"
             }
-          ]
+          ],
+          "impressed"
         ],
         [
           "translation_word",
@@ -24493,7 +26365,8 @@ export const CHAPTER: Chapter = {
               "t": "use",
               "w": "用"
             }
-          ]
+          ],
+          "using"
         ],
         [
           "translation_word",
@@ -24502,7 +26375,8 @@ export const CHAPTER: Chapter = {
               "t": "pencil_sharpener",
               "w": "铅笔刀"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24511,7 +26385,8 @@ export const CHAPTER: Chapter = {
               "t": "caustic",
               "w": "尖刻"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24520,7 +26395,8 @@ export const CHAPTER: Chapter = {
               "t": "down",
               "w": "下"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24529,7 +26405,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24538,7 +26415,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          "he"
         ],
         [
           "translation_word",
@@ -24547,7 +26425,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24556,7 +26435,8 @@ export const CHAPTER: Chapter = {
               "t": "name",
               "w": "名字"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24565,7 +26445,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24574,26 +26455,37 @@ export const CHAPTER: Chapter = {
               "t": "abbreviation",
               "w": "缩写"
             }
-          ]
+          ],
+          "initials"
         ],
         [
-          "punctuation",
-          "."
+          "translation_word",
+          [
+            {
+              "t": "..",
+              "w": "H.J."
+            }
+          ],
+          ""
         ],
         [
-          "punctuation",
-          "."
+          "translation_word",
+          [
+            {
+              "t": "..",
+              "w": "P.E."
+            }
+          ],
+          ""
         ],
         [
-          "punctuation",
-          "."
-        ],
-        [
-          "punctuation",
-          "."
-        ],
-        [
-          "punctuation",
+          "translation_word",
+          [
+            {
+              "t": "..",
+              "w": "V."
+            }
+          ],
           "."
         ],
         [
@@ -24603,7 +26495,8 @@ export const CHAPTER: Chapter = {
               "t": "anyway",
               "w": "反正"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24612,7 +26505,8 @@ export const CHAPTER: Chapter = {
               "t": "all",
               "w": "都"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24621,7 +26515,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          "was"
         ],
         [
           "translation_word",
@@ -24630,7 +26525,8 @@ export const CHAPTER: Chapter = {
               "t": "go_mad",
               "w": "发疯"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -24643,7 +26539,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24652,7 +26549,8 @@ export const CHAPTER: Chapter = {
               "t": "decide",
               "w": "决定"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24661,7 +26559,8 @@ export const CHAPTER: Chapter = {
               "t": "demand",
               "w": "要"
             }
-          ]
+          ],
+          "going"
         ],
         [
           "translation_word",
@@ -24670,7 +26569,8 @@ export const CHAPTER: Chapter = {
               "t": "insane",
               "w": "疯"
             }
-          ]
+          ],
+          "madness"
         ],
         [
           "translation_word",
@@ -24679,7 +26579,8 @@ export const CHAPTER: Chapter = {
               "t": "go_out",
               "w": "出"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24688,7 +26589,8 @@ export const CHAPTER: Chapter = {
               "t": "oneself",
               "w": "自己"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24697,7 +26599,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24706,7 +26609,8 @@ export const CHAPTER: Chapter = {
               "t": "style",
               "w": "风格"
             }
-          ]
+          ],
+          "style"
         ],
         [
           "punctuation",
@@ -24725,7 +26629,8 @@ export const CHAPTER: Chapter = {
               "t": "after",
               "w": "然后"
             }
-          ]
+          ],
+          "and"
         ],
         [
           "translation_word",
@@ -24734,7 +26639,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          "he"
         ],
         [
           "translation_word",
@@ -24743,7 +26649,8 @@ export const CHAPTER: Chapter = {
               "t": "dozen",
               "w": "打"
             }
-          ]
+          ],
+          "went"
         ],
         [
           "translation_word",
@@ -24752,7 +26659,8 @@ export const CHAPTER: Chapter = {
               "t": "open_a_door",
               "w": "开门"
             }
-          ]
+          ],
+          "door"
         ],
         [
           "punctuation",
@@ -24765,7 +26673,8 @@ export const CHAPTER: Chapter = {
               "t": "return_to",
               "w": "回到"
             }
-          ]
+          ],
+          "back"
         ],
         [
           "translation_word",
@@ -24774,7 +26683,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24783,7 +26693,8 @@ export const CHAPTER: Chapter = {
               "t": "downstairs",
               "w": "楼下"
             }
-          ]
+          ],
+          "downstairs"
         ],
         [
           "punctuation",
@@ -24796,7 +26707,8 @@ export const CHAPTER: Chapter = {
               "t": "father",
               "w": "爸爸"
             }
-          ]
+          ],
+          "father"
         ],
         [
           "translation_word",
@@ -24805,7 +26717,8 @@ export const CHAPTER: Chapter = {
               "t": "sit",
               "w": "坐"
             }
-          ]
+          ],
+          "sitting"
         ],
         [
           "translation_word",
@@ -24814,7 +26727,8 @@ export const CHAPTER: Chapter = {
               "t": "at",
               "w": "在"
             }
-          ]
+          ],
+          "in"
         ],
         [
           "translation_word",
@@ -24823,7 +26737,8 @@ export const CHAPTER: Chapter = {
               "t": "living_room",
               "w": "客厅"
             }
-          ]
+          ],
+          "living-room"
         ],
         [
           "translation_word",
@@ -24832,7 +26747,8 @@ export const CHAPTER: Chapter = {
               "t": "comma",
               "w": "读"
             }
-          ]
+          ],
+          "reading"
         ],
         [
           "translation_word",
@@ -24841,7 +26757,8 @@ export const CHAPTER: Chapter = {
               "t": "one",
               "w": "一"
             }
-          ]
+          ],
+          "a"
         ],
         [
           "translation_word",
@@ -24850,7 +26767,8 @@ export const CHAPTER: Chapter = {
               "t": "root",
               "w": "本"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24859,7 +26777,8 @@ export const CHAPTER: Chapter = {
               "t": "profound",
               "w": "高深"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24868,7 +26787,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24877,7 +26797,8 @@ export const CHAPTER: Chapter = {
               "t": "mathematics",
               "w": "数学"
             }
-          ]
+          ],
+          "maths"
         ],
         [
           "translation_word",
@@ -24886,7 +26807,8 @@ export const CHAPTER: Chapter = {
               "t": "book",
               "w": "书"
             }
-          ]
+          ],
+          "book"
         ],
         [
           "punctuation",
@@ -24899,7 +26821,8 @@ export const CHAPTER: Chapter = {
               "t": "think",
               "w": "想"
             }
-          ]
+          ],
+          "to"
         ],
         [
           "translation_word",
@@ -24908,7 +26831,8 @@ export const CHAPTER: Chapter = {
               "t": "demand",
               "w": "要"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24917,7 +26841,8 @@ export const CHAPTER: Chapter = {
               "t": "show",
               "w": "表现"
             }
-          ]
+          ],
+          "show"
         ],
         [
           "translation_word",
@@ -24926,7 +26851,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24935,7 +26861,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24944,7 +26871,8 @@ export const CHAPTER: Chapter = {
               "t": "how",
               "w": "多么"
             }
-          ]
+          ],
+          "how"
         ],
         [
           "translation_word",
@@ -24953,7 +26881,8 @@ export const CHAPTER: Chapter = {
               "t": "intelligent",
               "w": "聪明"
             }
-          ]
+          ],
+          "smart"
         ],
         [
           "punctuation",
@@ -24966,7 +26895,8 @@ export const CHAPTER: Chapter = {
               "t": "mama",
               "w": "妈妈"
             }
-          ]
+          ],
+          "mother"
         ],
         [
           "translation_word",
@@ -24975,7 +26905,8 @@ export const CHAPTER: Chapter = {
               "t": "at",
               "w": "在"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -24984,7 +26915,8 @@ export const CHAPTER: Chapter = {
               "t": "kitchen",
               "w": "厨房"
             }
-          ]
+          ],
+          "kitchen"
         ],
         [
           "translation_word",
@@ -24993,7 +26925,8 @@ export const CHAPTER: Chapter = {
               "t": "preparation",
               "w": "准备"
             }
-          ]
+          ],
+          "preparing"
         ],
         [
           "translation_word",
@@ -25002,7 +26935,8 @@ export const CHAPTER: Chapter = {
               "t": "father",
               "w": "爸爸"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25015,7 +26949,8 @@ export const CHAPTER: Chapter = {
               "t": "love",
               "w": "爱"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25024,7 +26959,8 @@ export const CHAPTER: Chapter = {
               "t": "eat",
               "w": "吃"
             }
-          ]
+          ],
+          "meals"
         ],
         [
           "translation_word",
@@ -25033,7 +26969,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25042,7 +26979,8 @@ export const CHAPTER: Chapter = {
               "t": "evening_meal",
               "w": "晚饭"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -25055,7 +26993,8 @@ export const CHAPTER: Chapter = {
               "t": "think",
               "w": "想"
             }
-          ]
+          ],
+          "like"
         ],
         [
           "translation_word",
@@ -25064,7 +27003,8 @@ export const CHAPTER: Chapter = {
               "t": "demand",
               "w": "要"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25073,7 +27013,8 @@ export const CHAPTER: Chapter = {
               "t": "proof",
               "w": "证明"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25082,7 +27023,8 @@ export const CHAPTER: Chapter = {
               "t": "she",
               "w": "她"
             }
-          ]
+          ],
+          "she"
         ],
         [
           "translation_word",
@@ -25091,7 +27033,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25100,7 +27043,8 @@ export const CHAPTER: Chapter = {
               "t": "how",
               "w": "多么"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25109,7 +27053,8 @@ export const CHAPTER: Chapter = {
               "t": "love",
               "w": "爱"
             }
-          ]
+          ],
+          "loving"
         ],
         [
           "translation_word",
@@ -25118,7 +27063,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          "his"
         ],
         [
           "punctuation",
@@ -25131,7 +27077,8 @@ export const CHAPTER: Chapter = {
               "t": "look_after",
               "w": "看"
             }
-          ]
+          ],
+          "look"
         ],
         [
           "translation_word",
@@ -25140,7 +27087,8 @@ export const CHAPTER: Chapter = {
               "t": "stand_up",
               "w": "起来"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25149,7 +27097,8 @@ export const CHAPTER: Chapter = {
               "t": "they",
               "w": "他们"
             }
-          ]
+          ],
+          "they"
         ],
         [
           "translation_word",
@@ -25158,7 +27107,8 @@ export const CHAPTER: Chapter = {
               "t": "already",
               "w": "已经"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25167,7 +27117,8 @@ export const CHAPTER: Chapter = {
               "t": "each_other",
               "w": "互相"
             }
-          ]
+          ],
+          "another"
         ],
         [
           "translation_word",
@@ -25180,7 +27131,8 @@ export const CHAPTER: Chapter = {
               "t": "speak",
               "w": "说话"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25189,7 +27141,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -25202,7 +27155,8 @@ export const CHAPTER: Chapter = {
               "t": "quarrel",
               "w": "吵架"
             }
-          ]
+          ],
+          "arguing"
         ],
         [
           "translation_word",
@@ -25211,7 +27165,8 @@ export const CHAPTER: Chapter = {
               "t": "very",
               "w": "很"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25220,7 +27175,8 @@ export const CHAPTER: Chapter = {
               "t": "awful",
               "w": "可怕"
             }
-          ]
+          ],
+          "scary"
         ],
         [
           "punctuation",
@@ -25233,7 +27189,8 @@ export const CHAPTER: Chapter = {
               "t": "but",
               "w": "可是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25242,7 +27199,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "不"
             }
-          ]
+          ],
+          "n't"
         ],
         [
           "translation_word",
@@ -25251,7 +27209,8 @@ export const CHAPTER: Chapter = {
               "t": "quarrel",
               "w": "吵架"
             }
-          ]
+          ],
+          "arguments"
         ],
         [
           "translation_word",
@@ -25260,7 +27219,8 @@ export const CHAPTER: Chapter = {
               "t": "apparently",
               "w": "似乎"
             }
-          ]
+          ],
+          "somehow"
         ],
         [
           "translation_word",
@@ -25269,7 +27229,8 @@ export const CHAPTER: Chapter = {
               "t": "still",
               "w": "还"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25278,7 +27239,8 @@ export const CHAPTER: Chapter = {
               "t": "demand",
               "w": "要"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25287,7 +27249,8 @@ export const CHAPTER: Chapter = {
               "t": "dregs",
               "w": "糟"
             }
-          ]
+          ],
+          "worse"
         ],
         [
           "translation_word",
@@ -25296,7 +27259,8 @@ export const CHAPTER: Chapter = {
               "t": "obtain",
               "w": "得"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25305,7 +27269,8 @@ export const CHAPTER: Chapter = {
               "t": "many",
               "w": "多"
             }
-          ]
+          ],
+          "much"
         ],
         [
           "punctuation",
@@ -25328,7 +27293,8 @@ export const CHAPTER: Chapter = {
               "t": "mama",
               "w": "妈妈"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -25345,7 +27311,8 @@ export const CHAPTER: Chapter = {
               "t": "Harry",
               "w": "哈利"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25354,7 +27321,8 @@ export const CHAPTER: Chapter = {
               "t": "right",
               "w": "对"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25363,7 +27331,8 @@ export const CHAPTER: Chapter = {
               "t": "this",
               "w": "这"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25372,7 +27341,8 @@ export const CHAPTER: Chapter = {
               "t": "disk",
               "w": "片"
             }
-          ]
+          ],
+          "silence"
         ],
         [
           "translation_word",
@@ -25381,7 +27351,8 @@ export const CHAPTER: Chapter = {
               "t": "awful",
               "w": "可怕"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25390,7 +27361,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25399,7 +27371,8 @@ export const CHAPTER: Chapter = {
               "t": "silence",
               "w": "沉寂"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25408,7 +27381,8 @@ export const CHAPTER: Chapter = {
               "t": "persuade",
               "w": "说"
             }
-          ]
+          ],
+          "said"
         ],
         [
           "punctuation",
@@ -25425,7 +27399,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25434,7 +27409,8 @@ export const CHAPTER: Chapter = {
               "t": "demand",
               "w": "要"
             }
-          ]
+          ],
+          "going"
         ],
         [
           "translation_word",
@@ -25443,7 +27419,8 @@ export const CHAPTER: Chapter = {
               "t": "test",
               "w": "测试"
             }
-          ]
+          ],
+          "test"
         ],
         [
           "translation_word",
@@ -25452,7 +27429,8 @@ export const CHAPTER: Chapter = {
               "t": "one",
               "w": "一"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25461,7 +27439,8 @@ export const CHAPTER: Chapter = {
               "t": "down",
               "w": "下"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25470,7 +27449,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "你"
             }
-          ]
+          ],
+          "your"
         ],
         [
           "translation_word",
@@ -25479,7 +27459,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25488,7 +27469,8 @@ export const CHAPTER: Chapter = {
               "t": "hypothesis",
               "w": "假说"
             }
-          ]
+          ],
+          "hypothesis"
         ],
         [
           "punctuation",
@@ -25501,7 +27483,8 @@ export const CHAPTER: Chapter = {
               "t": "press",
               "w": "按"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25510,7 +27493,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "你"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25519,7 +27503,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25528,7 +27513,8 @@ export const CHAPTER: Chapter = {
               "t": "theory",
               "w": "理论"
             }
-          ]
+          ],
+          "theory"
         ],
         [
           "punctuation",
@@ -25541,7 +27527,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25550,7 +27537,8 @@ export const CHAPTER: Chapter = {
               "t": "should",
               "w": "该"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25559,7 +27547,8 @@ export const CHAPTER: Chapter = {
               "t": "how",
               "w": "怎样"
             }
-          ]
+          ],
+          "how"
         ],
         [
           "translation_word",
@@ -25568,7 +27557,8 @@ export const CHAPTER: Chapter = {
               "t": "clique",
               "w": "派"
             }
-          ]
+          ],
+          "send"
         ],
         [
           "translation_word",
@@ -25577,7 +27567,8 @@ export const CHAPTER: Chapter = {
               "t": "one",
               "w": "一"
             }
-          ]
+          ],
+          "an"
         ],
         [
           "translation_word",
@@ -25586,7 +27577,8 @@ export const CHAPTER: Chapter = {
               "t": "only",
               "w": "只"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25595,7 +27587,8 @@ export const CHAPTER: Chapter = {
               "t": "owl",
               "w": "猫头鹰"
             }
-          ]
+          ],
+          "owl"
         ],
         [
           "translation_word",
@@ -25604,7 +27597,8 @@ export const CHAPTER: Chapter = {
               "t": "go",
               "w": "去"
             }
-          ]
+          ],
+          "to"
         ],
         [
           "translation_word",
@@ -25613,16 +27607,18 @@ export const CHAPTER: Chapter = {
               "t": "suddenly",
               "w": "霍"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
           [
             {
-              "t": "NOT_FOUND",
+              "t": "..",
               "w": "格沃茨"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25631,7 +27627,8 @@ export const CHAPTER: Chapter = {
               "t": "particle_indicating_that_a_previously_asked_question_is_to_be_applied_to_the_preceding_word",
               "w": "呢"
             }
-          ]
+          ],
+          "?"
         ],
         [
           "punctuation",
@@ -25654,7 +27651,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25663,7 +27661,8 @@ export const CHAPTER: Chapter = {
               "t": "mama",
               "w": "妈妈"
             }
-          ]
+          ],
+          "mother"
         ],
         [
           "translation_word",
@@ -25672,7 +27671,8 @@ export const CHAPTER: Chapter = {
               "t": "from",
               "w": "从"
             }
-          ]
+          ],
+          "from"
         ],
         [
           "translation_word",
@@ -25681,7 +27681,8 @@ export const CHAPTER: Chapter = {
               "t": "kitchen",
               "w": "厨房"
             }
-          ]
+          ],
+          "kitchen"
         ],
         [
           "translation_word",
@@ -25690,7 +27691,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25703,7 +27705,8 @@ export const CHAPTER: Chapter = {
               "t": "Taiwan",
               "w": "台"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25716,7 +27719,8 @@ export const CHAPTER: Chapter = {
               "t": "see_轉文|转文[zhuai3_wen2]",
               "w": "转"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25725,7 +27729,8 @@ export const CHAPTER: Chapter = {
               "t": "PAST",
               "w": "过"
             }
-          ]
+          ],
+          "turned"
         ],
         [
           "translation_word",
@@ -25734,7 +27739,8 @@ export const CHAPTER: Chapter = {
               "t": "body",
               "w": "身"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25743,7 +27749,8 @@ export const CHAPTER: Chapter = {
               "t": "open__wide",
               "w": "瞪"
             }
-          ]
+          ],
+          "stare"
         ],
         [
           "translation_word",
@@ -25752,7 +27759,8 @@ export const CHAPTER: Chapter = {
               "t": "-ing",
               "w": "着"
             }
-          ]
+          ],
+          "looking"
         ],
         [
           "translation_word",
@@ -25761,7 +27769,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          "him"
         ],
         [
           "punctuation",
@@ -25774,7 +27783,8 @@ export const CHAPTER: Chapter = {
               "t": "foolish",
               "w": "呆"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25783,7 +27793,8 @@ export const CHAPTER: Chapter = {
               "t": "live",
               "w": "住"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25792,7 +27803,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -25809,15 +27821,18 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
-          "punctuation",
-          "—"
-        ],
-        [
-          "punctuation",
-          "—"
+          "translation_word",
+          [
+            {
+              "t": "..",
+              "w": "——"
+            }
+          ],
+          "-"
         ],
         [
           "translation_word",
@@ -25826,7 +27841,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25835,7 +27851,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "不"
             }
-          ]
+          ],
+          "n't"
         ],
         [
           "translation_word",
@@ -25844,7 +27861,8 @@ export const CHAPTER: Chapter = {
               "t": "know",
               "w": "知道"
             }
-          ]
+          ],
+          "know"
         ],
         [
           "punctuation",
@@ -25857,7 +27875,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25866,7 +27885,8 @@ export const CHAPTER: Chapter = {
               "t": "think",
               "w": "想"
             }
-          ]
+          ],
+          "think"
         ],
         [
           "translation_word",
@@ -25875,7 +27895,8 @@ export const CHAPTER: Chapter = {
               "t": "obtain",
               "w": "得"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25884,7 +27905,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "你"
             }
-          ]
+          ],
+          "you"
         ],
         [
           "translation_word",
@@ -25893,7 +27915,8 @@ export const CHAPTER: Chapter = {
               "t": "have",
               "w": "有"
             }
-          ]
+          ],
+          "have"
         ],
         [
           "translation_word",
@@ -25902,7 +27925,8 @@ export const CHAPTER: Chapter = {
               "t": "one",
               "w": "一"
             }
-          ]
+          ],
+          "a"
         ],
         [
           "translation_word",
@@ -25911,7 +27935,8 @@ export const CHAPTER: Chapter = {
               "t": "only",
               "w": "只"
             }
-          ]
+          ],
+          "just"
         ],
         [
           "translation_word",
@@ -25920,7 +27945,8 @@ export const CHAPTER: Chapter = {
               "t": "enchantment",
               "w": "魔法"
             }
-          ]
+          ],
+          "magic"
         ],
         [
           "translation_word",
@@ -25929,7 +27955,8 @@ export const CHAPTER: Chapter = {
               "t": "owl",
               "w": "猫头鹰"
             }
-          ]
+          ],
+          "owl"
         ],
         [
           "translation_word",
@@ -25938,7 +27965,8 @@ export const CHAPTER: Chapter = {
               "t": "ability",
               "w": "才"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25947,7 +27975,8 @@ export const CHAPTER: Chapter = {
               "t": "row",
               "w": "行"
             }
-          ]
+          ],
+          "own"
         ],
         [
           "punctuation",
@@ -25970,7 +27999,8 @@ export const CHAPTER: Chapter = {
               "t": "this",
               "w": "这个"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25979,7 +28009,8 @@ export const CHAPTER: Chapter = {
               "t": "smile",
               "w": "听"
             }
-          ]
+          ],
+          "sounded"
         ],
         [
           "translation_word",
@@ -25988,7 +28019,8 @@ export const CHAPTER: Chapter = {
               "t": "stand_up",
               "w": "起来"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -25997,7 +28029,8 @@ export const CHAPTER: Chapter = {
               "t": "originally",
               "w": "原本"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -26006,7 +28039,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -26015,7 +28049,8 @@ export const CHAPTER: Chapter = {
               "t": "very",
               "w": "非常"
             }
-          ]
+          ],
+          "highly"
         ],
         [
           "translation_word",
@@ -26024,7 +28059,8 @@ export const CHAPTER: Chapter = {
               "t": "suspicious",
               "w": "可疑"
             }
-          ]
+          ],
+          "suspicious"
         ],
         [
           "translation_word",
@@ -26033,7 +28069,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -26046,7 +28083,8 @@ export const CHAPTER: Chapter = {
               "t": "chant",
               "w": "哦"
             }
-          ]
+          ],
+          "oh"
         ],
         [
           "punctuation",
@@ -26059,7 +28097,8 @@ export const CHAPTER: Chapter = {
               "t": "so_much",
               "w": "这么"
             }
-          ]
+          ],
+          "so"
         ],
         [
           "translation_word",
@@ -26068,7 +28107,8 @@ export const CHAPTER: Chapter = {
               "t": "persuade",
               "w": "说"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -26077,7 +28117,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "你"
             }
-          ]
+          ],
+          "your"
         ],
         [
           "translation_word",
@@ -26086,7 +28127,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -26095,7 +28137,8 @@ export const CHAPTER: Chapter = {
               "t": "theory",
               "w": "理论"
             }
-          ]
+          ],
+          "theory"
         ],
         [
           "translation_word",
@@ -26104,7 +28147,8 @@ export const CHAPTER: Chapter = {
               "t": "at_once",
               "w": "就"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -26113,7 +28157,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "没"
             }
-          ]
+          ],
+          "no"
         ],
         [
           "translation_word",
@@ -26122,7 +28167,8 @@ export const CHAPTER: Chapter = {
               "t": "means",
               "w": "办法"
             }
-          ]
+          ],
+          "way"
         ],
         [
           "translation_word",
@@ -26131,16 +28177,18 @@ export const CHAPTER: Chapter = {
               "t": "inspect_and_verify",
               "w": "验证"
             }
-          ]
+          ],
+          "test"
         ],
         [
           "translation_word",
           [
             {
-              "t": "sound_of_singing,_cheering_etc",
+              "t": "exclamation",
               "w": "啦"
             }
-          ]
+          ],
+          "'ve"
         ],
         [
           "punctuation",
@@ -26153,7 +28201,8 @@ export const CHAPTER: Chapter = {
               "t": "but",
               "w": "可是"
             }
-          ]
+          ],
+          "but"
         ],
         [
           "translation_word",
@@ -26162,7 +28211,8 @@ export const CHAPTER: Chapter = {
               "t": "Harry",
               "w": "哈利"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -26171,7 +28221,8 @@ export const CHAPTER: Chapter = {
               "t": "chest",
               "w": "心里"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -26180,7 +28231,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -26189,7 +28241,8 @@ export const CHAPTER: Chapter = {
               "t": "that_one",
               "w": "那个"
             }
-          ]
+          ],
+          "then"
         ],
         [
           "translation_word",
@@ -26198,7 +28251,8 @@ export const CHAPTER: Chapter = {
               "t": "faith",
               "w": "信念"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -26207,7 +28261,8 @@ export const CHAPTER: Chapter = {
               "t": "apparently",
               "w": "似乎"
             }
-          ]
+          ],
+          "seemed"
         ],
         [
           "translation_word",
@@ -26216,7 +28271,8 @@ export const CHAPTER: Chapter = {
               "t": "wish",
               "w": "愿意"
             }
-          ]
+          ],
+          "willing"
         ],
         [
           "translation_word",
@@ -26225,7 +28281,8 @@ export const CHAPTER: Chapter = {
               "t": "continue",
               "w": "继续"
             }
-          ]
+          ],
+          "further"
         ],
         [
           "translation_word",
@@ -26234,7 +28291,8 @@ export const CHAPTER: Chapter = {
               "t": "persevere_with",
               "w": "坚持"
             }
-          ]
+          ],
+          "stick"
         ],
         [
           "translation_word",
@@ -26243,7 +28301,8 @@ export const CHAPTER: Chapter = {
               "t": "extend",
               "w": "伸出"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -26252,7 +28311,8 @@ export const CHAPTER: Chapter = {
               "t": "head",
               "w": "头"
             }
-          ]
+          ],
+          "neck"
         ],
         [
           "translation_word",
@@ -26261,7 +28321,8 @@ export const CHAPTER: Chapter = {
               "t": "come",
               "w": "来"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -26284,7 +28345,8 @@ export const CHAPTER: Chapter = {
               "t": "good",
               "w": "好"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -26293,7 +28355,8 @@ export const CHAPTER: Chapter = {
               "t": "bar",
               "w": "吧"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -26306,7 +28369,8 @@ export const CHAPTER: Chapter = {
               "t": "since",
               "w": "既然"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -26315,7 +28379,8 @@ export const CHAPTER: Chapter = {
               "t": "accept_an_applicant__who_passes_an_entrance_exam",
               "w": "录取"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -26324,7 +28389,8 @@ export const CHAPTER: Chapter = {
               "t": "letter",
               "w": "信"
             }
-          ]
+          ],
+          "letter"
         ],
         [
           "translation_word",
@@ -26337,16 +28403,18 @@ export const CHAPTER: Chapter = {
               "t": "deliver",
               "w": "送"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
           [
             {
-              "t": "NOT_FOUND",
+              "t": "..",
               "w": "到"
             }
-          ]
+          ],
+          "got"
         ],
         [
           "translation_word",
@@ -26355,7 +28423,8 @@ export const CHAPTER: Chapter = {
               "t": "we",
               "w": "我们"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -26364,7 +28433,8 @@ export const CHAPTER: Chapter = {
               "t": "here",
               "w": "这里"
             }
-          ]
+          ],
+          "here"
         ],
         [
           "punctuation",
@@ -26381,7 +28451,8 @@ export const CHAPTER: Chapter = {
               "t": "Harry",
               "w": "哈利"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -26390,7 +28461,8 @@ export const CHAPTER: Chapter = {
               "t": "persuade",
               "w": "说"
             }
-          ]
+          ],
+          "said"
         ],
         [
           "punctuation",
@@ -26407,7 +28479,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -26416,16 +28489,18 @@ export const CHAPTER: Chapter = {
               "t": "decide",
               "w": "决定"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
           [
             {
-              "t": "NOT_FOUND",
+              "t": "..",
               "w": "到"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -26434,7 +28509,8 @@ export const CHAPTER: Chapter = {
               "t": "outside",
               "w": "外面"
             }
-          ]
+          ],
+          "outside"
         ],
         [
           "translation_word",
@@ -26447,7 +28523,8 @@ export const CHAPTER: Chapter = {
               "t": "wave",
               "w": "挥"
             }
-          ]
+          ],
+          "wave"
         ],
         [
           "translation_word",
@@ -26456,7 +28533,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -26465,7 +28543,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -26474,7 +28553,8 @@ export const CHAPTER: Chapter = {
               "t": "reply",
               "w": "回信"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -26487,7 +28567,8 @@ export const CHAPTER: Chapter = {
               "t": "shout",
               "w": "叫"
             }
-          ]
+          ],
+          "call"
         ],
         [
           "translation_word",
@@ -26496,7 +28577,8 @@ export const CHAPTER: Chapter = {
               "t": "one",
               "w": "一"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -26505,7 +28587,8 @@ export const CHAPTER: Chapter = {
               "t": "sound",
               "w": "声"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -26518,7 +28601,8 @@ export const CHAPTER: Chapter = {
               "t": "to",
               "w": "给"
             }
-          ]
+          ],
+          "'ll"
         ],
         [
           "translation_word",
@@ -26527,16 +28611,18 @@ export const CHAPTER: Chapter = {
               "t": "suddenly",
               "w": "霍"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
           [
             {
-              "t": "NOT_FOUND",
+              "t": "..",
               "w": "格沃茨"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -26545,7 +28631,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -26554,7 +28641,8 @@ export const CHAPTER: Chapter = {
               "t": "letter",
               "w": "信"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -26571,7 +28659,8 @@ export const CHAPTER: Chapter = {
               "t": "take_a_look_at",
               "w": "看看"
             }
-          ]
+          ],
+          "see"
         ],
         [
           "translation_word",
@@ -26580,7 +28669,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "会"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -26589,7 +28679,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "不"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -26598,7 +28689,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "会"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -26607,7 +28699,8 @@ export const CHAPTER: Chapter = {
               "t": "have",
               "w": "有"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -26616,7 +28709,8 @@ export const CHAPTER: Chapter = {
               "t": "one",
               "w": "一"
             }
-          ]
+          ],
+          "an"
         ],
         [
           "translation_word",
@@ -26625,7 +28719,8 @@ export const CHAPTER: Chapter = {
               "t": "only",
               "w": "只"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -26634,7 +28729,8 @@ export const CHAPTER: Chapter = {
               "t": "owl",
               "w": "猫头鹰"
             }
-          ]
+          ],
+          "owl"
         ],
         [
           "translation_word",
@@ -26643,7 +28739,8 @@ export const CHAPTER: Chapter = {
               "t": "come_over",
               "w": "过来"
             }
-          ]
+          ],
+          "around"
         ],
         [
           "translation_word",
@@ -26652,7 +28749,8 @@ export const CHAPTER: Chapter = {
               "t": "hold",
               "w": "拿"
             }
-          ]
+          ],
+          "up"
         ],
         [
           "punctuation",
@@ -26665,7 +28763,8 @@ export const CHAPTER: Chapter = {
               "t": "father",
               "w": "爸爸"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -26678,7 +28777,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "你"
             }
-          ]
+          ],
+          "you"
         ],
         [
           "translation_word",
@@ -26687,7 +28787,8 @@ export const CHAPTER: Chapter = {
               "t": "think",
               "w": "想"
             }
-          ]
+          ],
+          "want"
         ],
         [
           "translation_word",
@@ -26696,7 +28797,8 @@ export const CHAPTER: Chapter = {
               "t": "come_over",
               "w": "过来"
             }
-          ]
+          ],
+          "come"
         ],
         [
           "translation_word",
@@ -26705,7 +28807,8 @@ export const CHAPTER: Chapter = {
               "t": "look_after",
               "w": "看"
             }
-          ]
+          ],
+          "watch"
         ],
         [
           "translation_word",
@@ -26714,7 +28817,8 @@ export const CHAPTER: Chapter = {
               "t": "see_嗎啡|吗啡,_morphine",
               "w": "吗"
             }
-          ]
+          ],
+          "?"
         ],
         [
           "punctuation",
@@ -26737,7 +28841,8 @@ export const CHAPTER: Chapter = {
               "t": "father",
               "w": "爸爸"
             }
-          ]
+          ],
+          "father"
         ],
         [
           "translation_word",
@@ -26746,7 +28851,8 @@ export const CHAPTER: Chapter = {
               "t": "slight",
               "w": "微微"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -26755,7 +28861,8 @@ export const CHAPTER: Chapter = {
               "t": "shake",
               "w": "摇"
             }
-          ]
+          ],
+          "head"
         ],
         [
           "translation_word",
@@ -26764,7 +28871,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -26773,7 +28881,8 @@ export const CHAPTER: Chapter = {
               "t": "shake_one's_head",
               "w": "摇头"
             }
-          ]
+          ],
+          "shook"
         ],
         [
           "punctuation",
@@ -26786,7 +28895,8 @@ export const CHAPTER: Chapter = {
               "t": "continue",
               "w": "继续"
             }
-          ]
+          ],
+          "kept"
         ],
         [
           "translation_word",
@@ -26795,7 +28905,8 @@ export const CHAPTER: Chapter = {
               "t": "look_after",
               "w": "看"
             }
-          ]
+          ],
+          "reading"
         ],
         [
           "translation_word",
@@ -26804,7 +28915,8 @@ export const CHAPTER: Chapter = {
               "t": "book",
               "w": "书"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -26817,7 +28929,8 @@ export const CHAPTER: Chapter = {
               "t": "only_natural",
               "w": "当然"
             }
-          ]
+          ],
+          "course"
         ],
         [
           "translation_word",
@@ -26826,7 +28939,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -26839,7 +28953,8 @@ export const CHAPTER: Chapter = {
               "t": "Harry",
               "w": "哈利"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -26848,7 +28963,8 @@ export const CHAPTER: Chapter = {
               "t": "think",
               "w": "想"
             }
-          ]
+          ],
+          "thought"
         ],
         [
           "punctuation",
@@ -26861,7 +28977,8 @@ export const CHAPTER: Chapter = {
               "t": "enchantment",
               "w": "魔法"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -26870,7 +28987,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          "was"
         ],
         [
           "translation_word",
@@ -26879,7 +28997,8 @@ export const CHAPTER: Chapter = {
               "t": "lose_face",
               "w": "丢人"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -26888,7 +29007,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -26897,7 +29017,8 @@ export const CHAPTER: Chapter = {
               "t": "affair",
               "w": "事情"
             }
-          ]
+          ],
+          "thing"
         ],
         [
           "punctuation",
@@ -26914,7 +29035,8 @@ export const CHAPTER: Chapter = {
               "t": "have",
               "w": "有"
             }
-          ]
+          ],
+          "only"
         ],
         [
           "translation_word",
@@ -26923,7 +29045,8 @@ export const CHAPTER: Chapter = {
               "t": "idiot",
               "w": "傻瓜"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -26932,7 +29055,8 @@ export const CHAPTER: Chapter = {
               "t": "ability",
               "w": "才"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -26941,7 +29065,8 @@ export const CHAPTER: Chapter = {
               "t": "be_convinced",
               "w": "相信"
             }
-          ]
+          ],
+          "believed"
         ],
         [
           "punctuation",
@@ -26954,7 +29079,8 @@ export const CHAPTER: Chapter = {
               "t": "if",
               "w": "如果"
             }
-          ]
+          ],
+          "if"
         ],
         [
           "translation_word",
@@ -26963,7 +29089,8 @@ export const CHAPTER: Chapter = {
               "t": "father",
               "w": "爸爸"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -26972,7 +29099,8 @@ export const CHAPTER: Chapter = {
               "t": "unexpectedly",
               "w": "居然"
             }
-          ]
+          ],
+          "went"
         ],
         [
           "translation_word",
@@ -26981,7 +29109,8 @@ export const CHAPTER: Chapter = {
               "t": "go",
               "w": "去"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -26990,7 +29119,8 @@ export const CHAPTER: Chapter = {
               "t": "inspect_and_verify",
               "w": "验证"
             }
-          ]
+          ],
+          "test"
         ],
         [
           "translation_word",
@@ -26999,7 +29129,8 @@ export const CHAPTER: Chapter = {
               "t": "this",
               "w": "这个"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27008,7 +29139,8 @@ export const CHAPTER: Chapter = {
               "t": "imaginary",
               "w": "假想"
             }
-          ]
+          ],
+          "hypothesis"
         ],
         [
           "punctuation",
@@ -27021,7 +29153,8 @@ export const CHAPTER: Chapter = {
               "t": "or",
               "w": "或者"
             }
-          ]
+          ],
+          "or"
         ],
         [
           "translation_word",
@@ -27030,7 +29163,8 @@ export const CHAPTER: Chapter = {
               "t": "go",
               "w": "去"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27039,7 +29173,8 @@ export const CHAPTER: Chapter = {
               "t": "witness",
               "w": "目睹"
             }
-          ]
+          ],
+          "watch"
         ],
         [
           "translation_word",
@@ -27048,7 +29183,8 @@ export const CHAPTER: Chapter = {
               "t": "inspect_and_verify",
               "w": "验证"
             }
-          ]
+          ],
+          "tested"
         ],
         [
           "translation_word",
@@ -27057,7 +29193,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27066,7 +29203,8 @@ export const CHAPTER: Chapter = {
               "t": "course_of_events",
               "w": "过程"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -27079,7 +29217,8 @@ export const CHAPTER: Chapter = {
               "t": "at_once",
               "w": "就"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27088,7 +29227,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "会"
             }
-          ]
+          ],
+          "would"
         ],
         [
           "translation_word",
@@ -27097,7 +29237,8 @@ export const CHAPTER: Chapter = {
               "t": "feel",
               "w": "感觉"
             }
-          ]
+          ],
+          "feel"
         ],
         [
           "translation_word",
@@ -27106,7 +29247,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27115,7 +29257,8 @@ export const CHAPTER: Chapter = {
               "t": "moisten",
               "w": "沾"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27124,7 +29267,8 @@ export const CHAPTER: Chapter = {
               "t": "above",
               "w": "上"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27133,7 +29277,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27142,7 +29287,8 @@ export const CHAPTER: Chapter = {
               "t": "this",
               "w": "这种"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27151,15 +29297,18 @@ export const CHAPTER: Chapter = {
               "t": "east_and_west",
               "w": "东西"
             }
-          ]
+          ],
+          "like"
         ],
         [
-          "punctuation",
-          "…"
-        ],
-        [
-          "punctuation",
-          "…"
+          "translation_word",
+          [
+            {
+              "t": "..",
+              "w": "……"
+            }
+          ],
+          ""
         ]
       ]
     },
@@ -27174,7 +29323,8 @@ export const CHAPTER: Chapter = {
               "t": "until",
               "w": "直到"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27183,7 +29333,8 @@ export const CHAPTER: Chapter = {
               "t": "Harry",
               "w": "哈利"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27192,7 +29343,8 @@ export const CHAPTER: Chapter = {
               "t": "walk",
               "w": "走"
             }
-          ]
+          ],
+          "back"
         ],
         [
           "translation_word",
@@ -27201,7 +29353,8 @@ export const CHAPTER: Chapter = {
               "t": "go_out",
               "w": "出"
             }
-          ]
+          ],
+          "out"
         ],
         [
           "translation_word",
@@ -27210,7 +29363,8 @@ export const CHAPTER: Chapter = {
               "t": "the_back_door",
               "w": "后门"
             }
-          ]
+          ],
+          "door"
         ],
         [
           "translation_word",
@@ -27219,7 +29373,8 @@ export const CHAPTER: Chapter = {
               "t": "come",
               "w": "来到"
             }
-          ]
+          ],
+          "come"
         ],
         [
           "translation_word",
@@ -27228,7 +29383,8 @@ export const CHAPTER: Chapter = {
               "t": "garden",
               "w": "花园"
             }
-          ]
+          ],
+          "garden"
         ],
         [
           "translation_word",
@@ -27237,7 +29393,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27246,7 +29403,8 @@ export const CHAPTER: Chapter = {
               "t": "time",
               "w": "时候"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -27259,7 +29417,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          "him"
         ],
         [
           "translation_word",
@@ -27268,7 +29427,8 @@ export const CHAPTER: Chapter = {
               "t": "ability",
               "w": "才"
             }
-          ]
+          ],
+          "did"
         ],
         [
           "translation_word",
@@ -27277,7 +29437,8 @@ export const CHAPTER: Chapter = {
               "t": "think_of",
               "w": "想到"
             }
-          ]
+          ],
+          "occur"
         ],
         [
           "punctuation",
@@ -27290,7 +29451,8 @@ export const CHAPTER: Chapter = {
               "t": "if",
               "w": "如果"
             }
-          ]
+          ],
+          "if"
         ],
         [
           "translation_word",
@@ -27299,7 +29461,8 @@ export const CHAPTER: Chapter = {
               "t": "really",
               "w": "真"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27308,7 +29471,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27317,7 +29481,8 @@ export const CHAPTER: Chapter = {
               "t": "have",
               "w": "有"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27326,7 +29491,8 @@ export const CHAPTER: Chapter = {
               "t": "one",
               "w": "一"
             }
-          ]
+          ],
+          "an"
         ],
         [
           "translation_word",
@@ -27335,7 +29501,8 @@ export const CHAPTER: Chapter = {
               "t": "only",
               "w": "只"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27344,7 +29511,8 @@ export const CHAPTER: Chapter = {
               "t": "owl",
               "w": "猫头鹰"
             }
-          ]
+          ],
+          "owl"
         ],
         [
           "translation_word",
@@ -27357,7 +29525,8 @@ export const CHAPTER: Chapter = {
               "t": "come",
               "w": "来"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27366,7 +29535,8 @@ export const CHAPTER: Chapter = {
               "t": "hold",
               "w": "把"
             }
-          ]
+          ],
+          "down"
         ],
         [
           "translation_word",
@@ -27375,7 +29545,8 @@ export const CHAPTER: Chapter = {
               "t": "letter",
               "w": "信"
             }
-          ]
+          ],
+          "letter"
         ],
         [
           "translation_word",
@@ -27388,7 +29559,8 @@ export const CHAPTER: Chapter = {
               "t": "walk",
               "w": "走"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27397,7 +29569,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -27410,7 +29583,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          "he"
         ],
         [
           "translation_word",
@@ -27419,7 +29593,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "会"
             }
-          ]
+          ],
+          "going"
         ],
         [
           "translation_word",
@@ -27428,7 +29603,8 @@ export const CHAPTER: Chapter = {
               "t": "very",
               "w": "很"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27437,7 +29613,8 @@ export const CHAPTER: Chapter = {
               "t": "difficult",
               "w": "难"
             }
-          ]
+          ],
+          "trouble"
         ],
         [
           "translation_word",
@@ -27446,7 +29623,8 @@ export const CHAPTER: Chapter = {
               "t": "towards",
               "w": "向"
             }
-          ]
+          ],
+          "telling"
         ],
         [
           "translation_word",
@@ -27455,7 +29633,8 @@ export const CHAPTER: Chapter = {
               "t": "father",
               "w": "爸爸"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27464,7 +29643,8 @@ export const CHAPTER: Chapter = {
               "t": "explanation",
               "w": "解释"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27473,7 +29653,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -27492,7 +29673,8 @@ export const CHAPTER: Chapter = {
               "t": "only",
               "w": "不过"
             }
-          ]
+          ],
+          "well"
         ],
         [
           "punctuation",
@@ -27505,7 +29687,8 @@ export const CHAPTER: Chapter = {
               "t": "that_one",
               "w": "那个"
             }
-          ]
+          ],
+          "that"
         ],
         [
           "translation_word",
@@ -27514,7 +29697,8 @@ export const CHAPTER: Chapter = {
               "t": "anyway",
               "w": "反正"
             }
-          ]
+          ],
+          "'m"
         ],
         [
           "translation_word",
@@ -27523,7 +29707,8 @@ export const CHAPTER: Chapter = {
               "t": "also",
               "w": "也"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27532,7 +29717,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "不"
             }
-          ]
+          ],
+          "n't"
         ],
         [
           "translation_word",
@@ -27541,7 +29727,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "会"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27550,7 +29737,8 @@ export const CHAPTER: Chapter = {
               "t": "happen",
               "w": "发生"
             }
-          ]
+          ],
+          "happen"
         ],
         [
           "translation_word",
@@ -27559,7 +29747,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -27572,7 +29761,8 @@ export const CHAPTER: Chapter = {
               "t": "right",
               "w": "对"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27581,7 +29771,8 @@ export const CHAPTER: Chapter = {
               "t": "incorrect",
               "w": "不对"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -27594,7 +29785,8 @@ export const CHAPTER: Chapter = {
               "t": "not_to_be_concerned",
               "w": "不管"
             }
-          ]
+          ],
+          "matter"
         ],
         [
           "translation_word",
@@ -27603,7 +29795,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          "my"
         ],
         [
           "translation_word",
@@ -27612,7 +29805,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27621,7 +29815,8 @@ export const CHAPTER: Chapter = {
               "t": "brains",
               "w": "脑子"
             }
-          ]
+          ],
+          "brain"
         ],
         [
           "translation_word",
@@ -27630,7 +29825,8 @@ export const CHAPTER: Chapter = {
               "t": "how?",
               "w": "怎么"
             }
-          ]
+          ],
+          "what"
         ],
         [
           "translation_word",
@@ -27639,7 +29835,8 @@ export const CHAPTER: Chapter = {
               "t": "be_convinced",
               "w": "相信"
             }
-          ]
+          ],
+          "believe"
         ],
         [
           "punctuation",
@@ -27652,7 +29849,8 @@ export const CHAPTER: Chapter = {
               "t": "if",
               "w": "如果"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27661,7 +29859,8 @@ export const CHAPTER: Chapter = {
               "t": "really",
               "w": "真"
             }
-          ]
+          ],
+          "really"
         ],
         [
           "translation_word",
@@ -27670,7 +29869,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27679,7 +29879,8 @@ export const CHAPTER: Chapter = {
               "t": "have",
               "w": "有"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27688,7 +29889,8 @@ export const CHAPTER: Chapter = {
               "t": "one",
               "w": "一"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27697,7 +29899,8 @@ export const CHAPTER: Chapter = {
               "t": "only",
               "w": "只"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27706,7 +29909,8 @@ export const CHAPTER: Chapter = {
               "t": "owl",
               "w": "猫头鹰"
             }
-          ]
+          ],
+          "owl"
         ],
         [
           "translation_word",
@@ -27719,7 +29923,8 @@ export const CHAPTER: Chapter = {
               "t": "come",
               "w": "来"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27728,7 +29933,8 @@ export const CHAPTER: Chapter = {
               "t": "hold",
               "w": "把"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27737,7 +29943,8 @@ export const CHAPTER: Chapter = {
               "t": "letter",
               "w": "信"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27750,7 +29957,8 @@ export const CHAPTER: Chapter = {
               "t": "walk",
               "w": "走"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27759,7 +29967,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          "down"
         ],
         [
           "punctuation",
@@ -27772,7 +29981,8 @@ export const CHAPTER: Chapter = {
               "t": "affair",
               "w": "事情"
             }
-          ]
+          ],
+          "lot"
         ],
         [
           "translation_word",
@@ -27781,7 +29991,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "可"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27790,7 +30001,8 @@ export const CHAPTER: Chapter = {
               "t": "at_once",
               "w": "就"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27799,7 +30011,8 @@ export const CHAPTER: Chapter = {
               "t": "compared_to",
               "w": "比"
             }
-          ]
+          ],
+          "than"
         ],
         [
           "translation_word",
@@ -27808,7 +30021,8 @@ export const CHAPTER: Chapter = {
               "t": "father",
               "w": "爸爸"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27817,7 +30031,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "会"
             }
-          ]
+          ],
+          "going"
         ],
         [
           "translation_word",
@@ -27826,7 +30041,8 @@ export const CHAPTER: Chapter = {
               "t": "how?",
               "w": "怎么"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27835,7 +30051,8 @@ export const CHAPTER: Chapter = {
               "t": "think",
               "w": "想"
             }
-          ]
+          ],
+          "thinks"
         ],
         [
           "translation_word",
@@ -27844,7 +30061,8 @@ export const CHAPTER: Chapter = {
               "t": "demand",
               "w": "要"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27853,7 +30071,8 @@ export const CHAPTER: Chapter = {
               "t": "grave",
               "w": "严重"
             }
-          ]
+          ],
+          "important"
         ],
         [
           "translation_word",
@@ -27862,7 +30081,8 @@ export const CHAPTER: Chapter = {
               "t": "many",
               "w": "多"
             }
-          ]
+          ],
+          "more"
         ],
         [
           "translation_word",
@@ -27871,7 +30091,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -27890,7 +30111,8 @@ export const CHAPTER: Chapter = {
               "t": "Harry",
               "w": "哈利"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27899,7 +30121,8 @@ export const CHAPTER: Chapter = {
               "t": "deep",
               "w": "深"
             }
-          ]
+          ],
+          "deep"
         ],
         [
           "translation_word",
@@ -27908,7 +30131,8 @@ export const CHAPTER: Chapter = {
               "t": "breathe",
               "w": "吸"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27917,7 +30141,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          "took"
         ],
         [
           "translation_word",
@@ -27926,7 +30151,8 @@ export const CHAPTER: Chapter = {
               "t": "one",
               "w": "一"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27935,7 +30161,8 @@ export const CHAPTER: Chapter = {
               "t": "mouth",
               "w": "口"
             }
-          ]
+          ],
+          "breath"
         ],
         [
           "translation_word",
@@ -27944,7 +30171,8 @@ export const CHAPTER: Chapter = {
               "t": "gas",
               "w": "气"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -27957,7 +30185,8 @@ export const CHAPTER: Chapter = {
               "t": "hold",
               "w": "把"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27966,7 +30195,8 @@ export const CHAPTER: Chapter = {
               "t": "letter",
               "w": "信"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -27975,7 +30205,8 @@ export const CHAPTER: Chapter = {
               "t": "lift",
               "w": "举"
             }
-          ]
+          ],
+          "raised"
         ],
         [
           "translation_word",
@@ -27984,7 +30215,8 @@ export const CHAPTER: Chapter = {
               "t": "towards",
               "w": "向"
             }
-          ]
+          ],
+          "into"
         ],
         [
           "translation_word",
@@ -27993,7 +30225,8 @@ export const CHAPTER: Chapter = {
               "t": "in_the_sky",
               "w": "空中"
             }
-          ]
+          ],
+          "air"
         ],
         [
           "punctuation",
@@ -28012,7 +30245,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -28021,7 +30255,8 @@ export const CHAPTER: Chapter = {
               "t": "narrow_pass",
               "w": "咽"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -28030,7 +30265,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -28043,7 +30279,8 @@ export const CHAPTER: Chapter = {
               "t": "saliva",
               "w": "口水"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -28062,7 +30299,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -28071,7 +30309,8 @@ export const CHAPTER: Chapter = {
               "t": "suddenly",
               "w": "忽然"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -28080,7 +30319,8 @@ export const CHAPTER: Chapter = {
               "t": "think_of",
               "w": "想到"
             }
-          ]
+          ],
+          "thought"
         ],
         [
           "punctuation",
@@ -28093,7 +30333,8 @@ export const CHAPTER: Chapter = {
               "t": "at",
               "w": "在"
             }
-          ]
+          ],
+          "while"
         ],
         [
           "translation_word",
@@ -28102,7 +30343,8 @@ export const CHAPTER: Chapter = {
               "t": "oneself",
               "w": "自己"
             }
-          ]
+          ],
+          "own"
         ],
         [
           "translation_word",
@@ -28111,7 +30353,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -28120,7 +30363,8 @@ export const CHAPTER: Chapter = {
               "t": "empress",
               "w": "后"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -28133,7 +30377,8 @@ export const CHAPTER: Chapter = {
               "t": "lining",
               "w": "里"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -28142,7 +30387,8 @@ export const CHAPTER: Chapter = {
               "t": "lift",
               "w": "举"
             }
-          ]
+          ],
+          "holding"
         ],
         [
           "translation_word",
@@ -28151,7 +30397,8 @@ export const CHAPTER: Chapter = {
               "t": "-ing",
               "w": "着"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -28160,7 +30407,8 @@ export const CHAPTER: Chapter = {
               "t": "one",
               "w": "一"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -28169,7 +30417,8 @@ export const CHAPTER: Chapter = {
               "t": "grant",
               "w": "封"
             }
-          ]
+          ],
+          "!"
         ],
         [
           "translation_word",
@@ -28178,7 +30427,8 @@ export const CHAPTER: Chapter = {
               "t": "letter",
               "w": "信"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -28187,7 +30437,8 @@ export const CHAPTER: Chapter = {
               "t": "right",
               "w": "对"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -28196,7 +30447,8 @@ export const CHAPTER: Chapter = {
               "t": "sky",
               "w": "天空"
             }
-          ]
+          ],
+          "air"
         ],
         [
           "translation_word",
@@ -28205,7 +30457,8 @@ export const CHAPTER: Chapter = {
               "t": "big",
               "w": "大"
             }
-          ]
+          ],
+          "high"
         ],
         [
           "translation_word",
@@ -28214,7 +30467,8 @@ export const CHAPTER: Chapter = {
               "t": "yell",
               "w": "喊"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -28227,7 +30481,8 @@ export const CHAPTER: Chapter = {
               "t": "to",
               "w": "给"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -28236,16 +30491,18 @@ export const CHAPTER: Chapter = {
               "t": "suddenly",
               "w": "霍"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
           [
             {
-              "t": "NOT_FOUND",
+              "t": "..",
               "w": "格沃茨"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -28254,7 +30511,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -28263,7 +30521,8 @@ export const CHAPTER: Chapter = {
               "t": "letter",
               "w": "信"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -28284,7 +30543,8 @@ export const CHAPTER: Chapter = {
               "t": "feel",
               "w": "感觉"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -28297,7 +30557,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          "actually"
         ],
         [
           "translation_word",
@@ -28306,7 +30567,8 @@ export const CHAPTER: Chapter = {
               "t": "barbarian",
               "w": "蛮"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -28315,7 +30577,8 @@ export const CHAPTER: Chapter = {
               "t": "awkward",
               "w": "尴尬"
             }
-          ]
+          ],
+          "embarrassing"
         ],
         [
           "translation_word",
@@ -28324,7 +30587,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -28343,7 +30607,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "不"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -28356,7 +30621,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -28365,7 +30631,8 @@ export const CHAPTER: Chapter = {
               "t": "compared_to",
               "w": "比"
             }
-          ]
+          ],
+          "than"
         ],
         [
           "translation_word",
@@ -28374,7 +30641,8 @@ export const CHAPTER: Chapter = {
               "t": "father",
               "w": "爸爸"
             }
-          ]
+          ],
+          "'m"
         ],
         [
           "translation_word",
@@ -28383,7 +30651,8 @@ export const CHAPTER: Chapter = {
               "t": "stubborn",
               "w": "强"
             }
-          ]
+          ],
+          "better"
         ],
         [
           "punctuation",
@@ -28396,7 +30665,8 @@ export const CHAPTER: Chapter = {
               "t": "at_once",
               "w": "就"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -28405,7 +30675,8 @@ export const CHAPTER: Chapter = {
               "t": "regard_as",
               "w": "算"
             }
-          ]
+          ],
+          "even"
         ],
         [
           "translation_word",
@@ -28414,7 +30685,8 @@ export const CHAPTER: Chapter = {
               "t": "follow",
               "w": "遵行"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -28423,7 +30695,8 @@ export const CHAPTER: Chapter = {
               "t": "science",
               "w": "科学"
             }
-          ]
+          ],
+          "scientific"
         ],
         [
           "translation_word",
@@ -28432,7 +30705,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -28441,7 +30715,8 @@ export const CHAPTER: Chapter = {
               "t": "method",
               "w": "方法"
             }
-          ]
+          ],
+          "method"
         ],
         [
           "translation_word",
@@ -28450,7 +30725,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "会"
             }
-          ]
+          ],
+          "will"
         ],
         [
           "translation_word",
@@ -28459,7 +30735,8 @@ export const CHAPTER: Chapter = {
               "t": "yield",
               "w": "让"
             }
-          ]
+          ],
+          "makes"
         ],
         [
           "translation_word",
@@ -28468,7 +30745,8 @@ export const CHAPTER: Chapter = {
               "t": "man",
               "w": "人"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -28477,7 +30755,8 @@ export const CHAPTER: Chapter = {
               "t": "think",
               "w": "觉得"
             }
-          ]
+          ],
+          "feel"
         ],
         [
           "translation_word",
@@ -28486,7 +30765,8 @@ export const CHAPTER: Chapter = {
               "t": "very",
               "w": "很"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -28495,7 +30775,8 @@ export const CHAPTER: Chapter = {
               "t": "stupid",
               "w": "蠢"
             }
-          ]
+          ],
+          "stupid"
         ],
         [
           "punctuation",
@@ -28508,7 +30789,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          "me"
         ],
         [
           "translation_word",
@@ -28517,7 +30799,8 @@ export const CHAPTER: Chapter = {
               "t": "also",
               "w": "也"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -28526,7 +30809,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "不"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -28535,7 +30819,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "能"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -28544,7 +30829,8 @@ export const CHAPTER: Chapter = {
               "t": "shrink_back",
               "w": "退缩"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -28567,15 +30853,18 @@ export const CHAPTER: Chapter = {
               "t": "to",
               "w": "给"
             }
-          ]
+          ],
+          ""
         ],
         [
-          "punctuation",
-          "—"
-        ],
-        [
-          "punctuation",
-          "—"
+          "translation_word",
+          [
+            {
+              "t": "..",
+              "w": "——"
+            }
+          ],
+          "-"
         ],
         [
           "punctuation",
@@ -28588,7 +30877,8 @@ export const CHAPTER: Chapter = {
               "t": "Harry",
               "w": "哈利"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -28597,7 +30887,8 @@ export const CHAPTER: Chapter = {
               "t": "persuade",
               "w": "说"
             }
-          ]
+          ],
+          "said"
         ],
         [
           "punctuation",
@@ -28610,7 +30901,8 @@ export const CHAPTER: Chapter = {
               "t": "but",
               "w": "可是"
             }
-          ]
+          ],
+          "but"
         ],
         [
           "translation_word",
@@ -28619,7 +30911,8 @@ export const CHAPTER: Chapter = {
               "t": "voice",
               "w": "声音"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -28628,7 +30921,8 @@ export const CHAPTER: Chapter = {
               "t": "small",
               "w": "小"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -28637,7 +30931,8 @@ export const CHAPTER: Chapter = {
               "t": "obtain",
               "w": "得"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -28646,7 +30941,8 @@ export const CHAPTER: Chapter = {
               "t": "almost",
               "w": "几乎"
             }
-          ]
+          ],
+          "came"
         ],
         [
           "translation_word",
@@ -28655,7 +30951,8 @@ export const CHAPTER: Chapter = {
               "t": "not_be_able_to_hear",
               "w": "听不见"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -28674,7 +30971,8 @@ export const CHAPTER: Chapter = {
               "t": "Harry",
               "w": "哈利"
             }
-          ]
+          ],
+          "his"
         ],
         [
           "translation_word",
@@ -28687,7 +30985,8 @@ export const CHAPTER: Chapter = {
               "t": "set",
               "w": "定"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -28696,7 +30995,8 @@ export const CHAPTER: Chapter = {
               "t": "determination",
               "w": "决心"
             }
-          ]
+          ],
+          "will"
         ],
         [
           "punctuation",
@@ -28709,7 +31009,8 @@ export const CHAPTER: Chapter = {
               "t": "towards",
               "w": "向"
             }
-          ]
+          ],
+          "into"
         ],
         [
           "translation_word",
@@ -28718,7 +31019,8 @@ export const CHAPTER: Chapter = {
               "t": "spacious_and_empty",
               "w": "空旷"
             }
-          ]
+          ],
+          "empty"
         ],
         [
           "translation_word",
@@ -28727,7 +31029,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -28736,7 +31039,8 @@ export const CHAPTER: Chapter = {
               "t": "sky",
               "w": "天空"
             }
-          ]
+          ],
+          "sky"
         ],
         [
           "translation_word",
@@ -28745,7 +31049,8 @@ export const CHAPTER: Chapter = {
               "t": "yell",
               "w": "喊"
             }
-          ]
+          ],
+          "shouted"
         ],
         [
           "translation_word",
@@ -28754,7 +31059,8 @@ export const CHAPTER: Chapter = {
               "t": "road",
               "w": "道"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -28771,7 +31077,8 @@ export const CHAPTER: Chapter = {
               "t": "to",
               "w": "给"
             }
-          ]
+          ],
+          "for"
         ],
         [
           "translation_word",
@@ -28780,7 +31087,8 @@ export const CHAPTER: Chapter = {
               "t": "suddenly",
               "w": "霍"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -28789,7 +31097,8 @@ export const CHAPTER: Chapter = {
               "t": "square",
               "w": "格"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -28802,7 +31111,8 @@ export const CHAPTER: Chapter = {
               "t": "now",
               "w": "兹"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -28811,7 +31121,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -28820,7 +31131,8 @@ export const CHAPTER: Chapter = {
               "t": "letter",
               "w": "信"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -28833,7 +31145,8 @@ export const CHAPTER: Chapter = {
               "t": "ask",
               "w": "请"
             }
-          ]
+          ],
+          "get"
         ],
         [
           "translation_word",
@@ -28842,7 +31155,8 @@ export const CHAPTER: Chapter = {
               "t": "to",
               "w": "给"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -28851,7 +31165,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -28860,7 +31175,8 @@ export const CHAPTER: Chapter = {
               "t": "one",
               "w": "一"
             }
-          ]
+          ],
+          "an"
         ],
         [
           "translation_word",
@@ -28869,7 +31185,8 @@ export const CHAPTER: Chapter = {
               "t": "only",
               "w": "只"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -28878,7 +31195,8 @@ export const CHAPTER: Chapter = {
               "t": "owl",
               "w": "猫头鹰"
             }
-          ]
+          ],
+          "owl"
         ],
         [
           "translation_word",
@@ -28887,7 +31205,8 @@ export const CHAPTER: Chapter = {
               "t": "good",
               "w": "好"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -28896,7 +31215,8 @@ export const CHAPTER: Chapter = {
               "t": "see_嗎啡|吗啡,_morphine",
               "w": "吗"
             }
-          ]
+          ],
+          "?"
         ],
         [
           "punctuation",
@@ -28923,7 +31243,8 @@ export const CHAPTER: Chapter = {
               "t": "Harry",
               "w": "哈利"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -28944,7 +31265,8 @@ export const CHAPTER: Chapter = {
               "t": "individual",
               "w": "个"
             }
-          ]
+          ],
+          "a"
         ],
         [
           "translation_word",
@@ -28953,7 +31275,8 @@ export const CHAPTER: Chapter = {
               "t": "bewildered",
               "w": "困惑"
             }
-          ]
+          ],
+          "bemused"
         ],
         [
           "translation_word",
@@ -28962,7 +31285,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -28975,7 +31299,8 @@ export const CHAPTER: Chapter = {
               "t": "sound",
               "w": "声"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -28984,7 +31309,8 @@ export const CHAPTER: Chapter = {
               "t": "ask_the_way",
               "w": "问道"
             }
-          ]
+          ],
+          "asked"
         ],
         [
           "punctuation",
@@ -28997,7 +31323,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29006,7 +31333,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29015,7 +31343,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          "'s"
         ],
         [
           "translation_word",
@@ -29028,7 +31357,8 @@ export const CHAPTER: Chapter = {
               "t": "individual",
               "w": "个"
             }
-          ]
+          ],
+          "one"
         ],
         [
           "translation_word",
@@ -29037,7 +31367,8 @@ export const CHAPTER: Chapter = {
               "t": "neighbor",
               "w": "邻居"
             }
-          ]
+          ],
+          "neighbours"
         ],
         [
           "punctuation",
@@ -29056,7 +31387,8 @@ export const CHAPTER: Chapter = {
               "t": "Harry",
               "w": "哈利"
             }
-          ]
+          ],
+          "his"
         ],
         [
           "translation_word",
@@ -29065,7 +31397,8 @@ export const CHAPTER: Chapter = {
               "t": "resemble",
               "w": "像"
             }
-          ]
+          ],
+          "like"
         ],
         [
           "translation_word",
@@ -29074,7 +31407,8 @@ export const CHAPTER: Chapter = {
               "t": "to_cover",
               "w": "被"
             }
-          ]
+          ],
+          "was"
         ],
         [
           "translation_word",
@@ -29083,7 +31417,8 @@ export const CHAPTER: Chapter = {
               "t": "burning_hot",
               "w": "火烫"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29092,7 +31427,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29101,7 +31437,8 @@ export const CHAPTER: Chapter = {
               "t": "same",
               "w": "一样"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29110,7 +31447,8 @@ export const CHAPTER: Chapter = {
               "t": "handle",
               "w": "把手"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29119,7 +31457,8 @@ export const CHAPTER: Chapter = {
               "t": "receive",
               "w": "收"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29128,7 +31467,8 @@ export const CHAPTER: Chapter = {
               "t": "return",
               "w": "回来"
             }
-          ]
+          ],
+          "back"
         ],
         [
           "punctuation",
@@ -29141,7 +31481,8 @@ export const CHAPTER: Chapter = {
               "t": "hold",
               "w": "把"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29150,7 +31491,8 @@ export const CHAPTER: Chapter = {
               "t": "letter",
               "w": "信"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29159,7 +31501,8 @@ export const CHAPTER: Chapter = {
               "t": "Tibet",
               "w": "藏"
             }
-          ]
+          ],
+          "hid"
         ],
         [
           "translation_word",
@@ -29168,7 +31511,8 @@ export const CHAPTER: Chapter = {
               "t": "at",
               "w": "在"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29177,7 +31521,8 @@ export const CHAPTER: Chapter = {
               "t": "posthumous",
               "w": "身后"
             }
-          ]
+          ],
+          "behind"
         ],
         [
           "punctuation",
@@ -29190,7 +31535,8 @@ export const CHAPTER: Chapter = {
               "t": "at_once",
               "w": "就"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29199,7 +31545,8 @@ export const CHAPTER: Chapter = {
               "t": "resemble",
               "w": "像"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29208,7 +31555,8 @@ export const CHAPTER: Chapter = {
               "t": "that",
               "w": "那"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29217,7 +31565,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29226,7 +31575,8 @@ export const CHAPTER: Chapter = {
               "t": "traffic_narcotics",
               "w": "贩毒"
             }
-          ]
+          ],
+          "drug"
         ],
         [
           "translation_word",
@@ -29235,7 +31585,8 @@ export const CHAPTER: Chapter = {
               "t": "obtain",
               "w": "得"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29244,7 +31595,8 @@ export const CHAPTER: Chapter = {
               "t": "come",
               "w": "来"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29253,7 +31605,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29262,7 +31615,8 @@ export const CHAPTER: Chapter = {
               "t": "dirty_money",
               "w": "黑钱"
             }
-          ]
+          ],
+          "money"
         ],
         [
           "translation_word",
@@ -29271,7 +31625,8 @@ export const CHAPTER: Chapter = {
               "t": "same",
               "w": "一样"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -29284,7 +31639,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29293,7 +31649,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29302,7 +31659,8 @@ export const CHAPTER: Chapter = {
               "t": "exactly",
               "w": "整"
             }
-          ]
+          ],
+          "whole"
         ],
         [
           "translation_word",
@@ -29311,7 +31669,8 @@ export const CHAPTER: Chapter = {
               "t": "open_up",
               "w": "张"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29320,7 +31679,8 @@ export const CHAPTER: Chapter = {
               "t": "face",
               "w": "脸"
             }
-          ]
+          ],
+          "face"
         ],
         [
           "translation_word",
@@ -29329,7 +31689,8 @@ export const CHAPTER: Chapter = {
               "t": "all",
               "w": "都"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29338,7 +31699,8 @@ export const CHAPTER: Chapter = {
               "t": "at",
               "w": "在"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29347,7 +31709,8 @@ export const CHAPTER: Chapter = {
               "t": "because",
               "w": "因为"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29356,7 +31719,8 @@ export const CHAPTER: Chapter = {
               "t": "shame",
               "w": "羞耻"
             }
-          ]
+          ],
+          "shame"
         ],
         [
           "translation_word",
@@ -29365,7 +31729,8 @@ export const CHAPTER: Chapter = {
               "t": "and",
               "w": "而"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29374,7 +31739,8 @@ export const CHAPTER: Chapter = {
               "t": "send_out",
               "w": "发"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29383,7 +31749,8 @@ export const CHAPTER: Chapter = {
               "t": "scald",
               "w": "烫"
             }
-          ]
+          ],
+          "hot"
         ],
         [
           "punctuation",
@@ -29406,7 +31773,8 @@ export const CHAPTER: Chapter = {
               "t": "individual",
               "w": "个"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29415,7 +31783,8 @@ export const CHAPTER: Chapter = {
               "t": "elderly_lady",
               "w": "老太太"
             }
-          ]
+          ],
+          "woman"
         ],
         [
           "translation_word",
@@ -29424,7 +31793,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29433,7 +31803,8 @@ export const CHAPTER: Chapter = {
               "t": "face",
               "w": "脸"
             }
-          ]
+          ],
+          "face"
         ],
         [
           "translation_word",
@@ -29442,7 +31813,8 @@ export const CHAPTER: Chapter = {
               "t": "from",
               "w": "从"
             }
-          ]
+          ],
+          "from"
         ],
         [
           "translation_word",
@@ -29451,7 +31823,8 @@ export const CHAPTER: Chapter = {
               "t": "neighbor",
               "w": "邻居"
             }
-          ]
+          ],
+          "neighbouring"
         ],
         [
           "translation_word",
@@ -29460,7 +31833,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29469,7 +31843,8 @@ export const CHAPTER: Chapter = {
               "t": "fence",
               "w": "篱笆"
             }
-          ]
+          ],
+          "fence"
         ],
         [
           "translation_word",
@@ -29482,7 +31857,8 @@ export const CHAPTER: Chapter = {
               "t": "above",
               "w": "上"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29491,7 +31867,8 @@ export const CHAPTER: Chapter = {
               "t": "stretch",
               "w": "伸"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29500,7 +31877,8 @@ export const CHAPTER: Chapter = {
               "t": "come_out",
               "w": "出来"
             }
-          ]
+          ],
+          "out"
         ],
         [
           "punctuation",
@@ -29513,7 +31891,8 @@ export const CHAPTER: Chapter = {
               "t": "she",
               "w": "她"
             }
-          ]
+          ],
+          "her"
         ],
         [
           "translation_word",
@@ -29522,7 +31901,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29531,7 +31911,8 @@ export const CHAPTER: Chapter = {
               "t": "hair",
               "w": "头发"
             }
-          ]
+          ],
+          "hair"
         ],
         [
           "translation_word",
@@ -29540,7 +31921,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29549,7 +31931,8 @@ export const CHAPTER: Chapter = {
               "t": "ash_gray",
               "w": "灰白色"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29558,7 +31941,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -29571,7 +31955,8 @@ export const CHAPTER: Chapter = {
               "t": "hairy",
               "w": "毛茸茸"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29580,7 +31965,8 @@ export const CHAPTER: Chapter = {
               "t": "-ly",
               "w": "地"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29589,7 +31975,8 @@ export const CHAPTER: Chapter = {
               "t": "from",
               "w": "从"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29598,7 +31985,8 @@ export const CHAPTER: Chapter = {
               "t": "hairnet",
               "w": "发网"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29607,7 +31995,8 @@ export const CHAPTER: Chapter = {
               "t": "lining",
               "w": "里"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29616,7 +32005,8 @@ export const CHAPTER: Chapter = {
               "t": "leak",
               "w": "漏"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29625,7 +32015,8 @@ export const CHAPTER: Chapter = {
               "t": "come_out",
               "w": "出来"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -29638,7 +32029,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29647,7 +32039,8 @@ export const CHAPTER: Chapter = {
               "t": "cost",
               "w": "费"
             }
-          ]
+          ],
+          "babysitter"
         ],
         [
           "translation_word",
@@ -29656,7 +32049,8 @@ export const CHAPTER: Chapter = {
               "t": "square",
               "w": "格"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29665,7 +32059,8 @@ export const CHAPTER: Chapter = {
               "t": "married_woman",
               "w": "太太"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -29678,7 +32073,8 @@ export const CHAPTER: Chapter = {
               "t": "she",
               "w": "她"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29687,7 +32083,8 @@ export const CHAPTER: Chapter = {
               "t": "incidentally",
               "w": "偶然"
             }
-          ]
+          ],
+          "occasional"
         ],
         [
           "translation_word",
@@ -29696,7 +32093,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "会"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29705,7 +32103,8 @@ export const CHAPTER: Chapter = {
               "t": "do",
               "w": "做"
             }
-          ]
+          ],
+          "doing"
         ],
         [
           "translation_word",
@@ -29714,7 +32113,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29723,7 +32123,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29732,7 +32133,8 @@ export const CHAPTER: Chapter = {
               "t": "as_the_time_draws_near",
               "w": "临时"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29741,7 +32143,8 @@ export const CHAPTER: Chapter = {
               "t": "nanny",
               "w": "保姆"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -29758,7 +32161,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "你"
             }
-          ]
+          ],
+          "you"
         ],
         [
           "translation_word",
@@ -29767,7 +32171,8 @@ export const CHAPTER: Chapter = {
               "t": "at",
               "w": "在"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29776,7 +32181,8 @@ export const CHAPTER: Chapter = {
               "t": "dry",
               "w": "干"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29785,7 +32191,8 @@ export const CHAPTER: Chapter = {
               "t": "what?",
               "w": "什么"
             }
-          ]
+          ],
+          "?"
         ],
         [
           "punctuation",
@@ -29798,7 +32205,8 @@ export const CHAPTER: Chapter = {
               "t": "Harry",
               "w": "哈利"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -29825,7 +32233,8 @@ export const CHAPTER: Chapter = {
               "t": "nothing",
               "w": "没什么"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -29842,7 +32251,8 @@ export const CHAPTER: Chapter = {
               "t": "Harry",
               "w": "哈利"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29851,7 +32261,8 @@ export const CHAPTER: Chapter = {
               "t": "use",
               "w": "用"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29860,7 +32271,8 @@ export const CHAPTER: Chapter = {
               "t": "one",
               "w": "一"
             }
-          ]
+          ],
+          "a"
         ],
         [
           "translation_word",
@@ -29869,7 +32281,8 @@ export const CHAPTER: Chapter = {
               "t": "seed",
               "w": "种"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29878,7 +32291,8 @@ export const CHAPTER: Chapter = {
               "t": "resemble",
               "w": "像"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29887,7 +32301,8 @@ export const CHAPTER: Chapter = {
               "t": "to_cover",
               "w": "被"
             }
-          ]
+          ],
+          "strangled"
         ],
         [
           "translation_word",
@@ -29896,7 +32311,8 @@ export const CHAPTER: Chapter = {
               "t": "pick",
               "w": "掐"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29905,7 +32321,8 @@ export const CHAPTER: Chapter = {
               "t": "live",
               "w": "住"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29914,7 +32331,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29923,7 +32341,8 @@ export const CHAPTER: Chapter = {
               "t": "throat",
               "w": "喉咙"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29932,7 +32351,8 @@ export const CHAPTER: Chapter = {
               "t": "seems_as_if",
               "w": "似的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29941,7 +32361,8 @@ export const CHAPTER: Chapter = {
               "t": "voice",
               "w": "声音"
             }
-          ]
+          ],
+          "voice"
         ],
         [
           "translation_word",
@@ -29954,7 +32375,8 @@ export const CHAPTER: Chapter = {
               "t": "road",
               "w": "道"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -29971,7 +32393,8 @@ export const CHAPTER: Chapter = {
               "t": "only",
               "w": "只"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29980,7 +32403,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -29989,15 +32413,18 @@ export const CHAPTER: Chapter = {
               "t": "at",
               "w": "在"
             }
-          ]
+          ],
+          ""
         ],
         [
-          "punctuation",
-          "—"
-        ],
-        [
-          "punctuation",
-          "—"
+          "translation_word",
+          [
+            {
+              "t": "..",
+              "w": "——"
+            }
+          ],
+          "-"
         ],
         [
           "translation_word",
@@ -30006,7 +32433,8 @@ export const CHAPTER: Chapter = {
               "t": "test",
               "w": "测试"
             }
-          ]
+          ],
+          "testing"
         ],
         [
           "translation_word",
@@ -30019,7 +32447,8 @@ export const CHAPTER: Chapter = {
               "t": "individual",
               "w": "个"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30028,7 +32457,8 @@ export const CHAPTER: Chapter = {
               "t": "funny",
               "w": "可笑"
             }
-          ]
+          ],
+          "really"
         ],
         [
           "translation_word",
@@ -30037,7 +32467,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30046,15 +32477,18 @@ export const CHAPTER: Chapter = {
               "t": "theory",
               "w": "理论"
             }
-          ]
+          ],
+          "theory"
         ],
         [
-          "punctuation",
-          "—"
-        ],
-        [
-          "punctuation",
-          "—"
+          "translation_word",
+          [
+            {
+              "t": "..",
+              "w": "——"
+            }
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -30077,7 +32511,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "你"
             }
-          ]
+          ],
+          "your"
         ],
         [
           "translation_word",
@@ -30086,7 +32521,8 @@ export const CHAPTER: Chapter = {
               "t": "receive",
               "w": "收到"
             }
-          ]
+          ],
+          "get"
         ],
         [
           "translation_word",
@@ -30095,16 +32531,18 @@ export const CHAPTER: Chapter = {
               "t": "suddenly",
               "w": "霍"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
           [
             {
-              "t": "NOT_FOUND",
+              "t": "..",
               "w": "格沃茨"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30113,7 +32551,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30122,7 +32561,8 @@ export const CHAPTER: Chapter = {
               "t": "accept_an_applicant__who_passes_an_entrance_exam",
               "w": "录取"
             }
-          ]
+          ],
+          "acceptance"
         ],
         [
           "translation_word",
@@ -30131,7 +32571,8 @@ export const CHAPTER: Chapter = {
               "t": "letter",
               "w": "信"
             }
-          ]
+          ],
+          "letter"
         ],
         [
           "translation_word",
@@ -30140,7 +32581,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -30163,7 +32605,8 @@ export const CHAPTER: Chapter = {
               "t": "Harry",
               "w": "哈利"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30172,7 +32615,8 @@ export const CHAPTER: Chapter = {
               "t": "motionless",
               "w": "僵住"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30181,7 +32625,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -30204,7 +32649,8 @@ export const CHAPTER: Chapter = {
               "t": "yes,_that's_right",
               "w": "是的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -30221,7 +32667,8 @@ export const CHAPTER: Chapter = {
               "t": "Harry",
               "w": "哈利"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30230,7 +32677,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30239,7 +32687,8 @@ export const CHAPTER: Chapter = {
               "t": "lip",
               "w": "嘴唇"
             }
-          ]
+          ],
+          "lips"
         ],
         [
           "translation_word",
@@ -30248,7 +32697,8 @@ export const CHAPTER: Chapter = {
               "t": "at",
               "w": "在"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30257,7 +32707,8 @@ export const CHAPTER: Chapter = {
               "t": "taciturn",
               "w": "沉默"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30266,7 +32717,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30275,7 +32727,8 @@ export const CHAPTER: Chapter = {
               "t": "a_moment",
               "w": "一会儿"
             }
-          ]
+          ],
+          "while"
         ],
         [
           "translation_word",
@@ -30284,7 +32737,8 @@ export const CHAPTER: Chapter = {
               "t": "after",
               "w": "以后"
             }
-          ]
+          ],
+          "later"
         ],
         [
           "translation_word",
@@ -30297,7 +32751,8 @@ export const CHAPTER: Chapter = {
               "t": "road",
               "w": "道"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -30314,7 +32769,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30323,7 +32779,8 @@ export const CHAPTER: Chapter = {
               "t": "receive",
               "w": "收到"
             }
-          ]
+          ],
+          "got"
         ],
         [
           "translation_word",
@@ -30332,7 +32789,8 @@ export const CHAPTER: Chapter = {
               "t": "one",
               "w": "一"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30341,7 +32799,8 @@ export const CHAPTER: Chapter = {
               "t": "grant",
               "w": "封"
             }
-          ]
+          ],
+          "letter"
         ],
         [
           "translation_word",
@@ -30350,7 +32809,8 @@ export const CHAPTER: Chapter = {
               "t": "from",
               "w": "从"
             }
-          ]
+          ],
+          "from"
         ],
         [
           "translation_word",
@@ -30359,16 +32819,18 @@ export const CHAPTER: Chapter = {
               "t": "suddenly",
               "w": "霍"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
           [
             {
-              "t": "NOT_FOUND",
+              "t": "..",
               "w": "格沃茨"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30377,7 +32839,8 @@ export const CHAPTER: Chapter = {
               "t": "send",
               "w": "寄"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30386,7 +32849,8 @@ export const CHAPTER: Chapter = {
               "t": "come",
               "w": "来"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30395,7 +32859,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30404,7 +32869,8 @@ export const CHAPTER: Chapter = {
               "t": "letter",
               "w": "信"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -30417,7 +32883,8 @@ export const CHAPTER: Chapter = {
               "t": "they",
               "w": "他们"
             }
-          ]
+          ],
+          "they"
         ],
         [
           "translation_word",
@@ -30426,7 +32893,8 @@ export const CHAPTER: Chapter = {
               "t": "persuade",
               "w": "说"
             }
-          ]
+          ],
+          "say"
         ],
         [
           "translation_word",
@@ -30435,7 +32903,8 @@ export const CHAPTER: Chapter = {
               "t": "yield",
               "w": "让"
             }
-          ]
+          ],
+          "want"
         ],
         [
           "translation_word",
@@ -30444,7 +32913,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          "my"
         ],
         [
           "translation_word",
@@ -30453,7 +32923,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30462,7 +32933,8 @@ export const CHAPTER: Chapter = {
               "t": "owl",
               "w": "猫头鹰"
             }
-          ]
+          ],
+          "owl"
         ],
         [
           "translation_word",
@@ -30471,7 +32943,8 @@ export const CHAPTER: Chapter = {
               "t": "at",
               "w": "在"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30480,7 +32953,8 @@ export const CHAPTER: Chapter = {
               "t": "July",
               "w": "七月"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30493,7 +32967,8 @@ export const CHAPTER: Chapter = {
               "t": "eleven",
               "w": "十一"
             }
-          ]
+          ],
+          "31st"
         ],
         [
           "translation_word",
@@ -30502,7 +32977,8 @@ export const CHAPTER: Chapter = {
               "t": "roar",
               "w": "号"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30511,7 +32987,8 @@ export const CHAPTER: Chapter = {
               "t": "before",
               "w": "之前"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30520,7 +32997,8 @@ export const CHAPTER: Chapter = {
               "t": "send_word",
               "w": "送信"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30529,7 +33007,8 @@ export const CHAPTER: Chapter = {
               "t": "past",
               "w": "过去"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -30542,15 +33021,18 @@ export const CHAPTER: Chapter = {
               "t": "but",
               "w": "可是"
             }
-          ]
+          ],
+          "but"
         ],
         [
-          "punctuation",
-          "—"
-        ],
-        [
-          "punctuation",
-          "—"
+          "translation_word",
+          [
+            {
+              "t": "..",
+              "w": "——"
+            }
+          ],
+          "-"
         ],
         [
           "punctuation",
@@ -30573,7 +33055,8 @@ export const CHAPTER: Chapter = {
               "t": "can",
               "w": "可"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30582,7 +33065,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30591,7 +33075,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "你"
             }
-          ]
+          ],
+          "you"
         ],
         [
           "translation_word",
@@ -30600,7 +33085,8 @@ export const CHAPTER: Chapter = {
               "t": "haven't",
               "w": "没有"
             }
-          ]
+          ],
+          "n't"
         ],
         [
           "translation_word",
@@ -30609,7 +33095,8 @@ export const CHAPTER: Chapter = {
               "t": "owl",
               "w": "猫头鹰"
             }
-          ]
+          ],
+          "owl"
         ],
         [
           "punctuation",
@@ -30622,7 +33109,8 @@ export const CHAPTER: Chapter = {
               "t": "have_bad_luck",
               "w": "倒霉"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30631,7 +33119,8 @@ export const CHAPTER: Chapter = {
               "t": "child",
               "w": "孩子"
             }
-          ]
+          ],
+          "ca"
         ],
         [
           "punctuation",
@@ -30644,7 +33133,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30657,7 +33147,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "不"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30666,7 +33157,8 @@ export const CHAPTER: Chapter = {
               "t": "know",
               "w": "知道"
             }
-          ]
+          ],
+          "what"
         ],
         [
           "translation_word",
@@ -30675,7 +33167,8 @@ export const CHAPTER: Chapter = {
               "t": "those",
               "w": "那些"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30684,7 +33177,8 @@ export const CHAPTER: Chapter = {
               "t": "man",
               "w": "人"
             }
-          ]
+          ],
+          "someone"
         ],
         [
           "translation_word",
@@ -30693,7 +33187,8 @@ export const CHAPTER: Chapter = {
               "t": "is",
               "w": "是"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30702,7 +33197,8 @@ export const CHAPTER: Chapter = {
               "t": "how?",
               "w": "怎么"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30711,7 +33207,8 @@ export const CHAPTER: Chapter = {
               "t": "think",
               "w": "想"
             }
-          ]
+          ],
+          "thinking"
         ],
         [
           "translation_word",
@@ -30720,7 +33217,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -30733,7 +33231,8 @@ export const CHAPTER: Chapter = {
               "t": "at_once",
               "w": "就"
             }
-          ]
+          ],
+          "just"
         ],
         [
           "translation_word",
@@ -30742,7 +33241,8 @@ export const CHAPTER: Chapter = {
               "t": "this_kind_of",
               "w": "这样"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30751,7 +33251,8 @@ export const CHAPTER: Chapter = {
               "t": "hold",
               "w": "把"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30760,7 +33261,8 @@ export const CHAPTER: Chapter = {
               "t": "common",
               "w": "普通"
             }
-          ]
+          ],
+          "standard"
         ],
         [
           "translation_word",
@@ -30769,7 +33271,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30778,7 +33281,8 @@ export const CHAPTER: Chapter = {
               "t": "letter",
               "w": "信"
             }
-          ]
+          ],
+          "letter"
         ],
         [
           "translation_word",
@@ -30787,7 +33291,8 @@ export const CHAPTER: Chapter = {
               "t": "send",
               "w": "寄"
             }
-          ]
+          ],
+          "sending"
         ],
         [
           "translation_word",
@@ -30796,7 +33301,8 @@ export const CHAPTER: Chapter = {
               "t": "to",
               "w": "给"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30805,7 +33311,8 @@ export const CHAPTER: Chapter = {
               "t": "you",
               "w": "你"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -30828,7 +33335,8 @@ export const CHAPTER: Chapter = {
               "t": "one",
               "w": "一"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30837,7 +33345,8 @@ export const CHAPTER: Chapter = {
               "t": "strip",
               "w": "条"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30846,7 +33355,8 @@ export const CHAPTER: Chapter = {
               "t": "be_covered_with",
               "w": "布满"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30855,7 +33365,8 @@ export const CHAPTER: Chapter = {
               "t": "wrinkle",
               "w": "皱纹"
             }
-          ]
+          ],
+          "wrinkled"
         ],
         [
           "translation_word",
@@ -30864,7 +33375,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30873,7 +33385,8 @@ export const CHAPTER: Chapter = {
               "t": "arm",
               "w": "手臂"
             }
-          ]
+          ],
+          "arm"
         ],
         [
           "translation_word",
@@ -30882,7 +33395,8 @@ export const CHAPTER: Chapter = {
               "t": "from",
               "w": "从"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30891,7 +33405,8 @@ export const CHAPTER: Chapter = {
               "t": "fence",
               "w": "篱笆"
             }
-          ]
+          ],
+          "fence"
         ],
         [
           "translation_word",
@@ -30900,7 +33415,8 @@ export const CHAPTER: Chapter = {
               "t": "rear",
               "w": "后面"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30909,7 +33425,8 @@ export const CHAPTER: Chapter = {
               "t": "stretch",
               "w": "伸"
             }
-          ]
+          ],
+          "stretched"
         ],
         [
           "translation_word",
@@ -30918,7 +33435,8 @@ export const CHAPTER: Chapter = {
               "t": "come_out",
               "w": "出来"
             }
-          ]
+          ],
+          "out"
         ],
         [
           "punctuation",
@@ -30931,7 +33449,8 @@ export const CHAPTER: Chapter = {
               "t": "open_up",
               "w": "张"
             }
-          ]
+          ],
+          "opened"
         ],
         [
           "translation_word",
@@ -30944,7 +33463,8 @@ export const CHAPTER: Chapter = {
               "t": "hand",
               "w": "手"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -30957,7 +33477,8 @@ export const CHAPTER: Chapter = {
               "t": "Harry",
               "w": "哈利"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30966,7 +33487,8 @@ export const CHAPTER: Chapter = {
               "t": "think",
               "w": "想"
             }
-          ]
+          ],
+          "point"
         ],
         [
           "translation_word",
@@ -30975,7 +33497,8 @@ export const CHAPTER: Chapter = {
               "t": "all",
               "w": "都"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30984,7 +33507,8 @@ export const CHAPTER: Chapter = {
               "t": "not",
               "w": "没"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -30993,7 +33517,8 @@ export const CHAPTER: Chapter = {
               "t": "think",
               "w": "想"
             }
-          ]
+          ],
+          "thinking"
         ],
         [
           "translation_word",
@@ -31002,7 +33527,8 @@ export const CHAPTER: Chapter = {
               "t": "at_once",
               "w": "就"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -31011,7 +33537,8 @@ export const CHAPTER: Chapter = {
               "t": "hold",
               "w": "把"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -31020,7 +33547,8 @@ export const CHAPTER: Chapter = {
               "t": "he_or_him",
               "w": "他"
             }
-          ]
+          ],
+          "his"
         ],
         [
           "translation_word",
@@ -31029,7 +33557,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -31038,7 +33567,8 @@ export const CHAPTER: Chapter = {
               "t": "envelope",
               "w": "信封"
             }
-          ]
+          ],
+          "envelope"
         ],
         [
           "translation_word",
@@ -31047,7 +33577,8 @@ export const CHAPTER: Chapter = {
               "t": "hand_over",
               "w": "递"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -31056,7 +33587,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          "gave"
         ],
         [
           "translation_word",
@@ -31065,7 +33597,8 @@ export const CHAPTER: Chapter = {
               "t": "past",
               "w": "过去"
             }
-          ]
+          ],
+          "over"
         ],
         [
           "punctuation",
@@ -31092,7 +33625,8 @@ export const CHAPTER: Chapter = {
               "t": "at",
               "w": "在"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -31101,7 +33635,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          "me"
         ],
         [
           "translation_word",
@@ -31110,7 +33645,8 @@ export const CHAPTER: Chapter = {
               "t": "on_the_body",
               "w": "身上"
             }
-          ]
+          ],
+          "leave"
         ],
         [
           "punctuation",
@@ -31123,7 +33659,8 @@ export const CHAPTER: Chapter = {
               "t": "dear",
               "w": "亲爱"
             }
-          ]
+          ],
+          "dear"
         ],
         [
           "translation_word",
@@ -31132,7 +33669,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -31149,7 +33687,8 @@ export const CHAPTER: Chapter = {
               "t": "cost",
               "w": "费"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -31158,7 +33697,8 @@ export const CHAPTER: Chapter = {
               "t": "square",
               "w": "格"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -31167,7 +33707,8 @@ export const CHAPTER: Chapter = {
               "t": "lady",
               "w": "女士"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -31176,7 +33717,8 @@ export const CHAPTER: Chapter = {
               "t": "persuade",
               "w": "说"
             }
-          ]
+          ],
+          "said"
         ],
         [
           "punctuation",
@@ -31193,7 +33735,8 @@ export const CHAPTER: Chapter = {
               "t": "I",
               "w": "我"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -31202,7 +33745,8 @@ export const CHAPTER: Chapter = {
               "t": "a_moment",
               "w": "一会儿"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -31211,7 +33755,8 @@ export const CHAPTER: Chapter = {
               "t": "at_once",
               "w": "就"
             }
-          ]
+          ],
+          "'ll"
         ],
         [
           "translation_word",
@@ -31220,7 +33765,8 @@ export const CHAPTER: Chapter = {
               "t": "shout",
               "w": "叫"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -31229,7 +33775,8 @@ export const CHAPTER: Chapter = {
               "t": "man",
               "w": "人"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -31238,7 +33785,8 @@ export const CHAPTER: Chapter = {
               "t": "come",
               "w": "来"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -31247,7 +33795,8 @@ export const CHAPTER: Chapter = {
               "t": "hold",
               "w": "拿"
             }
-          ]
+          ],
+          "someone"
         ],
         [
           "punctuation",
@@ -31270,7 +33819,8 @@ export const CHAPTER: Chapter = {
               "t": "she",
               "w": "她"
             }
-          ]
+          ],
+          "her"
         ],
         [
           "translation_word",
@@ -31279,7 +33829,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -31288,7 +33839,8 @@ export const CHAPTER: Chapter = {
               "t": "face",
               "w": "脸"
             }
-          ]
+          ],
+          "face"
         ],
         [
           "translation_word",
@@ -31297,7 +33849,8 @@ export const CHAPTER: Chapter = {
               "t": "at",
               "w": "在"
             }
-          ]
+          ],
+          "over"
         ],
         [
           "translation_word",
@@ -31306,7 +33859,8 @@ export const CHAPTER: Chapter = {
               "t": "fence",
               "w": "栅栏"
             }
-          ]
+          ],
+          "fence"
         ],
         [
           "translation_word",
@@ -31315,7 +33869,8 @@ export const CHAPTER: Chapter = {
               "t": "other",
               "w": "另"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -31324,7 +33879,8 @@ export const CHAPTER: Chapter = {
               "t": "one",
               "w": "一"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -31333,7 +33889,8 @@ export const CHAPTER: Chapter = {
               "t": "end",
               "w": "端"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -31346,7 +33903,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -31369,7 +33927,8 @@ export const CHAPTER: Chapter = {
               "t": "lining",
               "w": "里"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -31378,7 +33937,8 @@ export const CHAPTER: Chapter = {
               "t": "quiet",
               "w": "寂静"
             }
-          ]
+          ],
+          "silence"
         ],
         [
           "translation_word",
@@ -31387,7 +33947,8 @@ export const CHAPTER: Chapter = {
               "t": "did",
               "w": "了"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -31396,7 +33957,8 @@ export const CHAPTER: Chapter = {
               "t": "good",
               "w": "好"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -31405,7 +33967,8 @@ export const CHAPTER: Chapter = {
               "t": "a_moment",
               "w": "一会儿"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -31424,7 +33987,8 @@ export const CHAPTER: Chapter = {
               "t": "catch_and_hold_on",
               "w": "接着"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -31441,7 +34005,8 @@ export const CHAPTER: Chapter = {
               "t": "individual",
               "w": "个"
             }
-          ]
+          ],
+          "a"
         ],
         [
           "translation_word",
@@ -31450,7 +34015,8 @@ export const CHAPTER: Chapter = {
               "t": "male",
               "w": "男"
             }
-          ]
+          ],
+          "boy"
         ],
         [
           "translation_word",
@@ -31459,7 +34025,8 @@ export const CHAPTER: Chapter = {
               "t": "child",
               "w": "孩"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -31468,7 +34035,8 @@ export const CHAPTER: Chapter = {
               "t": "use",
               "w": "用"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -31477,7 +34045,8 @@ export const CHAPTER: Chapter = {
               "t": "calm",
               "w": "镇静"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -31486,7 +34055,8 @@ export const CHAPTER: Chapter = {
               "t": "of",
               "w": "的"
             }
-          ]
+          ],
+          ""
         ],
         [
           "translation_word",
@@ -31495,7 +34065,8 @@ export const CHAPTER: Chapter = {
               "t": "voice",
               "w": "声音"
             }
-          ]
+          ],
+          "voice"
         ],
         [
           "translation_word",
@@ -31508,7 +34079,8 @@ export const CHAPTER: Chapter = {
               "t": "narrate",
               "w": "声说"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
@@ -31525,7 +34097,8 @@ export const CHAPTER: Chapter = {
               "t": "what?",
               "w": "什么"
             }
-          ]
+          ],
+          ""
         ],
         [
           "punctuation",
