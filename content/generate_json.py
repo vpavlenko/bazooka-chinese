@@ -76,10 +76,8 @@ while current_chapter <= CHAPTERS_TO_PROCESS:
 
     chapter_json = {
         'lines': lines_translated,
-        'frequencies': c.most_common(),
+        'frequencies': [{'word': word, 'frequency': frequency} for word, frequency in c.most_common()],
     }
 
-    print('''import { Chapter } from "./types";
-
-export const CHAPTER = ''', end='')
+    print('export const CHAPTER = ', end='')
     print(json.dumps(chapter_json, indent=2, sort_keys=True, ensure_ascii=False))

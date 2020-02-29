@@ -21,6 +21,7 @@ for line in open('cedict_ts.u8').readlines():
     if (simplified not in d and not translation.startswith('surname')
         and not translation.startswith('old_variant_of')
         and not translation.startswith('variant_of')
+        and not translation.startswith('abbr.')
         and translation):
         d[simplified] = translation
 

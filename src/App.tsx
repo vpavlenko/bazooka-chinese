@@ -32,24 +32,39 @@ function App() {
     "wordsToLearnNow",
     []
   ) as [string[], (newValue: string[]) => void];
+  const [wordsToSkip, setWordsToSkip] = useState<string[]>([]);
   let newWordToAsk = "";
+  let newWordFrequency = 0;
   const [manualKnownWord, setManualKnownWord] = useState("");
 
-  CURRENT_CHAPTER.frequencies.forEach(([word], index) => {
-    if (knownWords.indexOf(word as string) === -1) {
-      if (wordsToLearnNow.indexOf(word as string) === -1) {
-        if (newWordToAsk === "") {
-          newWordToAsk = word as string;
-        }
-      }
+  CURRENT_CHAPTER.frequencies.forEach(({ word, frequency }, index) => {
+    if (
+      knownWords.indexOf(word) === -1 &&
+      wordsToLearnNow.indexOf(word) === -1 &&
+      wordsToSkip.indexOf(word) === -1 &&
+      newWordToAsk === ""
+    ) {
+      newWordToAsk = word;
+      newWordFrequency = frequency;
     }
   });
 
   return (
     <div>
+      <div style={{ position: "fixed", right: 0 }}>
+        <Input
+          style={{ width: "20em" }}
+          placeholder="Add word to known words"
+          value={manualKnownWord}
+          onChange={event => setManualKnownWord(event.target.value)}
+          onPressEnter={() => {
+            setKnownWords(knownWords.concat([manualKnownWord]));
+            setManualKnownWord("");
+          }}
+        />
+      </div>
       <div
         style={{
-          // position: "fixed",
           paddingBottom: "2em",
           backgroundColor: "white"
         }}
@@ -67,32 +82,27 @@ function App() {
           </span>
         </div>
         <div>
-          Do you know the word <b>{newWordToAsk}</b>?
+          The word <b>{newWordToAsk}</b> has <b>{newWordFrequency}</b>{" "}
+          occurrences in this chapter.
         </div>
-        <div>
-          <Input
-            style={{ width: "20em" }}
-            placeholder="Add word to known words"
-            value={manualKnownWord}
-            onChange={event => setManualKnownWord(event.target.value)}
-            onPressEnter={() => {
-              setKnownWords(knownWords.concat([manualKnownWord]));
-              setManualKnownWord("");
-            }}
-          />
-        </div>
+
         <div>
           <Button
             onClick={() => setKnownWords(knownWords.concat([newWordToAsk]))}
           >
-            Yes
+            I know it
           </Button>{" "}
           <Button
             onClick={() =>
               setWordsToLearnNow(wordsToLearnNow.concat([newWordToAsk]))
             }
           >
-            No
+            Let's learn it
+          </Button>{" "}
+          <Button
+            onClick={() => setWordsToSkip(wordsToSkip.concat([newWordToAsk]))}
+          >
+            Skip it
           </Button>
         </div>
       </div>
@@ -101,7 +111,7 @@ function App() {
         {CURRENT_CHAPTER.lines.map(line => {
           return (
             <div key={line.chinese_source}>
-              <PaddedDiv>{line.chinese_source}</PaddedDiv>
+              <PaddedDiv>{line.chinese_source.split(' ').join('')}</PaddedDiv>
               <PaddedDiv>
                 {line.translation.map(([token_type, token_list]) => {
                   if (token_type === "punctuation") {
